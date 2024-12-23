@@ -1,0 +1,132 @@
+Debug(1): ENCOUNTER_START event fired: 711 Battleguard Sartura 186 40
+Debug(1): StartCombat called by : ENCOUNTER_START. LastInstanceMapID is 531
+Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 40 Player - , 186, 40, 0
+Debug(2): RegisterShortTermEvents fired
+Debug(2): CHAT_MSG_MONSTER_YELL from Battleguard Sartura while looking at Dps3
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): CHAT_MSG_MONSTER_YELL from Battleguard Sartura while looking at Dps7
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\watchfeet.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\watchfeet.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\watchfeet.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\watchfeet.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): UnregisterShortTermEvents fired
+Debug(2): UnregisterShortTermEvents found registered shortTermRegisterEvents
+Debug(3): unregisterUEvent for unit event UNIT_HEALTH boss1 boss2 boss3 boss4 boss5 target focus unregistered
+Debug(3): registeredEvents for event UNIT_HEALTH boss1 boss2 boss3 boss4 boss5 target focus nilled
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\watchfeet.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(1): EndCombat called by : Main CID Down. LastInstanceMapID is 531
+Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 40 Player - , 186, 40, 0
+Debug(3): UnregisterShortTermEvents fired
+Debug(1): ENCOUNTER_END event fired: 711 Battleguard Sartura 186 40 1
+Debug(1): BOSS_KILL event fired: 711 Battleguard Sartura
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
