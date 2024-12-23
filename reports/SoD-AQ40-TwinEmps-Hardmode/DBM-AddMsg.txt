@@ -1,0 +1,160 @@
+Debug(1): ENCOUNTER_START event fired: 715 Twin Emperors 186 40
+Debug(1): StartCombat called by : ENCOUNTER_START. LastInstanceMapID is 531
+Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 40 Player - , 186, 40, 0
+Debug(2): DBM.Nameplate Enabling
+Debug(2): DBM.Nameplate Disabling
+Debug(3): PlaySoundFile playing with FileDataID 8
+Debug(2): DBM.Nameplate Enabling
+Debug(2): DBM.Nameplate Disabling
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\4.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\3.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\2.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\1.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): DBM.Nameplate Enabling
+Debug(2): DBM.Nameplate Disabling
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\4.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\3.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\2.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\1.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): DBM.Nameplate Enabling
+Debug(2): DBM.Nameplate Disabling
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): DBM.Nameplate Enabling
+Debug(2): DBM.Nameplate Disabling
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\4.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\3.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\2.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\1.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): DBM.Nameplate Enabling
+Debug(2): DBM.Nameplate Disabling
+Debug(2): DBM.Nameplate Enabling
+Debug(2): DBM.Nameplate Disabling
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): DBM.Nameplate Enabling
+Debug(2): DBM.Nameplate Disabling
+Debug(2): CHAT_MSG_MONSTER_YELL from Emperor Vek'nilash while looking at Homunculus
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\4.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\3.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\2.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\1.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\4.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\3.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\2.ogg
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Core\Sounds\Corsica\1.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): DBM.Nameplate Enabling
+Debug(2): DBM.Nameplate Disabling
+Debug(1): ENCOUNTER_END event fired: 715 Twin Emperors 186 40 1
+Debug(1): EndCombat called by : ENCOUNTER_END. LastInstanceMapID is 531
+Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 40 Player - , 186, 40, 0
+Debug(2): DBM.Nameplate Disabling
+Debug(1): BOSS_KILL event fired: 715 Twin Emperors
+Debug(2): DBM.Nameplate Disabling
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired

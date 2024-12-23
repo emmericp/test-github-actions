@@ -1,0 +1,7 @@
+<DBM> Starting test: SoD/AQ40/Skeram/Hardmode
+<DBM> Timewarp >= 10, disabling sounds
+<DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+<DBM> Warning: incomplete trace of AntiSpam
+<DBM> 40 Player - The Prophet Skeram engaged. Good luck and have fun! :)
+<DBM> 40 Player - The Prophet Skeram down after 3 |4minute:minutes; and 9.39 |4second:seconds;!
+<DBM> Test playback for test SoD/AQ40/Skeram/Hardmode finished.
