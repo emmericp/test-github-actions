@@ -1,0 +1,91 @@
+name: Test actions
+run-name: Testing
+on:
+  repository_dispatch:
+    types: new-commit
+
+jobs:
+  Create-Test-Diff:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout DBM-Offline
+        uses: actions/checkout@v4
+        with:
+          repository: DeadlyBossMods/DBM-Offline
+          path: ./DBM-Offline
+      - name: Install DBM-Offline dependencies
+        shell: bash
+        run: |
+          export DEBIAN_FRONTEND=noninteractive
+          sudo apt-get update
+          sudo apt-get install -y lua5.1 luarocks subversion
+          sudo luarocks --lua-version 5.1 install bitlib
+          sudo luarocks --lua-version 5.1 install luafilesystem
+      - name: Checkout DBM main repo
+        uses: actions/checkout@v4
+        with:
+          path: ./DeadlyBossMods
+          repository: DeadlyBossMods/DeadlyBossMods
+          ref: dbm-offline-compat
+      - name: Download DBM dependencies
+        uses: BigWigsMods/packager@master
+        with:
+          args: -z -d -c -t ./DeadlyBossMods
+      - name: Install DBM dependencies
+        shell: bash
+        run: |
+          cp -r ./DeadlyBossMods/.release/DBM-Core/Libs ./DeadlyBossMods/DBM-Core/
+      - name: Checkout DBM-Vanilla
+        uses: actions/checkout@v4
+        with:
+          path: ./DBM-Vanilla
+          repository: DeadlyBossMods/DBM-Vanilla
+          ref: ${{ github.event.client_payload.commits.vanilla }}
+          fetch-depth: 2
+      - name: Run tests (base)
+        shell: bash
+        run: |
+          cd DBM-Vanilla
+          git clean -df
+          git reset --hard $(git rev-parse ${{ github.event.client_payload.commits.vanilla }}^)
+          cd ..
+          cd DBM-Offline
+          mkdir -p reports
+          lua5.1 main.lua
+          mkdir -p ../results
+          mv reports ../results/base
+      - name: Run tests
+        shell: bash
+        run: |
+          cd DBM-Vanilla
+          git clean -df
+          git reset --hard ${{ github.event.client_payload.commits.vanilla }}
+          cd ..
+          cd DBM-Offline
+          mkdir -p reports
+          lua5.1 main.lua
+          mkdir -p ../results
+          mv reports ../results/new
+      - name: Upload reports
+        shell: bash
+        run: |
+          mkdir upload-results
+          find .
+          cd upload-results
+          git init .
+          git config --global user.email "ci@deadlybossmods.com"
+          git config --global user.name "DBM CI"
+          git remote add origin https://${gh_token}@github.com/emmericp/test-github-actions
+          git checkout -b diff-commit-${{ github.event.client_payload.commits.vanilla }}
+          mv ../results/base reports
+          rm -f reports/.gitignore
+          git add reports/*
+          git commit -am "Test results before https://github.com/DBM-Vanilla/commit/${{ github.event.client_payload.commits.vanilla }}"
+          rm -rf reports/
+          mv ../results/new reports
+          rm -f reports/.gitignore
+          git add reports/*
+          git commit --allow-empty -am "Test results after https://github.com/DBM-Vanilla/commit/${{ github.event.client_payload.commits.vanilla }}"
+          git push origin diff-commit-${{ github.event.client_payload.commits.vanilla }}
+        env:
+          gh_token: ${{ secrets.GH_TOKEN }}
