@@ -1,0 +1,549 @@
+Debug(1): ENCOUNTER_START event fired: 717 C'thun 186 40
+Debug(1): StartCombat called by : ENCOUNTER_START. LastInstanceMapID is 531
+Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 40 Player - , 186, 40, 0
+Debug(1): DBM_SetStage: 1/1
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 1 of 3, found target Healer1 using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 1 of 3, found target Dps13 using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 1 of 3, found target Dps4 using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(3): Boss target scan 1 of 3, found target Dps4 using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 2 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 3 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 4 of 3, found target nil using target
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 2 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 3 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 4 of 3, found target nil using target
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\laserrun.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target Healer3 using target
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target Healer3 using target
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 2 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 3 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 4 of 3, found target nil using target
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target Healer1 using target
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target Dps14 using target
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target Dps4 using target
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 2 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 3 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 4 of 3, found target nil using target
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 2 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 3 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 4 of 3, found target nil using target
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 1 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 2 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 3 of 3, found target nil using target
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15589-0000000001 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
+Debug(3): Boss target scan 4 of 3, found target nil using target
+Debug(1): DBM_SetStage: 2/2
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-0000000084
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000084 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000084#Creature-0-1-531-1-15334-0000000084target
+Debug(3): Boss target scan 1 of 3, found target Dps12 using fakeunitid-guid-Creature-0-1-531-1-15334-0000000084
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15334-0000000084
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-0000000084
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000084 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000084#Creature-0-1-531-1-15334-0000000084target
+Debug(3): Boss target scan 1 of 3, found target Dps4 using fakeunitid-guid-Creature-0-1-531-1-15334-0000000084
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15334-0000000084
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-0000000084
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000084 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000084#Creature-0-1-531-1-15334-0000000084target
+Debug(3): Boss target scan 1 of 3, found target Dps8 using fakeunitid-guid-Creature-0-1-531-1-15334-0000000084
+Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15334-0000000084
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-000000009E nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-000000009E#Creature-0-1-531-1-15334-000000009Etarget
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-000000009E
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\targetchange.ogg
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-00000000E6
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-00000000E6 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-00000000E6
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-00000000E6 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-00000000E6
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-00000000E6 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-00000000E6
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-00000000E6 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-00000000E6
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-00000000E6
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-00000000E6 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-00000000E6
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-00000000E6 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-00000000E6
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-00000000E6 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-00000000E6
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-00000000E6 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-00000000E6#Creature-0-1-531-1-15334-00000000E6target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-00000000E6
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-0000000100
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000100 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000100
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000100 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000100
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000100 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000100
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000100 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000100
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\targetchange.ogg
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-0000000100
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000100 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000100
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000100 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000100
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000100 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000100
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000100 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000100#Creature-0-1-531-1-15334-0000000100target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000100
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(2): Boss target scan started for Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 1 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 2 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 3 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): GetBossTarget firing for :table: 0x55e4967e9cb0 Creature-0-1-531-1-15334-0000000144 nil
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(1): GetBossTarget: Creature-0-1-531-1-15334-0000000144#Creature-0-1-531-1-15334-0000000144target
+Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15334-0000000144
+Debug(3): PlaySoundFile playing with FileDataID 566558
+Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\targetchange.ogg
+Debug(1): ENCOUNTER_END event fired: 717 C'thun 186 40 1
+Debug(1): EndCombat called by : ENCOUNTER_END. LastInstanceMapID is 531
+Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 40 Player - , 186, 40, 0
+Debug(1): BOSS_KILL event fired: 717 C'thun
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired
+Debug(3): UnregisterShortTermEvents fired

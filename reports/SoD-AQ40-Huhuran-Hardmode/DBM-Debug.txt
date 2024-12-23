@@ -1,0 +1,7 @@
+<DBM> Starting test: SoD/AQ40/Huhuran/Hardmode
+<DBM> Timewarp >= 10, disabling sounds
+<DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+<DBM> 40 Player - Princess Huhuran engaged. Good luck and have fun! :)
+<DBM> Warning: incomplete trace of AntiSpam
+<DBM> 40 Player - Princess Huhuran down after 2 |4minute:minutes; and 37.39 |4second:seconds;!
+<DBM> Test playback for test SoD/AQ40/Huhuran/Hardmode finished.
