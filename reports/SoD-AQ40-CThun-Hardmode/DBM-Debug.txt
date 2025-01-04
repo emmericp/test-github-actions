@@ -53,8 +53,6 @@
 [  6.73] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
 [  6.73] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
 [  6.73] Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
-[  8.03] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 16.00] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 22.73] Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
 [ 22.73] Debug(3): GetBossTarget firing for: CThun Creature-0-1-531-1-15589-0000000001 nil
 [ 22.73] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
@@ -72,7 +70,6 @@
 [ 22.93] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
 [ 22.93] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
 [ 22.93] Debug(3): Boss target scan 4 of 3, found target nil using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
-[ 24.00] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 25.93] Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
 [ 25.93] Debug(3): GetBossTarget firing for: CThun Creature-0-1-531-1-15589-0000000001 nil
 [ 25.93] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
@@ -83,7 +80,6 @@
 [ 29.17] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
 [ 29.17] Debug(3): Boss target scan 1 of 3, found target Dps13 using fakeunitid-guid-Creature-0-1-531-1-15589-0000000001
 [ 29.17] Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
-[ 32.00] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 32.43] Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
 [ 32.43] Debug(3): GetBossTarget firing for: CThun Creature-0-1-531-1-15589-0000000001 nil
 [ 32.43] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#Creature-0-1-531-1-15589-0000000001target
@@ -111,7 +107,6 @@
 [ 39.10] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
 [ 39.10] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
 [ 39.10] Debug(3): Boss target scan 4 of 3, found target nil using target
-[ 40.03] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 42.13] Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
 [ 42.13] Debug(3): GetBossTarget firing for: CThun Creature-0-1-531-1-15589-0000000001 nil
 [ 42.13] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
@@ -129,14 +124,8 @@
 [ 42.33] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
 [ 42.33] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
 [ 42.33] Debug(3): Boss target scan 4 of 3, found target nil using target
+[ 45.00] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\laserrun.ogg
 [ 45.03] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 48.00] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\laserrun.ogg
-[ 48.03] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 56.00] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 64.00] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 72.00] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 80.00] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 88.00] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 89.07] Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
 [ 89.07] Debug(3): GetBossTarget firing for: CThun Creature-0-1-531-1-15589-0000000001 nil
 [ 89.07] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
@@ -165,7 +154,6 @@
 [ 95.73] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
 [ 95.73] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
 [ 95.73] Debug(3): Boss target scan 4 of 3, found target nil using target
-[ 96.00] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 98.80] Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
 [ 98.80] Debug(3): GetBossTarget firing for: CThun Creature-0-1-531-1-15589-0000000001 nil
 [ 98.80] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
@@ -176,7 +164,6 @@
 [102.03] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
 [102.03] Debug(3): Boss target scan 1 of 3, found target Dps14 using target
 [102.03] Debug(2): BossTargetScanner has ended for Creature-0-1-531-1-15589-0000000001
-[104.00] Debug(3): PlaySoundFile playing with FileDataID 566558
 [105.30] Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
 [105.30] Debug(3): GetBossTarget firing for: CThun Creature-0-1-531-1-15589-0000000001 nil
 [105.30] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
@@ -208,7 +195,6 @@
 [111.97] Debug(3): GetBossTarget firing for: CThun Creature-0-1-531-1-15589-0000000001 nil
 [111.97] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
 [111.97] Debug(3): Boss target scan 4 of 3, found target nil using target
-[112.00] Debug(3): PlaySoundFile playing with FileDataID 566558
 [115.00] Debug(2): Boss target scan started for Creature-0-1-531-1-15589-0000000001
 [115.00] Debug(3): GetBossTarget firing for: CThun Creature-0-1-531-1-15589-0000000001 nil
 [115.00] Debug(1): GetBossTarget: Creature-0-1-531-1-15589-0000000001#nil
