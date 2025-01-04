@@ -1,0 +1,128 @@
+[  0.00] Debug(1): ENCOUNTER_START event fired: 714 Princess Huhuran 186 40
+[  0.00] Debug(1): StartCombat called by : ENCOUNTER_START. LastInstanceMapID is 531
+[  0.00] Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+[  0.00] Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 40 Player - , 186, 40, 0
+[  6.47] Debug(3): PlaySoundFile playing with FileDataID 566558
+[  8.10] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\trannow.ogg
+[ 12.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 21.07] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 25.90] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\trannow.ogg
+[ 27.03] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 33.97] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 38.83] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 42.10] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\trannow.ogg
+[ 43.70] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 45.33] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 48.57] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 50.17] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 51.80] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 54.57] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 64.10] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 64.77] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 66.37] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\trannow.ogg
+[ 72.83] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 82.10] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 89.03] Debug(3): PlaySoundFile playing with FileDataID 566558
+[100.37] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\trannow.ogg
+[101.97] Debug(3): PlaySoundFile playing with FileDataID 566558
+[110.07] Debug(3): PlaySoundFile playing with FileDataID 566558
+[114.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[121.43] Debug(3): PlaySoundFile playing with FileDataID 566558
+[124.47] Debug(3): PlaySoundFile playing with FileDataID 566558
+[124.63] Debug(3): PlaySoundFile playing with FileDataID 566558
+[127.87] Debug(3): PlaySoundFile playing with FileDataID 566558
+[131.13] Debug(3): PlaySoundFile playing with FileDataID 566558
+[138.97] Debug(3): PlaySoundFile playing with FileDataID 566558
+[154.13] Debug(3): PlaySoundFile playing with FileDataID 566558
+[157.40] Debug(1): ENCOUNTER_END event fired: 714 Princess Huhuran 186 40 1
+[157.40] Debug(1): EndCombat called by : ENCOUNTER_END. LastInstanceMapID is 531
+[157.40] Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+[157.40] Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 40 Player - , 186, 40, 0
+[157.40] Debug(1): BOSS_KILL event fired: 714 Princess Huhuran
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
