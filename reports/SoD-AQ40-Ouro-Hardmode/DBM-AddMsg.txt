@@ -1,0 +1,22 @@
+[     ?] <DBM> Starting test: SoD/AQ40/Ouro/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 40 Player - Ouro engaged. Good luck and have fun! :)
+[ 22.63] <Ouro>  |T:12:12|t |cfff2f200Sweep|r |T:12:12|t 
+[ 24.27] <Ouro> |cffffb200[Special Warning]  |T:12:12|t Sand Blast! |T:12:12|t |r
+[ 46.87] <Ouro> |cffffb200[Special Warning]  |T:12:12|t Sand Blast! |T:12:12|t |r
+[ 53.37] <Ouro>  |T:12:12|t |cfff2f200Sweep|r |T:12:12|t 
+[ 69.53] <Ouro> |cffffb200[Special Warning]  |T:12:12|t Sand Blast! |T:12:12|t |r
+[ 84.13] <Ouro>  |T:12:12|t |cfff2f200Sweep|r |T:12:12|t 
+[ 92.23] <Ouro> |cffffb200[Special Warning]  |T:12:12|t Sand Blast! |T:12:12|t |r
+[114.83] <Ouro>  |T:12:12|t |cfff2f200Sweep|r |T:12:12|t 
+[116.47] <Ouro> |cffffb200[Special Warning]  |T:12:12|t Sand Blast! |T:12:12|t |r
+[129.43] <Ouro>  |T:12:12|t |cffff7f00Berserk|r |T:12:12|t 
+[145.63] <Ouro>  |T:12:12|t |cfff2f200Sweep|r |T:12:12|t 
+[150.50] <Ouro> |cffffb200[Special Warning]  |T:12:12|t Sand Blast! |T:12:12|t |r
+[176.33] <Ouro>  |T:12:12|t |cfff2f200Sweep|r |T:12:12|t 
+[177.87] <Ouro>  |T:12:12|t |cfff2f200Berserk soon|r |T:12:12|t 
+[177.97] <Ouro> |cffffb200[Special Warning]  |T:12:12|t Sand Blast! |T:12:12|t |r
+[194.87] <DBM> Warning: incomplete trace of AntiSpam
+[195.90] <DBM> 40 Player - Ouro down after 3 |4minute:minutes; and 14.86 |4second:seconds;!
+[198.00] <DBM> Test playback for test SoD/AQ40/Ouro/Hardmode finished.
