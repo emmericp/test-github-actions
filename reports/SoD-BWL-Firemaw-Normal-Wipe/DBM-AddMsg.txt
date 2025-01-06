@@ -1,0 +1,42 @@
+[     ?] <DBM> Starting test: SoD/BWL/Firemaw/Normal/Wipe
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 40 Player - Firemaw engaged. Good luck and have fun! :)
+[ 17.83] <Firemaw>  |T:12:12|t |cffff7f00Flame Buffet on |r|cffff7f00FakePlayer|r|cffff7f00 (4)|r |T:12:12|t 
+[ 19.43] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[ 30.93] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Wing Buffet! |T:12:12|t |r
+[ 37.27] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[ 48.60] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Static Electricity - move away from others |T:12:12|t |r
+[ 51.70] <Firemaw>  |T:12:12|t |cffff7f00Flame Buffet on |r|cffff7f00FakePlayer|r|cffff7f00 (4)|r |T:12:12|t 
+[ 55.13] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Static Electricity - move away from others |T:12:12|t |r
+[ 59.93] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[ 63.20] <Firemaw>  |T:12:12|t |cffff7f00Flame Buffet on |r|cffff7f00FakePlayer|r|cffff7f00 (6)|r |T:12:12|t 
+[ 64.80] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Wing Buffet! |T:12:12|t |r
+[ 76.13] <Firemaw>  |T:12:12|t |cffff7f00Flame Buffet on |r|cffff7f00FakePlayer|r|cffff7f00 (8)|r |T:12:12|t 
+[ 79.40] <Firemaw>  |T:12:12|t |cffff7f00Flame Buffet on |r|cffff7f00FakePlayer|r|cffff7f00 (10)|r |T:12:12|t 
+[ 81.00] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[ 98.63] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[103.70] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Wing Buffet! |T:12:12|t |r
+[115.00] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Static Electricity - move away from others |T:12:12|t |r
+[116.60] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[124.10] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Static Electricity - move away from others |T:12:12|t |r
+[127.93] <Firemaw>  |T:12:12|t |cffff7f00Flame Buffet on |r|cffff7f00FakePlayer|r|cffff7f00 (4)|r |T:12:12|t 
+[136.03] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Wing Buffet! |T:12:12|t |r
+[139.27] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[152.20] <Firemaw>  |T:12:12|t |cffff7f00Flame Buffet on |r|cffff7f00FakePlayer|r|cffff7f00 (4)|r |T:12:12|t 
+[152.20] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Static Electricity - move away from others |T:12:12|t |r
+[158.70] <Firemaw>  |T:12:12|t |cffff7f00Flame Buffet on |r|cffff7f00FakePlayer|r|cffff7f00 (6)|r |T:12:12|t 
+[158.70] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Static Electricity - move away from others |T:12:12|t |r
+[163.50] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[170.00] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Wing Buffet! |T:12:12|t |r
+[186.20] <Firemaw>  |T:12:12|t |cffff7f00Flame Buffet on |r|cffff7f00FakePlayer|r|cffff7f00 (4)|r |T:12:12|t 
+[187.80] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[205.67] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Wing Buffet! |T:12:12|t |r
+[208.90] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[220.23] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Static Electricity - move away from others |T:12:12|t |r
+[228.30] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Static Electricity - move away from others |T:12:12|t |r
+[229.93] <Firemaw>  |T:12:12|t |cffff7f00Flame Buffet on |r|cffff7f00FakePlayer|r|cffff7f00 (4)|r |T:12:12|t 
+[233.13] <Firemaw>  |T:12:12|t |cfff2f200Casting Shadow Flame: -nan sec|r |T:12:12|t 
+[237.43] <Firemaw> |cffffb200[Special Warning]  |T:12:12|t Wing Buffet! |T:12:12|t |r
+[250.97] <DBM> Combat against 40 Player - Firemaw (Unknown) ended after 4 |4minute:minutes; and 10.96 |4second:seconds;. You have 1 total wipe(s) on this difficulty.
+[254.07] <DBM> Test playback for test SoD/BWL/Firemaw/Normal/Wipe finished.

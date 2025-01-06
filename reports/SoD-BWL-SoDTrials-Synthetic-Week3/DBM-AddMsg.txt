@@ -1,0 +1,12 @@
+[     ?] <DBM> Starting test: SoD/BWL/SoDTrials/Synthetic/Week3
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  1.07] <Season of Discovery Trials> |cffffb200[Special Warning]  |T:12:12|t Blue Bomb on you |T:12:12|t |r
+[  6.07] <Season of Discovery Trials> |cffffb200[Special Warning]  |T:12:12|t Green Bomb - move away from others |T:12:12|t |r
+[  6.07] <Season of Discovery Trials>  |T:12:12|t |cffff1919Green Bomb on |r|cffff1919FakePlayer|r|cffff1919|r |T:12:12|t 
+[ 60.07] <Season of Discovery Trials> |cffffb200[Special Warning]  |T:12:12|t Blue Bomb on you |T:12:12|t |r
+[ 80.07] <Season of Discovery Trials> |cffffb200[Special Warning]  |T:12:12|t Green Bomb - move away from others |T:12:12|t |r
+[ 80.07] <Season of Discovery Trials>  |T:12:12|t |cffff1919Green Bomb on |r|cffff1919FakePlayer|r|cffff1919|r |T:12:12|t 
+[150.07] <Season of Discovery Trials> |cffffb200[Special Warning]  |T:12:12|t Green Bomb - move away from others |T:12:12|t |r
+[150.07] <Season of Discovery Trials>  |T:12:12|t |cffff1919Green Bomb on |r|cffff1919FakePlayer|r|cffff1919|r |T:12:12|t 
+[151.07] <Season of Discovery Trials> |cffffb200[Special Warning]  |T:12:12|t Blue Bomb on you |T:12:12|t |r
+[183.10] <DBM> Test playback for test SoD/BWL/SoDTrials/Synthetic/Week3 finished.

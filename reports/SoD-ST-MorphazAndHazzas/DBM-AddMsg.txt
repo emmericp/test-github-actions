@@ -1,0 +1,20 @@
+[     ?] <DBM> Starting test: SoD/ST/MorphazAndHazzas
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> Normal - Morphaz and Hazzas engaged. Good luck and have fun! :)
+[  8.10] <Morphaz and Hazzas> |cffffb200[Special Warning]  |T:12:12|t Backfire! (1) |T:12:12|t |r
+[ 12.97] <Morphaz and Hazzas>  |T:12:12|t |cffff7f00Dreamer's Lament (1)|r |T:12:12|t 
+[ 32.40] <Morphaz and Hazzas>  |T:12:12|t |cffff7f00Dreamer's Lament (2)|r |T:12:12|t 
+[ 35.63] <Morphaz and Hazzas>  |T:12:12|t |cffff7f00Animate Flame|r |T:12:12|t 
+[ 59.97] <Morphaz and Hazzas>  |T:12:12|t |cffff7f00Dreamer's Lament (3)|r |T:12:12|t 
+[ 64.83] <Morphaz and Hazzas>  |T:12:12|t |cffff7f00Dreamer's Lament (4)|r |T:12:12|t 
+[ 67.53] <Morphaz and Hazzas> |cffffb200[Special Warning]  |T:12:12|t Backfire! (2) |T:12:12|t |r
+[ 85.87] <Morphaz and Hazzas>  |T:12:12|t |cffff7f00Dreamer's Lament (5)|r |T:12:12|t 
+[ 95.67] <Morphaz and Hazzas> |cffffb200[Special Warning]  |T:12:12|t Backfire! (3) |T:12:12|t |r
+[102.10] <Morphaz and Hazzas>  |T:12:12|t |cffff7f00Dreamer's Lament (6)|r |T:12:12|t 
+[119.87] <Morphaz and Hazzas>  |T:12:12|t |cffff7f00Dreamer's Lament (7)|r |T:12:12|t 
+[122.33] <Morphaz and Hazzas> |cffffb200[Special Warning]  |T:12:12|t Backfire! (4) |T:12:12|t |r
+[132.83] <Morphaz and Hazzas>  |T:12:12|t |cffff7f00Dreamer's Lament (8)|r |T:12:12|t 
+[139.30] <Morphaz and Hazzas> |cffffb200[Special Warning]  |T:12:12|t Backfire! (5) |T:12:12|t |r
+[164.20] <DBM> Normal - Morphaz and Hazzas down after 2 |4minute:minutes; and 43.16 |4second:seconds;!
+[166.30] <DBM> Test playback for test SoD/ST/MorphazAndHazzas finished.
