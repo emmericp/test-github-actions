@@ -1,4 +1,4 @@
-Test report exactly matches test report stored in the DBM test mod.
+Test report differs from test report stored in the DBM test mod.
 
 Test: SoD/AQ40/CThun/Hardmode
 Mod:  DBM-Raids-Vanilla/CThun
@@ -7,15 +7,13 @@ Findings:
 	None
 
 Unused objects:
+	[Announce] Claw Tentacle, type=nil, spellId=<none>
 	[Special Warning] Eye Beam on you, type=you, spellId=26134
 	[Yell] Eye Beam on PlayerName, type=yell, spellId=26134
 
 Timers:
-	Claw Tentacle, time=8.00, type=cd, spellId=<none>, triggerDeltas = 0.00, 8.00, 7.99, 8.00, 8.00, 8.01, 8.00, 7.98, 7.99, 8.00, 8.00, 8.02, 8.00, 7.99, 8.00
+	Claw Tentacle, time=8.00, type=cd, spellId=<none>, triggerDeltas = 0.00
 		[  0.00] ENCOUNTER_START: 717, C'thun, 186, 40, 0
-		[  8.00] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000009, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
-			 Triggered 14x, delta times: 8.00, 7.99, 8.00, 8.00, 8.01, 8.00, 7.98, 7.99, 8.00, 8.00, 8.02, 8.00, 7.99, 8.00
-		[115.26] UNIT_DIED: [->Eye of C'Thun] "", nil, 0x0, Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, -1, false, 0, 0
 	Eye Tentacles, time=45.00, type=cd, spellId=<none>, triggerDeltas = 0.00, 45.00, 45.02, 25.24, 41.39, 29.98, 24.01, 81.67, 29.99, 14.89, 81.41, 22.05
 		[  0.00] ENCOUNTER_START: 717, C'thun, 186, 40, 0
 		[ 45.00] SPELL_CAST_SUCCESS: [Eye Tentacle: Birth] Creature-0-1-531-1-15726-000000002A, Eye Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
@@ -42,17 +40,14 @@ Timers:
 		[210.64] CHAT_MSG_MONSTER_EMOTE: %s is weakened!, C'Thun, "", "", C'Thun, "", 0, 0, "", 0, 4525, nil, 0, false, false, false, false, 0
 		[337.19] CHAT_MSG_MONSTER_EMOTE: %s is weakened!, C'Thun, "", "", C'Thun, "", 0, 0, "", 0, 4556, nil, 0, false, false, false, false, 0
 		[440.65] CHAT_MSG_MONSTER_EMOTE: %s is weakened!, C'Thun, "", "", C'Thun, "", 0, 0, "", 0, 4582, nil, 0, false, false, false, false, 0
-	Dark Glare ends, time=39.00, type=active, spellId=26029, triggerDeltas = 48.00
-		[ 48.00] Scheduled at 0.00 by ENCOUNTER_START: 717, C'thun, 186, 40, 0
-	Dark Glare, time=86.00, type=next, spellId=26029, triggerDeltas = 0.00, 48.00
+	Dark Glare ends, time=39.00, type=active, spellId=26029, triggerDeltas = 45.00
+		[ 45.00] Scheduled at 0.00 by ENCOUNTER_START: 717, C'thun, 186, 40, 0
+	Dark Glare, time=86.00, type=next, spellId=26029, triggerDeltas = 0.00, 45.00
 		[  0.00] ENCOUNTER_START: 717, C'thun, 186, 40, 0
-		[ 48.00] Scheduled at 0.00 by ENCOUNTER_START: 717, C'thun, 186, 40, 0
+		[ 45.00] Scheduled at 0.00 by ENCOUNTER_START: 717, C'thun, 186, 40, 0
 		[115.26] UNIT_DIED: [->Eye of C'Thun] "", nil, 0x0, Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, -1, false, 0, 0
 
 Announces:
-	Claw Tentacle, type=nil, spellId=<none>, triggerDeltas = 8.00, 7.99, 8.00, 8.00, 8.01, 8.00, 7.98, 7.99, 8.00, 8.00, 8.02, 8.00, 7.99, 8.00
-		[  8.00] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000009, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
-			 Triggered 14x, delta times: 8.00, 7.99, 8.00, 8.00, 8.01, 8.00, 7.98, 7.99, 8.00, 8.00, 8.02, 8.00, 7.99, 8.00
 	Eye Tentacles, type=nil, spellId=<none>, triggerDeltas = 45.00, 45.02, 66.63, 29.98, 105.68, 29.99, 96.30
 		[ 45.00] SPELL_CAST_SUCCESS: [Eye Tentacle: Birth] Creature-0-1-531-1-15726-000000002A, Eye Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 			 Triggered 7x, delta times: 45.00, 45.02, 66.63, 29.98, 105.68, 29.99, 96.30
@@ -70,15 +65,15 @@ Special warnings:
 		[210.64] CHAT_MSG_MONSTER_EMOTE: %s is weakened!, C'Thun, "", "", C'Thun, "", 0, 0, "", 0, 4525, nil, 0, false, false, false, false, 0
 		[337.19] CHAT_MSG_MONSTER_EMOTE: %s is weakened!, C'Thun, "", "", C'Thun, "", 0, 0, "", 0, 4556, nil, 0, false, false, false, false, 0
 		[440.65] CHAT_MSG_MONSTER_EMOTE: %s is weakened!, C'Thun, "", "", C'Thun, "", 0, 0, "", 0, 4582, nil, 0, false, false, false, false, 0
-	Dark Glare - dodge attack, type=dodge, spellId=26029, triggerDeltas = 48.00
-		[ 48.00] Scheduled at 0.00 by ENCOUNTER_START: 717, C'thun, 186, 40, 0
+	Dark Glare - dodge attack, type=dodge, spellId=26029, triggerDeltas = 45.00
+		[ 45.00] Scheduled at 0.00 by ENCOUNTER_START: 717, C'thun, 186, 40, 0
 
 Yells:
 	None
 
 Voice pack sounds:
 	VoicePack/laserrun
-		[ 48.00] Scheduled at 0.00 by ENCOUNTER_START: 717, C'thun, 186, 40, 0
+		[ 45.00] Scheduled at 0.00 by ENCOUNTER_START: 717, C'thun, 186, 40, 0
 	VoicePack/targetchange
 		[210.64] CHAT_MSG_MONSTER_EMOTE: %s is weakened!, C'Thun, "", "", C'Thun, "", 0, 0, "", 0, 4525, nil, 0, false, false, false, false, 0
 		[337.19] CHAT_MSG_MONSTER_EMOTE: %s is weakened!, C'Thun, "", "", C'Thun, "", 0, 0, "", 0, 4556, nil, 0, false, false, false, false, 0
@@ -94,12 +89,12 @@ Event trace:
 		StartTimer: 9.0, Claw Tentacle
 		StartTimer: 45.0, Eye Tentacles
 		StartTimer: 48.0, Dark Glare
-		ScheduleTask: mod:DarkGlare() at 48.00 (+48.00)
+		ScheduleTask: mod:DarkGlare() at 45.00 (+45.00)
 			ShowSpecialWarning: Dark Glare - dodge attack
 			PlaySound: VoicePack/laserrun
 			StartTimer: 39.0, Dark Glare ends
 			StartTimer: 86.0, Dark Glare
-			ScheduleTask: mod:DarkGlare() at 134.00 (+86.00)
+			ScheduleTask: mod:DarkGlare() at 131.00 (+86.00)
 				Unscheduled by UNIT_DIED at 115.26
 	[  0.00] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 341722, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 0.10 (+0.10)
@@ -115,30 +110,20 @@ Event trace:
 				ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 6.73 (+0.10)
 	[  8.00] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000009, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		StopTimer: TimerClawTentacle
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 15.99] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000010, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		StopTimer: TimerClawTentacle
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 22.60] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 22.70 (+0.10)
 			ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 22.80 (+0.10)
 				ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 22.90 (+0.10)
 	[ 23.99] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000018, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 25.82] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 25.92 (+0.10)
 	[ 29.05] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 29.15 (+0.10)
 	[ 31.99] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-000000001F, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 32.32] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 32.42 (+0.10)
 	[ 35.54] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
@@ -149,8 +134,6 @@ Event trace:
 				ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 39.08 (+0.10)
 	[ 40.00] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000026, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 42.01] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 42.11 (+0.10)
 			ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 42.21 (+0.10)
@@ -162,29 +145,16 @@ Event trace:
 		StartTimer: 45.0, Eye Tentacles
 	[ 48.00] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-000000002D, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 55.98] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000034, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		StopTimer: TimerClawTentacle
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 63.97] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000039, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 71.97] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-000000003E, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 79.97] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000046, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 87.99] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-000000004D, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 88.94] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 89.04 (+0.10)
 	[ 90.02] SPELL_CAST_SUCCESS: [Eye Tentacle: Birth] Creature-0-1-531-1-15726-000000004E, Eye Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
@@ -200,16 +170,12 @@ Event trace:
 				ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 95.73 (+0.10)
 	[ 95.99] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000052, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[ 98.68] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 98.78 (+0.10)
 	[101.93] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 102.03 (+0.10)
 	[103.98] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-0000000059, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[105.17] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 105.27 (+0.10)
 	[108.42] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
@@ -222,8 +188,6 @@ Event trace:
 				ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 111.95 (+0.10)
 	[111.98] SPELL_CAST_SUCCESS: [Claw Tentacle: Birth] Creature-0-1-531-1-15725-000000005F, Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15725
-		ShowAnnounce: Claw Tentacle
-		StartTimer: 8.0, Claw Tentacle
 	[114.87] SPELL_CAST_START: [Eye of C'Thun: Eye Beam] Creature-0-1-531-1-15589-0000000001, Eye of C'Thun, 0xa48, "", nil, 0x0, 26134, Eye Beam, 0, 0
 		ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 114.97 (+0.10)
 			ScheduleTask: mod:BossTargetScanner("Creature-0-1-531-1-15589-0000000001", "EyeBeamTarget", 0.1, 3.0) at 115.07 (+0.10)
@@ -232,11 +196,10 @@ Event trace:
 		ShowAnnounce: Stage 2
 		StopTimer: Timer26029next
 		StopTimer: TimerEyeTentacle
-		StopTimer: TimerClawTentacle
 		StartTimer: 40.5, Eye Tentacles
 		StartTimer: 10.5, Giant Claw Tentacle
 		StartTimer: 41.3, Giant Eye Tentacle
-		UnscheduleTask: mod:DarkGlare() scheduled by ScheduleTask at 48.00
+		UnscheduleTask: mod:DarkGlare() scheduled by ScheduleTask at 45.00
 	[126.63] SPELL_CAST_SUCCESS: [Giant Claw Tentacle: Birth] Creature-0-1-531-1-15728-000000006B, Giant Claw Tentacle, 0xa48, "", nil, 0x0, 26586, Birth, 0, 0
 		AntiSpam: 15728
 		ShowAnnounce: Giant Claw Tentacle
