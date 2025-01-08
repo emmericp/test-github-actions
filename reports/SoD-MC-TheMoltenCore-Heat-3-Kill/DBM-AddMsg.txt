@@ -1,0 +1,3 @@
+[     ?] <DBM> Starting test: SoD/MC/TheMoltenCore/Heat-3/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[130.07] <DBM> Test playback for test SoD/MC/TheMoltenCore/Heat-3/Kill finished.
