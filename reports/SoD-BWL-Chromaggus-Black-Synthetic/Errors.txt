@@ -1,0 +1,24 @@
+[  0.00] ...lyBossMods/DBM-Core/modules/objects/Difficulties.lua:433: attempt to concatenate local 'difficultyName' (a nil value)
+stack traceback:
+	...lyBossMods/DBM-Core/modules/objects/Difficulties.lua:433: in function 'GetCurrentInstanceDifficulty'
+	...lyBossMods/DBM-Core/modules/objects/Difficulties.lua:137: in function 'RefreshCache'
+	../DeadlyBossMods/DBM-Core/DBM-Core.lua:5853: in function 'StartCombat'
+	../DeadlyBossMods/DBM-Core/DBM-Core.lua:5442: in function 'handler'
+	../DeadlyBossMods/DBM-Core/DBM-Core.lua:1071: in function 'mainEventHandler'
+	../DeadlyBossMods/DBM-Test/Runner.lua:594: in function <../DeadlyBossMods/DBM-Test/Runner.lua:509>
+	(tail call): ?
+	[C]: in function 'oldxpcall'
+	./env/debuglib.lua:28: in function 'xpcall'
+	../DeadlyBossMods/DBM-Test/Runner.lua:808: in function <../DeadlyBossMods/DBM-Test/Runner.lua:711>
+[230.00] ...lyBossMods/DBM-Core/modules/objects/Difficulties.lua:433: attempt to concatenate local 'difficultyName' (a nil value)
+stack traceback:
+	...lyBossMods/DBM-Core/modules/objects/Difficulties.lua:433: in function 'GetCurrentInstanceDifficulty'
+	...lyBossMods/DBM-Core/modules/objects/Difficulties.lua:137: in function 'RefreshCache'
+	../DeadlyBossMods/DBM-Core/DBM-Core.lua:6192: in function 'EndCombat'
+	../DeadlyBossMods/DBM-Core/DBM-Core.lua:5477: in function 'handler'
+	../DeadlyBossMods/DBM-Core/DBM-Core.lua:1071: in function 'mainEventHandler'
+	../DeadlyBossMods/DBM-Test/Runner.lua:594: in function <../DeadlyBossMods/DBM-Test/Runner.lua:509>
+	(tail call): ?
+	[C]: in function 'oldxpcall'
+	./env/debuglib.lua:28: in function 'xpcall'
+	../DeadlyBossMods/DBM-Test/Runner.lua:808: in function <../DeadlyBossMods/DBM-Test/Runner.lua:711>

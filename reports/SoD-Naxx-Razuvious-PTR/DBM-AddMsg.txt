@@ -1,0 +1,22 @@
+[     ?] <DBM> Starting test: SoD/Naxx/Razuvious/PTR
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> Warning: incomplete trace of AntiSpam
+[  0.00] <DBM> Heroic - Instructor Razuvious engaged. Good luck and have fun! :)
+[ 19.00] <Instructor Razuvious>  |T:12:12|t |cffff7f00Disrupting Shout soon|r |T:12:12|t 
+[ 26.27] <Instructor Razuvious>  |T:12:12|t |cff68ccefDisrupting Shout|r |T:12:12|t 
+[ 46.30] <Instructor Razuvious>  |T:12:12|t |cffff7f00Disrupting Shout soon|r |T:12:12|t 
+[ 50.47] <Instructor Razuvious>  |T:12:12|t |cffff7f00Shield Wall ends in 5 seconds|r |T:12:12|t 
+[ 52.20] <Instructor Razuvious>  |T:12:12|t |cff68ccefDisrupting Shout|r |T:12:12|t 
+[ 72.23] <Instructor Razuvious>  |T:12:12|t |cffff7f00Disrupting Shout soon|r |T:12:12|t 
+[ 77.70] <Instructor Razuvious>  |T:12:12|t |cff68ccefDisrupting Shout|r |T:12:12|t 
+[ 97.73] <Instructor Razuvious>  |T:12:12|t |cffff7f00Disrupting Shout soon|r |T:12:12|t 
+[103.60] <Instructor Razuvious>  |T:12:12|t |cff68ccefDisrupting Shout|r |T:12:12|t 
+[123.63] <Instructor Razuvious>  |T:12:12|t |cffff7f00Disrupting Shout soon|r |T:12:12|t 
+[129.50] <Instructor Razuvious>  |T:12:12|t |cff68ccefDisrupting Shout|r |T:12:12|t 
+[149.53] <Instructor Razuvious>  |T:12:12|t |cffff7f00Disrupting Shout soon|r |T:12:12|t 
+[155.83] <Instructor Razuvious>  |T:12:12|t |cff68ccefDisrupting Shout|r |T:12:12|t 
+[175.87] <Instructor Razuvious>  |T:12:12|t |cffff7f00Disrupting Shout soon|r |T:12:12|t 
+[184.43] <DBM> DBM is still reporting in combat, waiting for 3 more seconds
+[184.83] <DBM> Combat against Heroic - Instructor Razuvious (Unknown) ended after 3 |4minute:minutes; and 4.83 |4second:seconds;. You have 1 total wipe(s) on this difficulty.
+[187.57] <DBM> Test playback for test SoD/Naxx/Razuvious/PTR finished.

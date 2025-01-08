@@ -1,0 +1,11 @@
+[     ?] <DBM> Starting test: SoD/ST/Atalalarion
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> Normal - Atal'alarion engaged. Good luck and have fun! :)
+[  6.33] <Atal'alarion>  |T:12:12|t |cffff7f00Pillars of Might (1)|r |T:12:12|t 
+[ 19.67] <Atal'alarion>  |T:12:12|t |cffff7f00Pillars of Might (2)|r |T:12:12|t 
+[ 24.17] <Atal'alarion> |cffffb200[Special Warning]  |T:12:12|t Demolishing Smash! (1) |T:12:12|t |r
+[ 31.67] <Atal'alarion>  |T:12:12|t |cffff7f00Pillars of Might (3)|r |T:12:12|t 
+[ 45.20] <Atal'alarion>  |T:12:12|t |cffff7f00Pillars of Might (4)|r |T:12:12|t 
+[ 47.73] <DBM> Normal - Atal'alarion down after 46.69 |4second:seconds;!
+[ 49.83] <DBM> Test playback for test SoD/ST/Atalalarion finished.
