@@ -1,0 +1,33 @@
+[     ?] <DBM> Starting test: SoD/AQ20/Rajaxx/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player - General Rajaxx engaged. Good luck and have fun! :)
+[  6.50] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[ 36.50] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[ 66.50] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[ 70.00] <General Rajaxx>  |T:12:12|t |cffff7f00Attack Order on |r|cffff7f00Kaldorei Elite|r|cffff7f00|r |T:12:12|t 
+[102.73] <General Rajaxx>  |T136116:12:12|t |cfff2f200Wave 3|r |T136116:12:12|t 
+[120.23] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[125.03] <General Rajaxx>  |T:12:12|t |cfff2f200Lightning Cloud|r |T:12:12|t 
+[146.10] <General Rajaxx>  |T:12:12|t |cfff2f200Lightning Cloud|r |T:12:12|t 
+[149.13] <General Rajaxx>  |T136116:12:12|t |cfff2f200Wave 4|r |T136116:12:12|t 
+[150.23] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[180.23] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[210.20] <General Rajaxx>  |T136116:12:12|t |cfff2f200Wave 5|r |T136116:12:12|t 
+[210.23] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[240.23] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[270.23] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[273.47] <General Rajaxx>  |T136116:12:12|t |cfff2f200Wave 6|r |T136116:12:12|t 
+[300.27] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[330.23] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[340.90] <General Rajaxx>  |T136116:12:12|t |cfff2f200Wave 7|r |T136116:12:12|t 
+[360.23] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[390.23] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[399.10] <General Rajaxx>  |T136116:12:12|t |cfff2f200Wave 8|r |T136116:12:12|t 
+[410.40] <General Rajaxx>  |T:12:12|t |cfff2f200Thundercrash|r |T:12:12|t 
+[420.27] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[434.73] <General Rajaxx>  |T:12:12|t |cfff2f200Thundercrash|r |T:12:12|t 
+[450.23] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[455.77] <General Rajaxx>  |T:12:12|t |cfff2f200Thundercrash|r |T:12:12|t 
+[462.87] <DBM> 20 Player - General Rajaxx down after 7 |4minute:minutes; and 41.83 |4second:seconds;!
+[465.00] <DBM> Test playback for test SoD/AQ20/Rajaxx/Hardmode finished.

@@ -1,0 +1,3 @@
+[     ?] <DBM> Starting test: SoD/WorldBosses/Ysondre/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[399.60] <DBM> Test playback for test SoD/WorldBosses/Ysondre/Kill finished.

@@ -1,0 +1,16 @@
+[     ?] <DBM> Starting test: SoD/AQ20/Buru/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player - Buru the Gorger engaged. Good luck and have fun! :)
+[  0.23] <Buru the Gorger>  |T:12:12|t |cffff7f00Pursue on |r|cffff7f00Unknown|r|cffff7f00|r |T:12:12|t 
+[ 19.63] <Buru the Gorger>  |T:12:12|t |cffff7f00Pursue on |r|cffff7f00Unknown|r|cffff7f00|r |T:12:12|t 
+[ 27.60] <Buru the Gorger>  |T:12:12|t |cffff7f00Dismember on |r|cffff7f00Tank1|r|cffff7f00 (1)|r |T:12:12|t 
+[ 37.83] <Buru the Gorger>  |T:12:12|t |cffff7f00Dismember on |r|cffff7f00Tank1|r|cffff7f00 (1)|r |T:12:12|t 
+[ 46.47] <Buru the Gorger>  |T:12:12|t |cffff7f00Dismember on |r|cffff7f00Tank1|r|cffff7f00 (2)|r |T:12:12|t 
+[ 50.77] <Buru the Gorger>  |T:12:12|t |cffff7f00Pursue on |r|cffff7f00Unknown|r|cffff7f00|r |T:12:12|t 
+[ 59.30] <AQ20 Trash> |cffffb200[Special Warning]  |T:12:12|t Toxic Pool damage - move away |T:12:12|t |r
+[ 71.40] <Buru the Gorger>  |T:12:12|t |cffff7f00Pursue on |r|cffff7f00Unknown|r|cffff7f00|r |T:12:12|t 
+[ 76.17] <Buru the Gorger>  |T:12:12|t |cffff7f00Pursue on |r|cffff7f00Unknown|r|cffff7f00|r |T:12:12|t 
+[ 91.07] <AQ20 Trash> |cffffb200[Special Warning]  |T:12:12|t Toxic Pool damage - move away |T:12:12|t |r
+[101.20] <DBM> 20 Player - Buru the Gorger down after 1 |4minute:minutes; and 40.16 |4second:seconds;!
+[103.30] <DBM> Test playback for test SoD/AQ20/Buru/Hardmode finished.

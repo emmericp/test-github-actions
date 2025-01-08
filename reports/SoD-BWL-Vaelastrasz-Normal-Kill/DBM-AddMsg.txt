@@ -1,0 +1,39 @@
+[     ?] <DBM> Starting test: SoD/BWL/Vaelastrasz/Normal/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 40 Player - Vaelastrasz the Corrupt engaged. Good luck and have fun! :)
+[  3.43] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[  9.93] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 13.20] <Vaelastrasz the Corrupt> |cffffb200[Special Warning]  |T:12:12|t Burning Adrenaline on you |T:12:12|t |r
+[ 16.40] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 21.23] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps8|r|cfff2f200|r |T:12:12|t 
+[ 22.87] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps4|r|cfff2f200|r |T:12:12|t 
+[ 24.47] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 30.97] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 34.20] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps12|r|cfff2f200|r |T:12:12|t 
+[ 35.80] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps9|r|cfff2f200|r |T:12:12|t 
+[ 40.60] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 41.20] <Vaelastrasz the Corrupt> |cffffb200[Special Warning]  |T:12:12|t Burning Adrenaline - move away from others |T:12:12|t |r
+[ 47.10] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps7|r|cfff2f200|r |T:12:12|t 
+[ 48.70] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 51.17] <Vaelastrasz the Corrupt> |cffffb200[Special Warning]  |T:12:12|t Burning Adrenaline - move away from others |T:12:12|t |r
+[ 51.97] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps1|r|cfff2f200|r |T:12:12|t 
+[ 58.43] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 61.17] <Vaelastrasz the Corrupt> |cffffb200[Special Warning]  |T:12:12|t Burning Adrenaline - move away from others |T:12:12|t |r
+[ 64.90] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 68.13] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps3|r|cfff2f200|r |T:12:12|t 
+[ 69.73] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps10|r|cfff2f200|r |T:12:12|t 
+[ 71.37] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 77.83] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 82.67] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps13|r|cfff2f200|r |T:12:12|t 
+[ 85.93] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps2|r|cfff2f200|r |T:12:12|t 
+[ 87.57] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[ 95.70] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps6|r|cfff2f200|r |T:12:12|t 
+[ 97.30] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Dps11|r|cfff2f200|r |T:12:12|t 
+[100.53] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[107.03] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Healer3|r|cfff2f200|r |T:12:12|t 
+[110.23] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[118.37] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Casting Flame Breath: -nan sec|r |T:12:12|t 
+[121.60] <Vaelastrasz the Corrupt>  |T:12:12|t |cfff2f200Burning Adrenaline on |r|cfff2f200Healer1|r|cfff2f200|r |T:12:12|t 
+[124.47] <DBM> 40 Player - Vaelastrasz the Corrupt down after 2 |4minute:minutes; and 3.46 |4second:seconds;!
+[126.57] <DBM> Test playback for test SoD/BWL/Vaelastrasz/Normal/Kill finished.
