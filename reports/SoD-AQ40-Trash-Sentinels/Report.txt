@@ -51,22 +51,11 @@ Unused objects:
 	[Yell] {rt%1$d}{rt%1$d}{rt%1$d}, type=icontarget, spellId=1215202
 
 Timers:
-	Thunderclap, time=7.00, type=nextnp, spellId=26554, triggerDeltas = 32.07, 0.01, 0.00, 7.00, 0.00, 0.00, 7.01, 6.98, 0.00, 7.01, 0.00, 7.01, 0.00, 0.00, 6.99, 0.00, 7.00, 0.00, 7.01, 0.00, 0.00, 0.00, 6.99, 0.00, 0.00, 7.00, 0.00, 0.01, 6.98, 0.00, 0.00, 7.01, 0.00, 0.00, 0.00, 0.00, 7.00, 0.00, 0.01, 0.00, 0.00, 12.74, 0.00, 0.00, 0.00, 75.82, 0.00, 0.01, 6.99, 7.01, 0.03, 0.00, 0.00, 6.97, 0.00, 0.00, 6.99, 7.01, 0.00, 0.00, 0.00, 0.00, 7.00, 0.00, 0.00, 0.00, 0.00, 0.01, 6.98, 7.00, 0.00, 0.00, 0.01, 0.00, 6.99, 0.00, 0.00, 0.00, 0.00, 0.01, 7.00, 0.00, 0.00, 0.00, 0.00, 0.00, 7.00, 0.01, 0.00, 0.00, 0.01, 0.00, 0.00, 7.00, 0.00, 0.00, 0.00, 13.11, 0.00, 0.00
+	Thunderclap, time=7.00, type=nextnp, spellId=26554, triggerDeltas = 32.07, 7.01, 7.01, 6.98, 7.01, 7.01, 6.99, 7.00, 7.01, 6.99, 7.00, 6.99, 7.01, 7.00, 12.75, 75.82, 7.00, 7.01, 7.00, 6.99, 7.01, 7.00, 6.99, 7.00, 7.00, 7.01, 7.00, 7.02, 13.11
 		[ 32.07] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-			 Triggered 39x, delta times: 32.07, 0.01, 7.00, 7.01, 6.98, 7.01, 7.01, 6.99, 7.00, 7.01, 6.99, 7.00, 0.01, 6.98, 7.01, 0.00, 7.00, 0.01, 12.74, 75.82, 7.00, 7.01, 0.03, 6.97, 6.99, 7.01, 7.00, 6.99, 7.00, 0.01, 6.99, 0.00, 7.01, 0.00, 7.00, 0.01, 0.01, 7.00, 13.11
-		[ 32.08] SPELL_DAMAGE: [Anubisath Sentinel->Dps1: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, Player-1-00000001, Dps1, 0x512, 8732, Thunderclap, 0, 0
-			 Triggered 8x, delta times: 32.08, 7.00, 186.61, 6.97, 14.00, 7.01, 13.99, 7.00
+			 Triggered 27x, delta times: 32.07, 7.01, 7.01, 6.98, 7.01, 7.01, 6.99, 7.00, 14.00, 7.00, 6.99, 7.01, 7.00, 12.75, 75.82, 7.00, 7.01, 7.00, 6.99, 7.01, 7.00, 6.99, 7.00, 7.00, 14.01, 7.02, 13.11
 		[ 88.09] SPELL_DAMAGE: [Anubisath Sentinel->Pet1: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, Pet-0-1-531-1-416-0000000001, Pet1, 0x1112, 8732, Thunderclap, 0, 0
-		[116.08] SPELL_DAMAGE: [Anubisath Sentinel->Tank2: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, Player-1-00000011, Tank2, 0x512, 8732, Thunderclap, 0, 0
-		[211.66] SPELL_DAMAGE: [Anubisath Sentinel->Dps2: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000002, Dps2, 0x512, 8732, Thunderclap, 0, 0
-		[274.65] SPELL_DAMAGE: [Anubisath Sentinel->Dps9: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000012, Dps9, 0x512, 8732, Thunderclap, 0, 0
 		[281.66] SPELL_DAMAGE: [Anubisath Sentinel->Dps14: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000020, Dps14, 0x512, 8732, Thunderclap, 0, 0
-		[281.66] SPELL_DAMAGE: [Anubisath Sentinel->Healer4: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000019, Healer4, 0x511, 8732, Thunderclap, 0, 0
-		[281.66] SPELL_DAMAGE: [Anubisath Sentinel->Healer3: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000018, Healer3, 0x512, 8732, Thunderclap, 0, 0
-		[281.66] SPELL_DAMAGE: [Anubisath Sentinel->Dps5: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000006, Dps5, 0x512, 8732, Thunderclap, 0, 0
-		[288.67] SPELL_DAMAGE: [Anubisath Sentinel->Treant: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Creature-0-1-531-1-204346-00000001C3, Treant, 0xa48, 8732, Thunderclap, 0, 0
-		[288.68] SPELL_DAMAGE: [Anubisath Sentinel->Tank1: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000007, Tank1, 0x512, 8732, Thunderclap, 0, 0
-		[288.68] SPELL_DAMAGE: [Anubisath Sentinel->Dps4: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000004, Dps4, 0x512, 8732, Thunderclap, 0, 0
 
 Announces:
 	None
@@ -88,185 +77,139 @@ Event trace:
 		RegisterEvents: Regular, ENCOUNTER_END, SPELL_AURA_APPLIED 26556 25698 26079 1215202 1215421 24573 2855, SPELL_AURA_REMOVED 26556, SPELL_CAST_SUCCESS 26586 26073, SPELL_CAST_START 26069 26070 26071 26072, SPELL_DAMAGE 26555 26558 26554 25779 26546 24340 8732, SPELL_PERIODIC_DAMAGE 1215421, SPELL_SUMMON 17430 17431, SPELL_MISSED, UNIT_DIED, PLAYER_TARGET_CHANGED, NAME_PLATE_UNIT_ADDED
 	[ 32.07] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
 		ModTrace: DetectAbility, Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[ 32.08] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[ 32.08] SPELL_DAMAGE: [Anubisath Sentinel->Dps1: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, Player-1-00000001, Dps1, 0x512, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 2x SPELL_DAMAGE at 32.08, 32.08
 		StartTimer: 7.0, Thunderclap
 	[ 35.38] SPELL_DAMAGE: [Anubisath Sentinel->Healer1: Shadow Storm] Creature-0-1-531-1-15264-00000002A6, Anubisath Sentinel, 0xa48, Player-1-00000005, Healer1, 0x512, 26546, Shadow Storm, 0, 0
 		ModTrace: DetectAbility, Creature-0-1-531-1-15264-00000002A6, Anubisath Sentinel, ShadowStorm
 	[ 39.08] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[ 39.08] SPELL_DAMAGE: [Anubisath Sentinel->Dps1: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, Player-1-00000001, Dps1, 0x512, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 2x SPELL_DAMAGE at 39.08, 39.08
 		StartTimer: 7.0, Thunderclap
 	[ 46.09] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
 		StartTimer: 7.0, Thunderclap
 	[ 53.07] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 1x SPELL_DAMAGE at 53.07
 		StartTimer: 7.0, Thunderclap
 	[ 60.08] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 1x SPELL_DAMAGE at 60.08
 		StartTimer: 7.0, Thunderclap
 	[ 67.09] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 2x SPELL_DAMAGE at 67.09, 67.09
 		StartTimer: 7.0, Thunderclap
 	[ 67.26] UNIT_DIED: [->Anubisath Sentinel] "", nil, 0x0, Creature-0-1-531-1-15264-00000002A6, Anubisath Sentinel, 0xa48, -1, false, 0, 0
 		ModTrace: StopTracking, Creature-0-1-531-1-15264-00000002A6
 	[ 74.08] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 1x SPELL_DAMAGE at 74.08
 		StartTimer: 7.0, Thunderclap
 	[ 77.51] SPELL_DAMAGE: [Anubisath Sentinel->Dps10: Shadow Storm] Creature-0-1-531-1-15264-00000002ED, Anubisath Sentinel, 0xa48, Player-1-00000013, Dps10, 0x512, 26546, Shadow Storm, 0, 0
 		ModTrace: DetectAbility, Creature-0-1-531-1-15264-00000002ED, Anubisath Sentinel, ShadowStorm
 	[ 81.08] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 1x SPELL_DAMAGE at 81.08
 		StartTimer: 7.0, Thunderclap
 	[ 88.09] SPELL_DAMAGE: [Anubisath Sentinel->Pet1: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, Pet-0-1-531-1-416-0000000001, Pet1, 0x1112, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[ 88.09] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 3x SPELL_DAMAGE at 88.09, 88.09, 88.09
 		StartTimer: 7.0, Thunderclap
 	[ 95.08] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 2x SPELL_DAMAGE at 95.08, 95.08
 		StartTimer: 7.0, Thunderclap
 	[102.08] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[102.09] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 2x SPELL_DAMAGE at 102.08, 102.09
 		StartTimer: 7.0, Thunderclap
 	[109.07] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[116.08] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[116.08] SPELL_DAMAGE: [Anubisath Sentinel->Tank2: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, Player-1-00000011, Tank2, 0x512, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 2x SPELL_DAMAGE at 109.07, 109.07
 		StartTimer: 7.0, Thunderclap
 	[116.08] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 4x SPELL_DAMAGE at 116.08, 116.08, 116.08, 116.08
 		StartTimer: 7.0, Thunderclap
 	[123.08] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[123.09] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000216
+			Filtered: 4x SPELL_DAMAGE at 123.08, 123.09, 123.09, 123.09
 		StartTimer: 7.0, Thunderclap
 	[128.84] UNIT_DIED: [->Anubisath Sentinel] "", nil, 0x0, Creature-0-1-531-1-15264-0000000216, Anubisath Sentinel, 0xa48, -1, false, 0, 0
 		ModTrace: StopTracking, Creature-0-1-531-1-15264-0000000216
 	[135.83] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-00000002ED, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
 		ModTrace: DetectAbility, Creature-0-1-531-1-15264-00000002ED, Anubisath Sentinel, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-00000002ED
+			Filtered: 3x SPELL_DAMAGE at 135.83, 135.83, 135.83
 		StartTimer: 7.0, Thunderclap
 	[141.65] UNIT_DIED: [->Anubisath Sentinel] "", nil, 0x0, Creature-0-1-531-1-15264-00000002ED, Anubisath Sentinel, 0xa48, -1, false, 0, 0
 		ModTrace: StopTracking, Creature-0-1-531-1-15264-00000002ED
 	[211.65] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
 		ModTrace: DetectAbility, Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[211.66] SPELL_DAMAGE: [Anubisath Sentinel->Dps2: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000002, Dps2, 0x512, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
+			Filtered: 2x SPELL_DAMAGE at 211.65, 211.66
 		StartTimer: 7.0, Thunderclap
 	[215.66] SPELL_DAMAGE: [Anubisath Sentinel: Mana Burn] Creature-0-1-531-1-15264-00000001D1, Anubisath Sentinel, 0xa48, "", nil, 0x0, 25779, Mana Burn, 0, 0
 		ModTrace: DetectAbility, Creature-0-1-531-1-15264-00000001D1, Anubisath Sentinel, ManaBurn
 	[218.65] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
 		StartTimer: 7.0, Thunderclap
 	[225.66] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[225.69] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[225.69] SPELL_DAMAGE: [Anubisath Sentinel->Dps1: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000001, Dps1, 0x512, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
+			Filtered: 3x SPELL_DAMAGE at 225.69, 225.69, 225.69
 		StartTimer: 7.0, Thunderclap
 	[232.66] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[232.66] SPELL_DAMAGE: [Anubisath Sentinel->Dps1: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000001, Dps1, 0x512, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
+			Filtered: 2x SPELL_DAMAGE at 232.66, 232.66
 		StartTimer: 7.0, Thunderclap
 	[239.65] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
 		StartTimer: 7.0, Thunderclap
 	[246.66] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[246.66] SPELL_DAMAGE: [Anubisath Sentinel->Dps1: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000001, Dps1, 0x512, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
+			Filtered: 4x SPELL_DAMAGE at 246.66, 246.66, 246.66, 246.66
 		StartTimer: 7.0, Thunderclap
 	[253.66] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[253.67] SPELL_DAMAGE: [Anubisath Sentinel->Dps1: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000001, Dps1, 0x512, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
+			Filtered: 5x SPELL_DAMAGE at 253.66, 253.66, 253.66, 253.66, 253.67
 		StartTimer: 7.0, Thunderclap
 	[260.65] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
 		StartTimer: 7.0, Thunderclap
 	[265.91] UNIT_DIED: [->Anubisath Sentinel] "", nil, 0x0, Creature-0-1-531-1-15264-00000001D1, Anubisath Sentinel, 0xa48, -1, false, 0, 0
 		ModTrace: StopTracking, Creature-0-1-531-1-15264-00000001D1
 	[267.65] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[267.66] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[267.66] SPELL_DAMAGE: [Anubisath Sentinel->Dps1: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000001, Dps1, 0x512, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
+			Filtered: 4x SPELL_DAMAGE at 267.65, 267.65, 267.66, 267.66
 		StartTimer: 7.0, Thunderclap
 	[274.65] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[274.65] SPELL_DAMAGE: [Anubisath Sentinel->Dps9: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000012, Dps9, 0x512, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[274.65] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[274.66] SPELL_DAMAGE: [Anubisath Sentinel->Dps1: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000001, Dps1, 0x512, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
+			Filtered: 5x SPELL_DAMAGE at 274.65, 274.65, 274.65, 274.65, 274.66
 		StartTimer: 7.0, Thunderclap
 	[276.89] SPELL_DAMAGE: [Anubisath Sentinel: Mana Burn] Creature-0-1-531-1-15264-00000000F6, Anubisath Sentinel, 0xa48, "", nil, 0x0, 25779, Mana Burn, 0, 0
 		ModTrace: DetectAbility, Creature-0-1-531-1-15264-00000000F6, Anubisath Sentinel, ManaBurn
 	[276.89] SPELL_DAMAGE: [Anubisath Sentinel: Mana Burn] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 25779, Mana Burn, 0, 0
 		ModTrace: DetectAbility, Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, ManaBurn
 	[281.66] SPELL_DAMAGE: [Anubisath Sentinel->Dps14: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000020, Dps14, 0x512, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[281.66] SPELL_DAMAGE: [Anubisath Sentinel->Healer4: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000019, Healer4, 0x511, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[281.66] SPELL_DAMAGE: [Anubisath Sentinel->Healer3: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000018, Healer3, 0x512, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[281.66] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[281.66] SPELL_DAMAGE: [Anubisath Sentinel->Dps5: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000006, Dps5, 0x512, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[281.66] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
+			Filtered: 5x SPELL_DAMAGE at 281.66, 281.66, 281.66, 281.66, 281.66
 		StartTimer: 7.0, Thunderclap
 	[288.66] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[288.67] SPELL_DAMAGE: [Anubisath Sentinel->Treant: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Creature-0-1-531-1-204346-00000001C3, Treant, 0xa48, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[288.67] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-	[288.68] SPELL_DAMAGE: [Anubisath Sentinel->Tank1: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000007, Tank1, 0x512, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[288.68] SPELL_DAMAGE: [Anubisath Sentinel->Dps4: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, Player-1-00000004, Dps4, 0x512, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-	[288.68] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
+			Filtered: 6x SPELL_DAMAGE at 288.67, 288.67, 288.67, 288.68, 288.68, 288.68
 		StartTimer: 7.0, Thunderclap
 	[295.68] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-0000000001
+			Filtered: 3x SPELL_DAMAGE at 295.68, 295.68, 295.68
 		StartTimer: 7.0, Thunderclap
 	[301.79] UNIT_DIED: [->Anubisath Sentinel] "", nil, 0x0, Creature-0-1-531-1-15264-0000000001, Anubisath Sentinel, 0xa48, -1, false, 0, 0
 		ModTrace: StopTracking, Creature-0-1-531-1-15264-0000000001
 	[308.79] SPELL_DAMAGE: [Anubisath Sentinel: Thunderclap] Creature-0-1-531-1-15264-00000000F6, Anubisath Sentinel, 0xa48, "", nil, 0x0, 8732, Thunderclap, 0, 0
 		ModTrace: DetectAbility, Creature-0-1-531-1-15264-00000000F6, Anubisath Sentinel, Thunderclap
-		StartTimer: 7.0, Thunderclap
-		StartTimer: 7.0, Thunderclap
+		AntiSpam: Thunderclap on Creature-0-1-531-1-15264-00000000F6
+			Filtered: 2x SPELL_DAMAGE at 308.79, 308.79
 		StartTimer: 7.0, Thunderclap
 	[309.30] UNIT_DIED: [->Anubisath Sentinel] "", nil, 0x0, Creature-0-1-531-1-15264-00000000F6, Anubisath Sentinel, 0xa48, -1, false, 0, 0
 		ModTrace: StopTracking, Creature-0-1-531-1-15264-00000000F6
