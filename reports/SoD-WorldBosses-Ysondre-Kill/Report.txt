@@ -1,0 +1,40 @@
+Test report differs from test report stored in the DBM test mod.
+
+Test: SoD/WorldBosses/Ysondre/Kill
+Mod:  DBM-Azeroth/YsondreVanilla
+
+Findings:
+	None
+
+Unused objects:
+	[Announce] Noxious Breath on >%s< (%d), type=stack, spellId=24818
+	[Announce] Lightning Wave, type=spell, spellId=24819
+	[Announce] Divergent Lightning on >%s<, type=target, spellId=1214136
+	[Special Warning] Seeping Fog - dodge attack, type=dodge, spellId=24814
+	[Special Warning] Divergent Lightning - soak it, type=soak, spellId=1214136
+	[Timer] Seeping Fog, time=16.00, type=cd, spellId=24814
+	[Timer] Lightning Wave, time=13.40, type=cd, spellId=24819
+	[Timer] Divergent Lightning, time=-nan, type=cast, spellId=1214136
+	[Yell] %d, type=shortfade, spellId=1214136
+	[Yell] Divergent Lightning on PlayerName, type=yell, spellId=1214136
+
+Timers:
+	None
+
+Announces:
+	None
+
+Special warnings:
+	None
+
+Yells:
+	None
+
+Voice pack sounds:
+	None
+
+Icons:
+	None
+
+Event trace:
+

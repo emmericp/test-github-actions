@@ -1,0 +1,38 @@
+[     ?] <DBM> Starting test: SoD/BWL/Razorgore/Heroic/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[ 93.93] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (1/30)|r |T:12:12|t 
+[104.10] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (2/30)|r |T:12:12|t 
+[114.30] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (3/30)|r |T:12:12|t 
+[124.43] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (4/30)|r |T:12:12|t 
+[134.60] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (5/30)|r |T:12:12|t 
+[144.77] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (6/30)|r |T:12:12|t 
+[154.83] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (7/30)|r |T:12:12|t 
+[165.10] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (8/30)|r |T:12:12|t 
+[175.30] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (9/30)|r |T:12:12|t 
+[230.23] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (10/30)|r |T:12:12|t 
+[240.47] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (11/30)|r |T:12:12|t 
+[250.90] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (12/30)|r |T:12:12|t 
+[260.97] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (13/30)|r |T:12:12|t 
+[271.10] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (14/30)|r |T:12:12|t 
+[281.27] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (15/30)|r |T:12:12|t 
+[291.50] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (16/30)|r |T:12:12|t 
+[301.73] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (17/30)|r |T:12:12|t 
+[311.80] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (18/30)|r |T:12:12|t 
+[321.93] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (19/30)|r |T:12:12|t 
+[332.17] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (20/30)|r |T:12:12|t 
+[342.37] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (21/30)|r |T:12:12|t 
+[352.50] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (22/30)|r |T:12:12|t 
+[362.67] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (23/30)|r |T:12:12|t 
+[372.83] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (24/30)|r |T:12:12|t 
+[383.00] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (25/30)|r |T:12:12|t 
+[393.27] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (26/30)|r |T:12:12|t 
+[403.33] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (27/30)|r |T:12:12|t 
+[414.40] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (28/30)|r |T:12:12|t 
+[424.43] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (29/30)|r |T:12:12|t 
+[437.50] <Razorgore the Untamed>  |T:12:12|t |cff68ccefDestroy Egg (30/30)|r |T:12:12|t 
+[450.27] <Razorgore the Untamed>  |T:12:12|t |cfff2f200Conflagration on |r|cfff2f200Tank1|r|cfff2f200|r |T:12:12|t 
+[472.93] <Razorgore the Untamed>  |T:12:12|t |cfff2f200Conflagration on |r|cfff2f200Tank1|r|cfff2f200|r |T:12:12|t 
+[487.50] <Razorgore the Untamed>  |T:12:12|t |cfff2f200Conflagration on |r|cfff2f200Tank1|r|cfff2f200|r |T:12:12|t 
+[513.40] <Razorgore the Untamed>  |T:12:12|t |cfff2f200Conflagration on |r|cfff2f200Tank1|r|cfff2f200|r |T:12:12|t 
+[523.83] <DBM> Test playback for test SoD/BWL/Razorgore/Heroic/Kill finished.
