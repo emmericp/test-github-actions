@@ -4,7 +4,6 @@
 [ 16.20] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [ 16.20] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 19.43] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 19.43] Debug(2): DBM.Nameplate Enabling
 [ 24.30] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 30.77] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 33.97] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
@@ -12,24 +11,18 @@
 [ 38.43] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 38.43] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 42.07] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 42.07] Debug(2): DBM.Nameplate Disabling
-[ 42.07] Debug(2): DBM.Nameplate Enabling
 [ 42.07] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\useitem.ogg
 [ 50.17] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [ 50.17] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 58.27] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 61.47] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 64.70] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 64.70] Debug(2): DBM.Nameplate Disabling
-[ 64.70] Debug(2): DBM.Nameplate Enabling
 [ 66.33] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [ 66.33] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 74.47] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 82.57] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [ 82.57] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 84.20] Debug(3): PlaySoundFile playing with FileDataID 566558
-[ 84.20] Debug(2): DBM.Nameplate Disabling
-[ 84.20] Debug(2): DBM.Nameplate Enabling
 [ 85.80] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 85.80] Debug(3): PlaySoundFile playing with FileDataID 566558
 [ 87.77] Debug(3): PlaySoundFile playing with FileDataID 569200
@@ -39,15 +32,11 @@
 [ 98.77] Debug(3): PlaySoundFile playing with FileDataID 566558
 [106.83] Debug(3): PlaySoundFile playing with FileDataID 566558
 [108.47] Debug(3): PlaySoundFile playing with FileDataID 566558
-[108.47] Debug(2): DBM.Nameplate Disabling
-[108.47] Debug(2): DBM.Nameplate Enabling
 [114.93] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [114.93] Debug(3): PlaySoundFile playing with FileDataID 566558
 [118.47] Debug(3): PlaySoundFile playing with FileDataID 569200
 [123.03] Debug(3): PlaySoundFile playing with FileDataID 566558
 [131.13] Debug(3): PlaySoundFile playing with FileDataID 566558
-[131.13] Debug(2): DBM.Nameplate Disabling
-[131.13] Debug(2): DBM.Nameplate Enabling
 [131.13] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [131.13] Debug(3): PlaySoundFile playing with FileDataID 566558
 [133.13] Debug(3): PlaySoundFile playing with FileDataID 566558
@@ -57,15 +46,11 @@
 [147.27] Debug(3): PlaySoundFile playing with FileDataID 566558
 [149.27] Debug(3): PlaySoundFile playing with FileDataID 569200
 [152.13] Debug(3): PlaySoundFile playing with FileDataID 566558
-[152.13] Debug(2): DBM.Nameplate Disabling
-[152.13] Debug(2): DBM.Nameplate Enabling
 [153.77] Debug(3): PlaySoundFile playing with FileDataID 566558
 [157.00] Debug(3): PlaySoundFile playing with FileDataID 566558
 [163.47] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [165.10] Debug(3): PlaySoundFile playing with FileDataID 566558
 [173.17] Debug(3): PlaySoundFile playing with FileDataID 566558
-[173.17] Debug(2): DBM.Nameplate Disabling
-[173.17] Debug(2): DBM.Nameplate Enabling
 [173.20] Debug(3): PlaySoundFile playing with FileDataID 566558
 [179.63] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [180.03] Debug(3): PlaySoundFile playing with FileDataID 569200
@@ -74,8 +59,6 @@
 [181.30] Debug(3): PlaySoundFile playing with FileDataID 566558
 [184.53] Debug(3): PlaySoundFile playing with FileDataID 566558
 [189.40] Debug(3): PlaySoundFile playing with FileDataID 566558
-[189.40] Debug(2): DBM.Nameplate Disabling
-[189.40] Debug(2): DBM.Nameplate Enabling
 [195.87] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [197.50] Debug(3): PlaySoundFile playing with FileDataID 566558
 [205.60] Debug(3): PlaySoundFile playing with FileDataID 566558
@@ -98,8 +81,6 @@
 [270.37] Debug(3): PlaySoundFile playing with FileDataID 566558
 [272.30] Debug(3): PlaySoundFile playing with FileDataID 569200
 [273.60] Debug(3): PlaySoundFile playing with FileDataID 566558
-[273.60] Debug(2): DBM.Nameplate Disabling
-[273.60] Debug(2): DBM.Nameplate Enabling
 [275.20] Debug(3): PlaySoundFile playing with FileDataID 566558
 [275.20] Debug(3): PlaySoundFile playing with FileDataID 566558
 [276.80] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
@@ -108,30 +89,22 @@
 [288.13] Debug(3): PlaySoundFile playing with FileDataID 566558
 [292.97] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [294.60] Debug(3): PlaySoundFile playing with FileDataID 566558
-[294.60] Debug(2): DBM.Nameplate Disabling
-[294.60] Debug(2): DBM.Nameplate Enabling
 [296.23] Debug(3): PlaySoundFile playing with FileDataID 566558
 [303.07] Debug(3): PlaySoundFile playing with FileDataID 569200
 [307.60] Debug(3): PlaySoundFile playing with FileDataID 566558
 [310.83] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [312.47] Debug(3): PlaySoundFile playing with FileDataID 566558
-[312.47] Debug(2): DBM.Nameplate Disabling
-[312.47] Debug(2): DBM.Nameplate Enabling
 [312.47] Debug(3): PlaySoundFile playing with FileDataID 566558
 [322.60] Debug(3): PlaySoundFile playing with FileDataID 566558
 [322.60] Debug(3): PlaySoundFile playing with FileDataID 566558
 [327.03] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [328.63] Debug(3): PlaySoundFile playing with FileDataID 566558
-[328.63] Debug(2): DBM.Nameplate Disabling
-[328.63] Debug(2): DBM.Nameplate Enabling
 [328.63] Debug(3): PlaySoundFile playing with FileDataID 566558
 [333.80] Debug(3): PlaySoundFile playing with FileDataID 569200
 [338.37] Debug(3): PlaySoundFile playing with FileDataID 566558
 [343.23] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [344.83] Debug(3): PlaySoundFile playing with FileDataID 566558
 [351.33] Debug(3): PlaySoundFile playing with FileDataID 566558
-[351.33] Debug(2): DBM.Nameplate Disabling
-[351.33] Debug(2): DBM.Nameplate Enabling
 [352.93] Debug(3): PlaySoundFile playing with FileDataID 566558
 [359.43] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [364.60] Debug(3): PlaySoundFile playing with FileDataID 569200
@@ -140,14 +113,10 @@
 [369.97] Debug(3): PlaySoundFile playing with FileDataID 566558
 [369.97] Debug(3): PlaySoundFile playing with FileDataID 566558
 [374.00] Debug(3): PlaySoundFile playing with FileDataID 566558
-[374.00] Debug(2): DBM.Nameplate Disabling
-[374.00] Debug(2): DBM.Nameplate Enabling
 [375.60] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [377.23] Debug(3): PlaySoundFile playing with FileDataID 566558
 [391.73] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\enrage.ogg
 [393.37] Debug(3): PlaySoundFile playing with FileDataID 566558
-[393.37] Debug(2): DBM.Nameplate Disabling
-[393.37] Debug(2): DBM.Nameplate Enabling
 [393.37] Debug(3): PlaySoundFile playing with FileDataID 566558
 [395.37] Debug(3): PlaySoundFile playing with FileDataID 569200
 [399.80] Debug(3): PlaySoundFile playing with FileDataID 566558
