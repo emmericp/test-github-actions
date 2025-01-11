@@ -1,0 +1,6 @@
+[     ?] <DBM> Starting test: SoD/AQ20/Moam/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player - Moam engaged. Good luck and have fun! :)
+[ 47.90] <DBM> 20 Player - Moam down after 46.86 |4second:seconds;!
+[ 50.00] <DBM> Test playback for test SoD/AQ20/Moam/Hardmode finished.

@@ -1,0 +1,36 @@
+[     ?] <DBM> Starting test: SoD/MC/Gehennas/Heat-1/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player (1) - Gehennas engaged. Good luck and have fun! :)
+[  5.20] <Gehennas>  |T:12:12|t |cfff2f200Fist of Ragnaros on |r|cfff2f200Tank1|r|cfff2f200, |r|cfff2f200Dps1|r|cfff2f200|r |T:12:12|t 
+[  6.80] <Gehennas>  |T:12:12|t |cfff2f200Fist of Ragnaros on |r|cfff2f200Dps2|r|cfff2f200, |r|cfff2f200Dps5|r|cfff2f200, |r|cfff2f200FakePlayer|r|cfff2f200|r |T:12:12|t 
+[  7.97] <Gehennas>  |T:12:12|t |cfff2f200Fist of Ragnaros on |r|cfff2f200Tank1|r|cfff2f200|r |T:12:12|t 
+[  8.10] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 17.80] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 19.43] <Gehennas>  |T:12:12|t |cffff7f00Gehennas' Curse|r |T:12:12|t 
+[ 22.97] <Gehennas>  |T:12:12|t |cfff2f200Fist of Ragnaros on |r|cfff2f200Dps5|r|cfff2f200, |r|cfff2f200Dps6|r|cfff2f200|r |T:12:12|t 
+[ 24.30] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 30.80] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 35.63] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 35.93] <Gehennas>  |T:12:12|t |cfff2f200Fist of Ragnaros on |r|cfff2f200Dps1|r|cfff2f200|r |T:12:12|t 
+[ 40.47] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 40.77] <Gehennas>  |T:12:12|t |cfff2f200Fist of Ragnaros on |r|cfff2f200Dps5|r|cfff2f200, |r|cfff2f200Dps6|r|cfff2f200, |r|cfff2f200Dps7|r|cfff2f200, |r|cfff2f200FakePlayer|r|cfff2f200, |r|cfff2f200Dps14|r|cfff2f200|r |T:12:12|t 
+[ 45.33] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 46.93] <Gehennas>  |T:12:12|t |cffff7f00Gehennas' Curse|r |T:12:12|t 
+[ 50.50] <Gehennas>  |T:12:12|t |cfff2f200Fist of Ragnaros on |r|cfff2f200Tank1|r|cfff2f200|r |T:12:12|t 
+[ 51.80] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 56.67] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 64.77] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 72.87] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 74.87] <Gehennas> |cffffb200[Special Warning]  |T:12:12|t Rain of Fire damage - move away |T:12:12|t |r
+[ 77.70] <Gehennas>  |T:12:12|t |cffff7f00Gehennas' Curse|r |T:12:12|t 
+[ 80.90] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 85.77] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[ 95.47] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[101.93] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[106.80] <Gehennas>  |T:12:12|t |cffff7f00Gehennas' Curse|r |T:12:12|t 
+[108.43] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[116.53] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[123.00] <Gehennas>  |T:12:12|t |cfff2f200Rain of Fire|r |T:12:12|t 
+[128.00] <DBM> 20 Player (1) - Gehennas down after 2 |4minute:minutes; and 7.00 |4second:seconds;!
+[130.10] <DBM> Test playback for test SoD/MC/Gehennas/Heat-1/Kill finished.
