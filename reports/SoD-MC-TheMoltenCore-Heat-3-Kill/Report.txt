@@ -1,0 +1,39 @@
+Test report differs from test report stored in the DBM test mod.
+
+Test: SoD/MC/TheMoltenCore/Heat-3/Kill
+Mod:  DBM-Raids-Vanilla/MoltenCore
+
+Findings:
+	None
+
+Unused objects:
+	[Announce] Boss energy at %d%%, type=nil, spellId=<none>
+	[Announce] Meteor, type=spell, spellId=460883
+	[Announce] Melt Armor on >%s< (%d), type=stack, spellId=460890
+	[Announce] Heart of Ash on >%s<, type=target, spellId=460898
+	[Announce] Conjure Flame, type=spell, spellId=462619
+	[Special Warning] Heart of Ash - move to >%s<, type=moveto, spellId=460898
+	[Timer] Heart of Ash, time=35.00, type=cd, spellId=460898
+	[Yell] {rt%1$d}{rt%1$d}{rt%1$d}, type=icontarget, spellId=460898
+	[Yell] Clear, type=yell, spellId=460898
+
+Timers:
+	None
+
+Announces:
+	None
+
+Special warnings:
+	None
+
+Yells:
+	None
+
+Voice pack sounds:
+	None
+
+Icons:
+	None
+
+Event trace:
+

@@ -1,0 +1,123 @@
+[  0.00] Debug(1): ENCOUNTER_START event fired: 666 Garr 226 20
+[  0.00] Debug(1): StartCombat called by : ENCOUNTER_START. LastInstanceMapID is 409
+[  0.00] Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+[  0.00] Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 20 Player (1) - , 226, 20, 1
+[  2.67] Debug(3): PlaySoundFile playing with FileDataID 566558
+[  5.90] Debug(3): PlaySoundFile playing with FileDataID 566558
+[  7.20] Debug(3): PlaySoundFile playing with FileDataID 566558
+[  9.90] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 11.37] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 21.23] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 29.17] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 40.73] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 46.40] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 46.97] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 66.40] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 70.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 84.20] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 86.27] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 97.23] Debug(3): PlaySoundFile playing with FileDataID 566558
+[102.00] Debug(3): PlaySoundFile playing with FileDataID 566558
+[119.77] Debug(3): PlaySoundFile playing with FileDataID 566558
+[135.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[152.13] Debug(3): PlaySoundFile playing with FileDataID 566558
+[168.30] Debug(3): PlaySoundFile playing with FileDataID 566558
+[181.97] Debug(1): ENCOUNTER_END event fired: 666 Garr 226 20 1
+[181.97] Debug(1): EndCombat called by : ENCOUNTER_END. LastInstanceMapID is 409
+[181.97] Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+[181.97] Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 20 Player (1) - , 226, 20, 1
+[181.97] Debug(1): BOSS_KILL event fired: 666 Garr
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired

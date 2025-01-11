@@ -1,0 +1,124 @@
+[ 11.53] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-00000001A4 Anubisath Guardian ShadowStorm
+[ 19.73] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\scatter.ogg
+[ 26.10] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 26.10] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-00000001A4 Anubisath Guardian Summon2
+[ 30.47] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 30.47] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-00000001A4 Anubisath Guardian Plague
+[ 70.67] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-00000000FD Anubisath Guardian ShadowStorm
+[ 79.57] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 79.57] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-00000000FD Anubisath Guardian Summon2
+[ 79.73] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\scatter.ogg
+[109.73] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\scatter.ogg
+[113.60] Debug(3): PlaySoundFile playing with FileDataID 566558
+[113.60] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-0000000134 Anubisath Guardian Summon1
+[116.33] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-0000000134 Anubisath Guardian Meteor
+[117.97] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-0000000134 Anubisath Guardian Thunderclap
+[128.17] Debug(3): PlaySoundFile playing with FileDataID 566558
+[134.13] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\justrun.ogg
+[139.73] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\scatter.ogg
+[172.70] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-0000000187 Anubisath Guardian Thunderclap
+[176.27] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-0000000187 Anubisath Guardian Meteor
+[181.63] Debug(3): PlaySoundFile playing with FileDataID 566558
+[181.63] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-0000000187 Anubisath Guardian Summon1
+[191.33] Debug(3): PlaySoundFile playing with FileDataID 566558
+[199.73] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\scatter.ogg
+[207.50] Debug(3): PlaySoundFile playing with FileDataID 566558
+[237.80] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-0000000001 Anubisath Guardian Thunderclap
+[245.93] Debug(1): TrackTrashAbility Creature-0-1-509-1-15355-00000000C2 Anubisath Guardian Thunderclap
+[252.37] Debug(1): LoadModsOnDemand fired for table mapId value m0
+[278.10] Debug(1): LoadModsOnDemand fired for table mapId value m0
+[306.47] Debug(1): LoadModsOnDemand fired for table mapId value m0
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
