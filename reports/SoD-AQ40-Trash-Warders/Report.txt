@@ -1,4 +1,4 @@
-Test report exactly matches test report stored in the DBM test mod.
+Test report differs from test report stored in the DBM test mod.
 
 Test: SoD/AQ40/Trash/Warders
 Mod:  DBM-Raids-Vanilla/AQ40Trash
@@ -46,6 +46,7 @@ Unused objects:
 	[Special Warning] Noxious Burst - dodge attack, type=dodge, spellId=1215202
 	[Special Warning] %s damage - move away, type=gtfo, spellId=1215421
 	[Timer] Exploding Ghosts, time=30.00, type=cd, spellId=<none>
+	[Timer] Thunderclap, time=7.00, type=nextnp, spellId=26554
 	[Timer] Noxious Burst, time=30.00, type=next, spellId=1215202
 	[Yell] Plague on PlayerName, type=yell, spellId=26556
 	[Yell] {rt%1$d}{rt%1$d}{rt%1$d}, type=icontarget, spellId=1215202
