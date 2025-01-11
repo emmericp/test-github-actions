@@ -1,0 +1,182 @@
+[  0.00] Debug(1): ENCOUNTER_START event fired: 2956 Avatar of Hakkar 215 20
+[  0.00] Debug(1): StartCombat called by : ENCOUNTER_START. LastInstanceMapID is 109
+[  0.00] Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+[  0.00] Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, Normal - , 215, 20, 0
+[  0.00] Debug(1): DBM_SetStage: 1/1
+[ 16.73] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 21.60] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 26.43] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\kickcast.ogg
+[ 28.47] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 31.37] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\watchfeet.ogg
+[ 37.80] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 39.40] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 49.13] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 52.37] Debug(1): DBM_SetStage: 2/2
+[ 52.57] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at 
+[ 55.53] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\watchfeet.ogg
+[ 59.00] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at 
+[ 60.43] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 65.33] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at Stahlsand
+[ 66.80] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 70.10] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 70.73] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 76.63] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 78.13] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 78.33] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at 
+[ 83.23] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 84.00] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 85.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 91.20] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 93.00] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at Shabbyx
+[ 94.30] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 99.27] Debug(3): PlaySoundFile playing with FileDataID 566558
+[103.37] Debug(3): PlaySoundFile playing with FileDataID 566558
+[105.47] Debug(3): PlaySoundFile playing with FileDataID 566558
+[107.37] Debug(3): PlaySoundFile playing with FileDataID 566558
+[112.20] Debug(3): PlaySoundFile playing with FileDataID 566558
+[112.40] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at 
+[116.60] Debug(3): PlaySoundFile playing with FileDataID 566558
+[118.13] Debug(3): PlaySoundFile playing with FileDataID 566558
+[120.47] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at Mafakacoil
+[121.77] Debug(3): PlaySoundFile playing with FileDataID 566558
+[122.00] Debug(3): PlaySoundFile playing with FileDataID 566558
+[123.53] Debug(3): PlaySoundFile playing with FileDataID 566558
+[131.63] Debug(3): PlaySoundFile playing with FileDataID 566558
+[136.10] Debug(3): PlaySoundFile playing with FileDataID 566558
+[137.53] Debug(3): PlaySoundFile playing with FileDataID 566558
+[139.73] Debug(3): PlaySoundFile playing with FileDataID 566558
+[147.83] Debug(3): PlaySoundFile playing with FileDataID 566558
+[148.03] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at 
+[152.67] Debug(3): PlaySoundFile playing with FileDataID 566558
+[153.70] Debug(3): PlaySoundFile playing with FileDataID 566558
+[154.33] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at Swain
+[155.80] Debug(3): PlaySoundFile playing with FileDataID 566558
+[157.17] Debug(3): PlaySoundFile playing with FileDataID 566558
+[160.73] Debug(3): PlaySoundFile playing with FileDataID 566558
+[168.57] Debug(3): PlaySoundFile playing with FileDataID 566558
+[168.83] Debug(3): PlaySoundFile playing with FileDataID 566558
+[174.13] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\scatter.ogg
+[174.20] Debug(3): PlaySoundFile playing with FileDataID 566558
+[176.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[181.97] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at Bruzo
+[183.30] Debug(3): PlaySoundFile playing with FileDataID 566558
+[183.43] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\movetotank.ogg
+[183.63] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at 
+[189.37] Debug(3): PlaySoundFile playing with FileDataID 566558
+[189.63] Debug(3): PlaySoundFile playing with FileDataID 566558
+[190.37] Debug(3): PlaySoundFile playing with FileDataID 566558
+[196.40] Debug(3): PlaySoundFile playing with FileDataID 566558
+[199.97] Debug(3): PlaySoundFile playing with FileDataID 566558
+[204.50] Debug(3): PlaySoundFile playing with FileDataID 566558
+[208.23] Debug(3): PlaySoundFile playing with FileDataID 566558
+[209.50] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at Biztog
+[210.87] Debug(3): PlaySoundFile playing with FileDataID 566558
+[212.60] Debug(3): PlaySoundFile playing with FileDataID 566558
+[217.43] Debug(3): PlaySoundFile playing with FileDataID 566558
+[217.63] Debug(2): CHAT_MSG_MONSTER_YELL from Avatar of Hakkar while looking at 
+[223.23] Debug(3): PlaySoundFile playing with FileDataID 566558
+[223.90] Debug(3): PlaySoundFile playing with FileDataID 566558
+[224.33] Debug(3): PlaySoundFile playing with FileDataID 566558
+[230.33] Debug(3): PlaySoundFile playing with FileDataID 566558
+[230.67] Debug(3): PlaySoundFile playing with FileDataID 566558
+[231.60] Debug(3): PlaySoundFile playing with FileDataID 566558
+[231.97] Debug(3): PlaySoundFile playing with FileDataID 566558
+[232.13] Debug(1): ENCOUNTER_END event fired: 2956 Avatar of Hakkar 215 20 1
+[232.13] Debug(1): EndCombat called by : ENCOUNTER_END. LastInstanceMapID is 109
+[232.13] Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+[232.13] Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, Normal - , 215, 20, 0
+[232.13] Debug(1): BOSS_KILL event fired: 2956 Avatar of Hakkar
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired

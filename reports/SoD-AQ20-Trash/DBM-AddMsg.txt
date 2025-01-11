@@ -1,0 +1,17 @@
+[     ?] <DBM> Starting test: SoD/AQ20/Trash
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[ 19.73] <AQ20 Trash> |cffffb200[Special Warning]  |T:12:12|t Noxious Burst - dodge attack |T:12:12|t |r
+[ 26.10] <AQ20 Trash>  |T:12:12|t |cff68ccefSummon Anubisath Warrior|r |T:12:12|t 
+[ 30.47] <AQ20 Trash>  |T:12:12|t |cfff2f200Plague on |r|cfff2f200Dps6|r|cfff2f200|r |T:12:12|t 
+[ 79.57] <AQ20 Trash>  |T:12:12|t |cff68ccefSummon Anubisath Warrior|r |T:12:12|t 
+[ 79.73] <AQ20 Trash> |cffffb200[Special Warning]  |T:12:12|t Noxious Burst - dodge attack |T:12:12|t |r
+[109.73] <AQ20 Trash> |cffffb200[Special Warning]  |T:12:12|t Noxious Burst - dodge attack |T:12:12|t |r
+[113.60] <AQ20 Trash>  |T:12:12|t |cff68ccefSummon Anubisath Swarmguard|r |T:12:12|t 
+[128.17] <AQ20 Trash>  |T:12:12|t |cff68ccefSummon Anubisath Swarmguard|r |T:12:12|t 
+[134.13] <AQ20 Trash> |cffffb200[Special Warning]  |T:12:12|t Explode - run away |T:12:12|t |r
+[139.73] <AQ20 Trash> |cffffb200[Special Warning]  |T:12:12|t Noxious Burst - dodge attack |T:12:12|t |r
+[181.63] <AQ20 Trash>  |T:12:12|t |cff68ccefSummon Anubisath Swarmguard|r |T:12:12|t 
+[191.33] <AQ20 Trash>  |T:12:12|t |cff68ccefSummon Anubisath Swarmguard|r |T:12:12|t 
+[199.73] <AQ20 Trash> |cffffb200[Special Warning]  |T:12:12|t Noxious Burst - dodge attack |T:12:12|t |r
+[207.50] <AQ20 Trash>  |T:12:12|t |cff68ccefSummon Anubisath Swarmguard|r |T:12:12|t 
+[429.13] <DBM> Test playback for test SoD/AQ20/Trash finished.

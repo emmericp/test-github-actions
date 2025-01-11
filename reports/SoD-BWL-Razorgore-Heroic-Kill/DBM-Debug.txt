@@ -1,0 +1,137 @@
+[  0.00] Debug(1): ENCOUNTER_START event fired: 610 Razorgore the Untamed 186 40
+[  0.00] Debug(1): StartCombat called by : ENCOUNTER_START. LastInstanceMapID is 469
+[  0.20] Debug(2): CHAT_MSG_MONSTER_YELL from Grethok the Controller while looking at Dps3
+[ 93.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[104.10] Debug(3): PlaySoundFile playing with FileDataID 566558
+[114.30] Debug(3): PlaySoundFile playing with FileDataID 566558
+[124.43] Debug(3): PlaySoundFile playing with FileDataID 566558
+[134.60] Debug(3): PlaySoundFile playing with FileDataID 566558
+[144.77] Debug(3): PlaySoundFile playing with FileDataID 566558
+[154.83] Debug(3): PlaySoundFile playing with FileDataID 566558
+[155.03] Debug(2): CHAT_MSG_MONSTER_YELL from Razorgore the Untamed while looking at 
+[165.10] Debug(3): PlaySoundFile playing with FileDataID 566558
+[175.30] Debug(3): PlaySoundFile playing with FileDataID 566558
+[230.23] Debug(3): PlaySoundFile playing with FileDataID 566558
+[230.30] Debug(2): CHAT_MSG_MONSTER_YELL from Razorgore the Untamed while looking at 
+[240.47] Debug(3): PlaySoundFile playing with FileDataID 566558
+[250.90] Debug(3): PlaySoundFile playing with FileDataID 566558
+[260.97] Debug(3): PlaySoundFile playing with FileDataID 566558
+[271.10] Debug(3): PlaySoundFile playing with FileDataID 566558
+[281.27] Debug(3): PlaySoundFile playing with FileDataID 566558
+[291.50] Debug(3): PlaySoundFile playing with FileDataID 566558
+[291.73] Debug(2): CHAT_MSG_MONSTER_YELL from Razorgore the Untamed while looking at 
+[301.73] Debug(3): PlaySoundFile playing with FileDataID 566558
+[311.80] Debug(3): PlaySoundFile playing with FileDataID 566558
+[321.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[332.17] Debug(3): PlaySoundFile playing with FileDataID 566558
+[342.37] Debug(3): PlaySoundFile playing with FileDataID 566558
+[352.50] Debug(3): PlaySoundFile playing with FileDataID 566558
+[362.67] Debug(3): PlaySoundFile playing with FileDataID 566558
+[372.83] Debug(3): PlaySoundFile playing with FileDataID 566558
+[383.00] Debug(3): PlaySoundFile playing with FileDataID 566558
+[393.27] Debug(3): PlaySoundFile playing with FileDataID 566558
+[403.33] Debug(3): PlaySoundFile playing with FileDataID 566558
+[414.40] Debug(3): PlaySoundFile playing with FileDataID 566558
+[424.43] Debug(3): PlaySoundFile playing with FileDataID 566558
+[437.50] Debug(3): PlaySoundFile playing with FileDataID 566558
+[437.70] Debug(2): CHAT_MSG_MONSTER_YELL from Razorgore the Untamed while looking at 
+[450.27] Debug(3): PlaySoundFile playing with FileDataID 566558
+[472.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[487.50] Debug(3): PlaySoundFile playing with FileDataID 566558
+[513.40] Debug(3): PlaySoundFile playing with FileDataID 566558
+[520.73] Debug(1): ENCOUNTER_END event fired: 610 Razorgore the Untamed 186 40 1
+[520.73] Debug(1): BOSS_KILL event fired: 610 Razorgore the Untamed
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
