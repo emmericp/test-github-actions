@@ -1,0 +1,39 @@
+[     ?] <DBM> Starting test: SoD/AQ40/Huhuran/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 40 Player - Princess Huhuran engaged. Good luck and have fun! :)
+[  6.47] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Dps6|r|cffff7f00 (1)|r |T:12:12|t 
+[  8.10] <Princess Huhuran> |cffffb200[Special Warning]  |T:12:12|t Frenzy on Princess Huhuran - dispel now |T:12:12|t |r
+[ 12.93] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Dps6|r|cffff7f00 (2)|r |T:12:12|t 
+[ 21.07] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Dps6|r|cffff7f00 (3)|r |T:12:12|t 
+[ 25.90] <Princess Huhuran> |cffffb200[Special Warning]  |T:12:12|t Frenzy on Princess Huhuran - dispel now |T:12:12|t |r
+[ 27.03] <Princess Huhuran>  |T:12:12|t |cfff2f200Wyvern Sting on |r|cfff2f200Dps5|r|cfff2f200|r |T:12:12|t 
+[ 33.97] <Princess Huhuran>  |T:12:12|t |cffff7f00Noxious Poison|r |T:12:12|t 
+[ 38.83] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Tank1|r|cffff7f00 (1)|r |T:12:12|t 
+[ 42.10] <Princess Huhuran> |cffffb200[Special Warning]  |T:12:12|t Frenzy on Princess Huhuran - dispel now |T:12:12|t |r
+[ 43.70] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Tank1|r|cffff7f00 (2)|r |T:12:12|t 
+[ 45.33] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Tank1|r|cffff7f00 (3)|r |T:12:12|t 
+[ 48.57] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Tank1|r|cffff7f00 (4)|r |T:12:12|t 
+[ 50.17] <Princess Huhuran>  |T:12:12|t |cffff7f00Noxious Poison|r |T:12:12|t 
+[ 51.80] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Tank1|r|cffff7f00 (5)|r |T:12:12|t 
+[ 54.57] <Princess Huhuran>  |T:12:12|t |cfff2f200Wyvern Sting on |r|cfff2f200Dps5|r|cfff2f200, |r|cfff2f200Dps14|r|cfff2f200, |r|cfff2f200Dps12|r|cfff2f200, |r|cfff2f200Dps3|r|cfff2f200|r |T:12:12|t 
+[ 64.10] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Dps6|r|cffff7f00 (1)|r |T:12:12|t 
+[ 64.77] <Princess Huhuran>  |T:12:12|t |cffff7f00Noxious Poison|r |T:12:12|t 
+[ 66.37] <Princess Huhuran> |cffffb200[Special Warning]  |T:12:12|t Frenzy on Princess Huhuran - dispel now |T:12:12|t |r
+[ 72.83] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Dps6|r|cffff7f00 (2)|r |T:12:12|t 
+[ 82.10] <Princess Huhuran>  |T:12:12|t |cfff2f200Wyvern Sting on |r|cfff2f200Dps12|r|cfff2f200, |r|cfff2f200Dps6|r|cfff2f200, |r|cfff2f200Dps8|r|cfff2f200, |r|cfff2f200Dps5|r|cfff2f200|r |T:12:12|t 
+[ 89.03] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Tank1|r|cffff7f00 (1)|r |T:12:12|t 
+[100.37] <Princess Huhuran> |cffffb200[Special Warning]  |T:12:12|t Frenzy on Princess Huhuran - dispel now |T:12:12|t |r
+[101.97] <Princess Huhuran>  |T:12:12|t |cfff2f200Berserk|r |T:12:12|t 
+[110.07] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Dps8|r|cffff7f00 (1)|r |T:12:12|t 
+[114.93] <Princess Huhuran>  |T:12:12|t |cffff7f00Noxious Poison|r |T:12:12|t 
+[121.43] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Tank1|r|cffff7f00 (1)|r |T:12:12|t 
+[124.47] <Princess Huhuran>  |T:12:12|t |cfff2f200Wyvern Sting on |r|cfff2f200Dps14|r|cfff2f200, |r|cfff2f200Dps12|r|cfff2f200, |r|cfff2f200Dps15|r|cfff2f200, |r|cfff2f200Dps5|r|cfff2f200, |r|cfff2f200Dps3|r|cfff2f200, |r|cfff2f200Dps13|r|cfff2f200, |r|cfff2f200Dps6|r|cfff2f200, |r|cfff2f200Healer3|r|cfff2f200|r |T:12:12|t 
+[124.63] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Tank1|r|cffff7f00 (2)|r |T:12:12|t 
+[127.87] <Princess Huhuran>  |T:12:12|t |cffff7f00Noxious Poison|r |T:12:12|t 
+[131.13] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Tank1|r|cffff7f00 (3)|r |T:12:12|t 
+[138.97] <Princess Huhuran>  |T:12:12|t |cffff7f00Acid Spit on |r|cffff7f00Dps6|r|cffff7f00 (1)|r |T:12:12|t 
+[154.13] <Princess Huhuran>  |T:12:12|t |cfff2f200Wyvern Sting on |r|cfff2f200Tank1|r|cfff2f200, |r|cfff2f200Healer2|r|cfff2f200, |r|cfff2f200Dps9|r|cfff2f200, |r|cfff2f200Dps11|r|cfff2f200, |r|cfff2f200FakePlayer|r|cfff2f200, |r|cfff2f200Dps2|r|cfff2f200, |r|cfff2f200Pet3|r|cfff2f200, |r|cfff2f200Dps1|r|cfff2f200|r |T:12:12|t 
+[157.40] <DBM> Warning: incomplete trace of AntiSpam
+[158.43] <DBM> 40 Player - Princess Huhuran down after 2 |4minute:minutes; and 37.39 |4second:seconds;!
+[160.53] <DBM> Test playback for test SoD/AQ40/Huhuran/Hardmode finished.

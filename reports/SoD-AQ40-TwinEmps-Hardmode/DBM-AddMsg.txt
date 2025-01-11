@@ -1,0 +1,29 @@
+[     ?] <DBM> Starting test: SoD/AQ40/TwinEmps/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 40 Player - Twin Emperors engaged. Good luck and have fun! :)
+[ 12.90] <Twin Emperors> |cffffb200[Special Warning]  |T:12:12|t Blizzard damage - move away |T:12:12|t |r
+[ 30.70] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[ 30.97] <Twin Emperors>  |T:12:12|t |cffff7f00Twin Teleport|r |T:12:12|t 
+[ 40.40] <Twin Emperors>  |T:12:12|t |cffff7f00Unbalancing Strike on |r|cffff7f00Dps10|r|cffff7f00|r |T:12:12|t 
+[ 43.63] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[ 56.60] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[ 66.57] <Twin Emperors>  |T:12:12|t |cffff7f00Twin Teleport|r |T:12:12|t 
+[ 74.40] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[ 87.37] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[101.93] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[102.23] <Twin Emperors>  |T:12:12|t |cffff7f00Twin Teleport|r |T:12:12|t 
+[123.03] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[134.37] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[134.37] <Twin Emperors>  |T:12:12|t |cffff7f00Unbalancing Strike on |r|cffff7f00Dps10|r|cffff7f00|r |T:12:12|t 
+[137.87] <Twin Emperors>  |T:12:12|t |cffff7f00Twin Teleport|r |T:12:12|t 
+[148.97] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[157.07] <Twin Emperors>  |T:12:12|t |cffff7f00Unbalancing Strike on |r|cffff7f00Tank1|r|cffff7f00|r |T:12:12|t 
+[161.90] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[168.40] <Twin Emperors>  |T:12:12|t |cffff7f00Unbalancing Strike on |r|cffff7f00Tank1|r|cffff7f00|r |T:12:12|t 
+[173.23] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[173.50] <Twin Emperors>  |T:12:12|t |cffff7f00Twin Teleport|r |T:12:12|t 
+[179.77] <Twin Emperors>  |T:12:12|t |cffff7f00Unbalancing Strike on |r|cffff7f00Dps10|r|cffff7f00|r |T:12:12|t 
+[191.07] <Twin Emperors>  |T:12:12|t |cfff2f200Mutate Bug|r |T:12:12|t 
+[197.43] <DBM> 40 Player - Twin Emperors down after 3 |4minute:minutes; and 16.39 |4second:seconds;!
+[199.53] <DBM> Test playback for test SoD/AQ40/TwinEmps/Hardmode finished.
