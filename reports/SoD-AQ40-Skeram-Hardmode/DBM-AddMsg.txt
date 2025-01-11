@@ -1,0 +1,52 @@
+[     ?] <DBM> Starting test: SoD/AQ40/Skeram/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 40 Player - The Prophet Skeram engaged. Good luck and have fun! :)
+[  6.83] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[ 20.93] <The Prophet Skeram>  |T:12:12|t |cffff1919True Fulfillment on |r|cffff1919Dps11|r|cffff1919|r |T:12:12|t 
+[ 21.37] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[ 27.87] <The Prophet Skeram>  |T:12:12|t |cfff2f200Summon Images soon|r |T:12:12|t 
+[ 27.87] <The Prophet Skeram>  |T:12:12|t |cffff7f00Teleport|r |T:12:12|t 
+[ 31.10] <The Prophet Skeram>  |T:12:12|t |cffff7f00Summon Images|r |T:12:12|t 
+[ 31.20] <AQ40 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[ 37.57] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[ 40.83] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[ 50.03] <The Prophet Skeram>  |T:12:12|t |cffff1919True Fulfillment on |r|cffff1919Dps5|r|cffff1919|r |T:12:12|t 
+[ 50.50] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[ 51.37] <The Prophet Skeram>  |T:12:12|t |cffff1919True Fulfillment on |r|cffff1919Dps9|r|cffff1919|r |T:12:12|t 
+[ 53.77] <The Prophet Skeram>  |T:12:12|t |cffff7f00Teleport|r |T:12:12|t 
+[ 58.60] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[ 61.20] <AQ40 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[ 63.47] <The Prophet Skeram>  |T:12:12|t |cffff7f00Teleport|r |T:12:12|t 
+[ 69.93] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[ 79.70] <The Prophet Skeram>  |T:12:12|t |cffff7f00Summon Images|r |T:12:12|t 
+[ 83.73] <The Prophet Skeram>  |T:12:12|t |cffff1919True Fulfillment on |r|cffff1919Dps6|r|cffff1919|r |T:12:12|t 
+[ 84.53] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[ 90.20] <The Prophet Skeram>  |T:12:12|t |cffff1919True Fulfillment on |r|cffff1919Dps12|r|cffff1919|r |T:12:12|t 
+[ 91.03] <The Prophet Skeram>  |T:12:12|t |cffff7f00Teleport|r |T:12:12|t 
+[ 91.20] <AQ40 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[ 93.47] <The Prophet Skeram>  |T:12:12|t |cffff1919True Fulfillment on |r|cffff1919Dps13|r|cffff1919|r |T:12:12|t 
+[ 94.27] <The Prophet Skeram>  |T:12:12|t |cffff7f00Teleport|r |T:12:12|t 
+[ 98.07] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[110.47] <The Prophet Skeram>  |T:12:12|t |cffff7f00Teleport|r |T:12:12|t 
+[116.03] <The Prophet Skeram>  |T:12:12|t |cffff1919True Fulfillment on |r|cffff1919Dps12|r|cffff1919|r |T:12:12|t 
+[116.10] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[121.20] <AQ40 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[122.80] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[136.37] <The Prophet Skeram>  |T:12:12|t |cffff7f00Summon Images|r |T:12:12|t 
+[137.97] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[142.87] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[145.30] <The Prophet Skeram>  |T:12:12|t |cffff1919True Fulfillment on |r|cffff1919Dps4|r|cffff1919, |r|cffff1919Dps8|r|cffff1919|r |T:12:12|t 
+[145.60] <The Prophet Skeram>  |T:12:12|t |cffff1919True Fulfillment on |r|cffff1919Dps7|r|cffff1919|r |T:12:12|t 
+[146.10] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[150.97] <The Prophet Skeram>  |T:12:12|t |cffff7f00Teleport|r |T:12:12|t 
+[151.20] <AQ40 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[155.83] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[157.17] <The Prophet Skeram>  |T:12:12|t |cffff7f00Teleport|r |T:12:12|t 
+[163.90] <The Prophet Skeram>  |T:12:12|t |cffff7f00Teleport|r |T:12:12|t 
+[167.03] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[173.10] <The Prophet Skeram>  |T:12:12|t |cffff1919True Fulfillment on |r|cffff1919Dps11|r|cffff1919|r |T:12:12|t 
+[176.87] <The Prophet Skeram> |cffffb200[Special Warning]  |T:12:12|t Arcane Explosion - interrupt The Prophet Skeram! |T:12:12|t |r
+[181.17] <AQ40 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[190.40] <DBM> 40 Player - The Prophet Skeram down after 3 |4minute:minutes; and 9.40 |4second:seconds;!
+[192.50] <DBM> Test playback for test SoD/AQ40/Skeram/Hardmode finished.

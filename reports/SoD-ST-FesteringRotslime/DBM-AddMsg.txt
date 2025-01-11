@@ -1,0 +1,29 @@
+[     ?] <DBM> Starting test: SoD/ST/FesteringRotslime
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> Normal - Festering Rotslime engaged. Good luck and have fun! :)
+[  9.33] <Festering Rotslime>  |T:12:12|t |cfff2f200Nauseous Gas (1)|r |T:12:12|t 
+[ 11.17] <Festering Rotslime> |cffffb200[Special Warning]  |T:12:12|t Slime Time faded |T:12:12|t |r
+[ 12.53] <Festering Rotslime>  |T:12:12|t |cffff7f00Gunk (1)|r |T:12:12|t 
+[ 16.67] <Festering Rotslime> |cffffb200[Special Warning]  |T:12:12|t Nauseous Gas damage - move away |T:12:12|t |r
+[ 17.47] <Festering Rotslime>  |T:12:12|t |cfff2f200Nauseous Gas (2)|r |T:12:12|t 
+[ 24.03] <Festering Rotslime>  |T:12:12|t |cffff1919Slime Time (5)|r |T:12:12|t 
+[ 25.57] <Festering Rotslime>  |T:12:12|t |cfff2f200Nauseous Gas (3)|r |T:12:12|t 
+[ 30.43] <Festering Rotslime>  |T:12:12|t |cffff7f00Gunk (2)|r |T:12:12|t 
+[ 33.63] <Festering Rotslime>  |T:12:12|t |cfff2f200Nauseous Gas (4)|r |T:12:12|t 
+[ 34.83] <Festering Rotslime> |cffffb200[Special Warning]  |T:12:12|t Nauseous Gas damage - move away |T:12:12|t |r
+[ 37.83] <Festering Rotslime> |cffffb200[Special Warning]  |T:12:12|t Nauseous Gas damage - move away |T:12:12|t |r
+[ 39.03] <Festering Rotslime>  |T:12:12|t |cffff1919Slime Time (10)|r |T:12:12|t 
+[ 41.77] <Festering Rotslime>  |T:12:12|t |cfff2f200Nauseous Gas (5)|r |T:12:12|t 
+[ 42.67] <Festering Rotslime> |cffffb200[Special Warning]  |T:12:12|t Slime Time faded |T:12:12|t |r
+[ 48.23] <Festering Rotslime>  |T:12:12|t |cffff7f00Gunk (3)|r |T:12:12|t 
+[ 49.83] <Festering Rotslime>  |T:12:12|t |cfff2f200Nauseous Gas (6)|r |T:12:12|t 
+[ 57.03] <Festering Rotslime>  |T:12:12|t |cffff1919Slime Time (5)|r |T:12:12|t 
+[ 57.93] <Festering Rotslime>  |T:12:12|t |cfff2f200Nauseous Gas (7)|r |T:12:12|t 
+[ 66.03] <Festering Rotslime>  |T:12:12|t |cfff2f200Nauseous Gas (8)|r |T:12:12|t 
+[ 67.67] <Festering Rotslime>  |T:12:12|t |cffff7f00Gunk (4)|r |T:12:12|t 
+[ 72.03] <Festering Rotslime>  |T:12:12|t |cffff1919Slime Time (10)|r |T:12:12|t 
+[ 74.13] <Festering Rotslime>  |T:12:12|t |cfff2f200Nauseous Gas (9)|r |T:12:12|t 
+[ 75.80] <Festering Rotslime> |cffffb200[Special Warning]  |T:12:12|t Slime Time faded |T:12:12|t |r
+[ 76.83] <DBM> Normal - Festering Rotslime down after 1 |4minute:minutes; and 15.79 |4second:seconds;!
+[ 78.93] <DBM> Test playback for test SoD/ST/FesteringRotslime finished.
