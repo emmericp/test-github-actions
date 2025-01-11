@@ -1,3 +1,13 @@
+[ 32.10] Debug(1): TrackTrashAbility Creature-0-1-531-1-15264-0000000216 Anubisath Sentinel Thunderclap
+[ 32.10] Debug(2): DBM.Nameplate Enabling
+[ 35.40] Debug(1): TrackTrashAbility Creature-0-1-531-1-15264-00000002A6 Anubisath Sentinel ShadowStorm
+[ 77.53] Debug(1): TrackTrashAbility Creature-0-1-531-1-15264-00000002ED Anubisath Sentinel ShadowStorm
+[135.83] Debug(1): TrackTrashAbility Creature-0-1-531-1-15264-00000002ED Anubisath Sentinel Thunderclap
+[211.67] Debug(1): TrackTrashAbility Creature-0-1-531-1-15264-0000000001 Anubisath Sentinel Thunderclap
+[215.67] Debug(1): TrackTrashAbility Creature-0-1-531-1-15264-00000001D1 Anubisath Sentinel ManaBurn
+[276.90] Debug(1): TrackTrashAbility Creature-0-1-531-1-15264-00000000F6 Anubisath Sentinel ManaBurn
+[276.90] Debug(1): TrackTrashAbility Creature-0-1-531-1-15264-0000000001 Anubisath Sentinel ManaBurn
+[308.80] Debug(1): TrackTrashAbility Creature-0-1-531-1-15264-00000000F6 Anubisath Sentinel Thunderclap
 [     ?] Debug(3): UnregisterShortTermEvents fired
 [     ?] Debug(3): UnregisterShortTermEvents fired
 [     ?] Debug(3): UnregisterShortTermEvents fired
