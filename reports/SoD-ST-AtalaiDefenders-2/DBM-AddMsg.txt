@@ -1,0 +1,80 @@
+[     ?] <DBM> Starting test: SoD/ST/AtalaiDefenders/2
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> Normal - Atal'ai Defenders engaged. Good luck and have fun! :)
+[  6.00] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Frailty|r |T0:12:12|t 
+[ 11.67] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Charge|r |T0:12:12|t 
+[ 11.70] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Corrupted Slam - dodge attack |T0:12:12|t |r
+[ 18.13] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Frailty|r |T0:12:12|t 
+[ 23.00] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Charge|r |T0:12:12|t 
+[ 23.03] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Corrupted Slam - dodge attack |T0:12:12|t |r
+[ 28.70] <Atal'ai Defenders>  |T136116:12:12|t |cfff2f200Stage 2|r |T136116:12:12|t 
+[ 33.93] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Frailty|r |T0:12:12|t 
+[ 37.17] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Charge|r |T0:12:12|t 
+[ 38.80] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Corrupted Slam - dodge attack |T0:12:12|t |r
+[ 46.50] <Atal'ai Defenders>  |T0:12:12|t |cffff7f00Healing Ward|r |T0:12:12|t 
+[ 48.53] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Charge|r |T0:12:12|t 
+[ 49.33] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Corrupted Slam - dodge attack |T0:12:12|t |r
+[ 53.80] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Frailty|r |T0:12:12|t 
+[ 56.23] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Atal'ai Serpent Totem - switch targets |T0:12:12|t |r
+[ 56.50] <Atal'ai Defenders>  |T136116:12:12|t |cfff2f200Stage 3|r |T136116:12:12|t 
+[ 59.87] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Frailty|r |T0:12:12|t 
+[ 61.07] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Hukku's Guardians|r |T0:12:12|t 
+[ 62.47] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Shadow Bolt - interrupt Hukku! |T0:12:12|t |r
+[ 63.10] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Atal'ai Serpent Totem - switch targets |T0:12:12|t |r
+[ 64.33] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Charge|r |T0:12:12|t 
+[ 65.13] <Atal'ai Defenders>  |T0:12:12|t |cffff7f00Healing Ward|r |T0:12:12|t 
+[ 75.63] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Shadow Bolt - interrupt Hukku! |T0:12:12|t |r
+[ 80.50] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Shadow Bolt - interrupt Hukku! |T0:12:12|t |r
+[ 90.53] <Atal'ai Defenders>  |T136116:12:12|t |cfff2f200Stage 4|r |T136116:12:12|t 
+[ 96.67] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Hukku's Guardians|r |T0:12:12|t 
+[ 96.67] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Shadow Bolt - interrupt Hukku! |T0:12:12|t |r
+[ 97.50] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Atal'ai Serpent Totem - switch targets |T0:12:12|t |r
+[ 98.30] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Spinning Axes|r |T0:12:12|t 
+[102.33] <Atal'ai Defenders>  |T0:12:12|t |cffff7f00Healing Ward|r |T0:12:12|t 
+[105.60] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Fervor on |r|cfff2f200Gasher|r|cfff2f200 (10)|r |T0:12:12|t 
+[108.00] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Shadow Bolt - interrupt Hukku! |T0:12:12|t |r
+[108.23] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Charge|r |T0:12:12|t 
+[111.23] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Corrupted Slam - dodge attack |T0:12:12|t |r
+[113.13] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Fervor on |r|cfff2f200Gasher|r|cfff2f200 (20)|r |T0:12:12|t 
+[119.60] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Fervor on |r|cfff2f200Gasher|r|cfff2f200 (30)|r |T0:12:12|t 
+[120.13] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Frailty|r |T0:12:12|t 
+[121.73] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Charge|r |T0:12:12|t 
+[124.17] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Shadow Bolt - interrupt Hukku! |T0:12:12|t |r
+[124.37] <Atal'ai Defenders>  |T0:12:12|t |cff68ccefFervor faded|r |T0:12:12|t 
+[124.97] <Atal'ai Defenders>  |T0:12:12|t |cffff7f00Healing Ward|r |T0:12:12|t 
+[127.40] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Shadow Bolt - interrupt Hukku! |T0:12:12|t |r
+[129.03] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Spinning Axes|r |T0:12:12|t 
+[129.83] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Frailty|r |T0:12:12|t 
+[133.10] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Atal'ai Serpent Totem - switch targets |T0:12:12|t |r
+[135.20] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Charge|r |T0:12:12|t 
+[137.53] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Corrupted Slam - dodge attack |T0:12:12|t |r
+[137.93] <Atal'ai Defenders>  |T0:12:12|t |cffff7f00Healing Ward|r |T0:12:12|t 
+[139.30] <Atal'ai Defenders>  |T136116:12:12|t |cfff2f200Stage 5|r |T136116:12:12|t 
+[141.20] <Atal'ai Defenders>  |T0:12:12|t |cff68ccefFervor faded|r |T0:12:12|t 
+[144.20] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Charge|r |T0:12:12|t 
+[149.27] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Shield Slam on |r|cfff2f200Elemento|r|cfff2f200|r |T0:12:12|t 
+[151.40] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Casting Demoralizing Shout: -nan sec|r |T0:12:12|t 
+[155.77] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Shield Slam on |r|cfff2f200Muhscle|r|cfff2f200|r |T0:12:12|t 
+[156.57] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Spinning Axes|r |T0:12:12|t 
+[167.10] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Atal'ai Serpent Totem - switch targets |T0:12:12|t |r
+[181.67] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Casting Demoralizing Shout: -nan sec|r |T0:12:12|t 
+[186.53] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Shield Slam on |r|cfff2f200Elemento|r|cfff2f200|r |T0:12:12|t 
+[187.33] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Spinning Axes|r |T0:12:12|t 
+[193.03] <Atal'ai Defenders>  |T0:12:12|t |cffff7f00Healing Ward|r |T0:12:12|t 
+[193.03] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Shield Slam on |r|cfff2f200Elemento|r|cfff2f200|r |T0:12:12|t 
+[199.50] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Shield Slam on |r|cfff2f200Elemento|r|cfff2f200|r |T0:12:12|t 
+[200.53] <Atal'ai Defenders>  |T136116:12:12|t |cfff2f200Stage 6|r |T136116:12:12|t 
+[203.40] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Chain Lightning - interrupt Zolo! |T0:12:12|t |r
+[210.03] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Chain Lightning - interrupt Zolo! |T0:12:12|t |r
+[210.83] <Atal'ai Defenders>  |T0:12:12|t |cffff7f00Healing Ward|r |T0:12:12|t 
+[214.87] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Atal'ai Skeleton Totem - switch targets |T0:12:12|t |r
+[217.00] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Casting Demoralizing Shout: -nan sec|r |T0:12:12|t 
+[218.10] <Atal'ai Defenders>  |T0:12:12|t |cfff2f200Spinning Axes|r |T0:12:12|t 
+[226.17] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Chain Lightning - interrupt Zolo! |T0:12:12|t |r
+[229.43] <Atal'ai Defenders>  |T0:12:12|t |cffff7f00Unstable Cask|r |T0:12:12|t 
+[230.23] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Atal'ai Serpent Totem - switch targets |T0:12:12|t |r
+[231.03] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Atal'ai Skeleton Totem - switch targets |T0:12:12|t |r
+[235.87] <Atal'ai Defenders> |cffffb200[Special Warning]  |T0:12:12|t Chain Lightning - interrupt Zolo! |T0:12:12|t |r
+[239.83] <DBM> Normal - Atal'ai Defenders down after 3 |4minute:minutes; and 58.79 |4second:seconds;!
+[241.93] <DBM> Test playback for test SoD/ST/AtalaiDefenders/2 finished.

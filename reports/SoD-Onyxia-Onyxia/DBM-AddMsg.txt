@@ -1,0 +1,42 @@
+[     ?] <DBM> Starting test: SoD/Onyxia/Onyxia
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 40 Player - Onyxia engaged. Good luck and have fun! :)
+[ 12.97] <Onyxia>  |T0:12:12|t |cfff2f200Knock Away on |r|cfff2f200Glassy|r|cfff2f200|r |T0:12:12|t 
+[ 17.83] <Onyxia>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[ 35.63] <Onyxia>  |T0:12:12|t |cfff2f200Knock Away on |r|cfff2f200Glassy|r|cfff2f200|r |T0:12:12|t 
+[ 42.13] <Onyxia>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[ 63.13] <Onyxia>  |T0:12:12|t |cfff2f200Knock Away on |r|cfff2f200Glassy|r|cfff2f200|r |T0:12:12|t 
+[ 69.60] <Onyxia>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[ 82.53] <Onyxia>  |T0:12:12|t |cfff2f200Knock Away on |r|cfff2f200Glassy|r|cfff2f200|r |T0:12:12|t 
+[ 94.27] <Onyxia>  |T136116:12:12|t |cfff2f200Stage 2 soon|r |T136116:12:12|t 
+[ 95.70] <Onyxia>  |T136116:12:12|t |cfff2f200Stage 2|r |T136116:12:12|t 
+[120.73] <Onyxia> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[124.63] <Onyxia> |cffffb200[Special Warning]  |T0:12:12|t Breath! |T0:12:12|t |r
+[135.93] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Mafakacoil|r|cfff2f200|r |T0:12:12|t 
+[138.93] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Mafakacoil|r|cfff2f200|r |T0:12:12|t 
+[166.73] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Glassy|r|cfff2f200|r |T0:12:12|t 
+[169.73] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Glassy|r|cfff2f200|r |T0:12:12|t 
+[181.73] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Mafakacoil|r|cfff2f200|r |T0:12:12|t 
+[184.77] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Mafakacoil|r|cfff2f200|r |T0:12:12|t 
+[246.53] <Onyxia>  |T136116:12:12|t |cfff2f200Stage 3 soon|r |T136116:12:12|t 
+[246.57] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Glassy|r|cfff2f200|r |T0:12:12|t 
+[249.57] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Obile|r|cfff2f200|r |T0:12:12|t 
+[252.57] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Mafakacoil|r|cfff2f200|r |T0:12:12|t 
+[255.57] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Mafakacoil|r|cfff2f200|r |T0:12:12|t 
+[272.27] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Cattivo|r|cfff2f200|r |T0:12:12|t 
+[273.60] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Cattivo|r|cfff2f200|r |T0:12:12|t 
+[276.63] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200FakePlayer|r|cfff2f200|r |T0:12:12|t 
+[279.63] <Onyxia>  |T0:12:12|t |cfff2f200Fireball on |r|cfff2f200Obile|r|cfff2f200|r |T0:12:12|t 
+[283.47] <Onyxia>  |T136116:12:12|t |cfff2f200Stage 3|r |T136116:12:12|t 
+[288.13] <Onyxia> |cffffb200[Special Warning]  |T0:12:12|t Bellowing Roar! |T0:12:12|t |r
+[299.43] <Onyxia>  |T0:12:12|t |cfff2f200Knock Away on |r|cfff2f200Glassy|r|cfff2f200|r |T0:12:12|t 
+[333.47] <Onyxia> |cffffb200[Special Warning]  |T0:12:12|t Bellowing Roar! |T0:12:12|t |r
+[348.07] <Onyxia>  |T0:12:12|t |cfff2f200Knock Away on |r|cfff2f200Glassy|r|cfff2f200|r |T0:12:12|t 
+[390.13] <Onyxia> |cffffb200[Special Warning]  |T0:12:12|t Bellowing Roar! |T0:12:12|t |r
+[395.00] <Onyxia>  |T0:12:12|t |cfff2f200Knock Away on |r|cfff2f200Glassy|r|cfff2f200|r |T0:12:12|t 
+[404.70] <Onyxia> |cffffb200[Special Warning]  |T0:12:12|t Bellowing Roar! |T0:12:12|t |r
+[430.57] <Onyxia> |cffffb200[Special Warning]  |T0:12:12|t Bellowing Roar! |T0:12:12|t |r
+[432.47] <Onyxia>  |T0:12:12|t |cfff2f200Knock Away on |r|cfff2f200Skarpetki|r|cfff2f200|r |T0:12:12|t 
+[449.10] <DBM> 40 Player - Onyxia down after 7 |4minute:minutes; and 28.06 |4second:seconds;!
+[451.20] <DBM> Test playback for test SoD/Onyxia/Onyxia finished.
