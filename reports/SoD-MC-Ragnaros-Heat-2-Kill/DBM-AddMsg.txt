@@ -1,0 +1,19 @@
+[     ?] <DBM> Starting test: SoD/MC/Ragnaros/Heat-2/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player (2) - Ragnaros engaged. Good luck and have fun! :)
+[ 29.17] <Ragnaros>  |T0:12:12|t |cffff7f00Wrath of Ragnaros|r |T0:12:12|t 
+[ 56.70] <Ragnaros>  |T0:12:12|t |cffff7f00Wrath of Ragnaros|r |T0:12:12|t 
+[ 89.07] <Ragnaros>  |T0:12:12|t |cffff7f00Wrath of Ragnaros|r |T0:12:12|t 
+[102.00] <Ragnaros>  |T136116:12:12|t |cfff2f200Stage 2 soon|r |T136116:12:12|t 
+[102.00] <Ragnaros>  |TInterface\AddOns\DBM-Core\textures\CryptFiendBurrow.blp:12:12|t |cfff2f200Submerge|r |TInterface\AddOns\DBM-Core\textures\CryptFiendBurrow.blp:12:12|t 
+[156.57] <Ragnaros> |cffffb200[Special Warning]  |T0:12:12|t Pool of Fire damage - move away |T0:12:12|t |r
+[169.57] <Ragnaros> |cffffb200[Special Warning]  |T0:12:12|t Pool of Fire damage - move away |T0:12:12|t |r
+[189.53] <Ragnaros>  |TInterface\AddOns\DBM-Core\textures\CryptFiendUnBurrow.blp:12:12|t |cfff2f200Emerge|r |TInterface\AddOns\DBM-Core\textures\CryptFiendUnBurrow.blp:12:12|t 
+[220.23] <Ragnaros>  |T0:12:12|t |cffff7f00Wrath of Ragnaros|r |T0:12:12|t 
+[249.33] <Ragnaros>  |T0:12:12|t |cffff7f00Wrath of Ragnaros|r |T0:12:12|t 
+[275.23] <Ragnaros>  |T0:12:12|t |cffff7f00Wrath of Ragnaros|r |T0:12:12|t 
+[301.07] <Ragnaros>  |T0:12:12|t |cffff7f00Wrath of Ragnaros|r |T0:12:12|t 
+[326.93] <Ragnaros>  |T0:12:12|t |cffff7f00Wrath of Ragnaros|r |T0:12:12|t 
+[338.67] <DBM> 20 Player (2) - Ragnaros down after 5 |4minute:minutes; and 37.63 |4second:seconds;!
+[340.77] <DBM> Test playback for test SoD/MC/Ragnaros/Heat-2/Kill finished.

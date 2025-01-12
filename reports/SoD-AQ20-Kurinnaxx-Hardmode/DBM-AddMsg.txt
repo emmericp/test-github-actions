@@ -1,0 +1,37 @@
+[     ?] <DBM> Starting test: SoD/AQ20/Kurinnaxx/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player - Kurinnaxx engaged. Good luck and have fun! :)
+[  8.10] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Dps8|r|cffff7f00|r |T0:12:12|t 
+[  9.70] <Kurinnaxx>  |T0:12:12|t |cfff2f200Mortal Wound on |r|cfff2f200Tank1|r|cfff2f200 (1)|r |T0:12:12|t 
+[ 16.20] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Dps7|r|cffff7f00|r |T0:12:12|t 
+[ 17.80] <Kurinnaxx>  |T0:12:12|t |cfff2f200Mortal Wound on |r|cfff2f200Tank1|r|cfff2f200 (2)|r |T0:12:12|t 
+[ 24.27] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[ 25.87] <Kurinnaxx>  |T0:12:12|t |cfff2f200Mortal Wound on |r|cfff2f200Tank1|r|cfff2f200 (3)|r |T0:12:12|t 
+[ 31.20] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[ 32.37] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Dps2|r|cffff7f00|r |T0:12:12|t 
+[ 35.60] <Kurinnaxx>  |T0:12:12|t |cfff2f200Mortal Wound on |r|cfff2f200Tank1|r|cfff2f200 (4)|r |T0:12:12|t 
+[ 40.47] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Healer2|r|cffff7f00|r |T0:12:12|t 
+[ 51.80] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Dps2|r|cffff7f00|r |T0:12:12|t 
+[ 59.90] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Dps3|r|cffff7f00|r |T0:12:12|t 
+[ 61.20] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[ 67.97] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[ 76.07] <Kurinnaxx> |cffffb200[Special Warning]  |T0:12:12|t Sand Trap on you |T0:12:12|t |r
+[ 84.17] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Dps3|r|cffff7f00|r |T0:12:12|t 
+[ 87.40] <Kurinnaxx>  |T0:12:12|t |cfff2f200Mortal Wound on |r|cfff2f200Dps3|r|cfff2f200 (1)|r |T0:12:12|t 
+[ 91.20] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[ 92.27] <Kurinnaxx>  |T0:12:12|t |cffff7f00Enrage on |r|cffff7f00Kurinnaxx|r|cffff7f00|r |T0:12:12|t 
+[ 92.27] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Dps2|r|cffff7f00|r |T0:12:12|t 
+[ 95.53] <Kurinnaxx>  |T0:12:12|t |cfff2f200Mortal Wound on |r|cfff2f200Dps6|r|cfff2f200 (1)|r |T0:12:12|t 
+[100.40] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Dps6|r|cffff7f00|r |T0:12:12|t 
+[105.57] <Kurinnaxx>  |T0:12:12|t |cfff2f200Mortal Wound on |r|cfff2f200Dps2|r|cfff2f200 (1)|r |T0:12:12|t 
+[111.70] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Dps1|r|cffff7f00|r |T0:12:12|t 
+[118.17] <Kurinnaxx>  |T0:12:12|t |cfff2f200Mortal Wound on |r|cfff2f200Dps2|r|cfff2f200 (2)|r |T0:12:12|t 
+[119.80] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Dps1|r|cffff7f00|r |T0:12:12|t 
+[121.20] <AQ20 Trash> |cffffb200[Special Warning]  |T136116:12:12|t Exploding ghosts - dodge |T136116:12:12|t |r
+[126.27] <Kurinnaxx>  |T0:12:12|t |cfff2f200Mortal Wound on |r|cfff2f200Dps4|r|cfff2f200 (1)|r |T0:12:12|t 
+[127.90] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Healer2|r|cffff7f00|r |T0:12:12|t 
+[134.40] <Kurinnaxx>  |T0:12:12|t |cfff2f200Mortal Wound on |r|cfff2f200Dps4|r|cfff2f200 (2)|r |T0:12:12|t 
+[136.03] <Kurinnaxx>  |T0:12:12|t |cffff7f00Sand Trap on |r|cffff7f00Healer2|r|cffff7f00|r |T0:12:12|t 
+[143.57] <DBM> 20 Player - Kurinnaxx down after 2 |4minute:minutes; and 22.53 |4second:seconds;!
+[145.67] <DBM> Test playback for test SoD/AQ20/Kurinnaxx/Hardmode finished.

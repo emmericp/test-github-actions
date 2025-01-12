@@ -1,0 +1,63 @@
+[     ?] <DBM> Starting test: SoD/BWL/EbonrocFlamegor/BlueGreenBronze/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> PLAYER_DIFFICULTY2 (Green + Blue + Bronze) - Ebonroc and Flamegor engaged. Good luck and have fun! :)
+[  7.70] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Tank2|r|cffff7f00|r |T0:12:12|t 
+[  7.70] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Tank1|r|cffff1919|r |T0:12:12|t 
+[ 25.50] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[ 36.00] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[ 40.07] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[ 48.20] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[ 55.07] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Healer5|r|cffff7f00|r |T0:12:12|t 
+[ 55.07] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Dps9|r|cffff1919|r |T0:12:12|t 
+[ 61.07] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[ 66.03] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[ 74.13] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[ 87.03] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[ 90.33] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[ 91.93] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[ 98.43] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t 4 stacks of Brand of Flame on you |T0:12:12|t |r
+[102.50] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Dps8|r|cffff7f00|r |T0:12:12|t 
+[102.50] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Tank1|r|cffff1919|r |T0:12:12|t 
+[112.93] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[114.53] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[117.83] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[134.00] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[138.83] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[143.70] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[149.80] <Season of Discovery Trials> |cffffb200[Special Warning]  |T0:12:12|t Blue Bomb on you |T0:12:12|t |r
+[149.80] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Dps4|r|cffff1919|r |T0:12:12|t 
+[150.20] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t 4 stacks of Brand of Shadow on you |T0:12:12|t |r
+[159.90] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[164.70] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[169.60] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[185.77] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[189.00] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t 4 stacks of Brand of Flame on you |T0:12:12|t |r
+[190.60] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[195.47] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[197.10] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Healer1|r|cffff7f00|r |T0:12:12|t 
+[197.10] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Dps1|r|cffff1919|r |T0:12:12|t 
+[201.97] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t 5 stacks of Brand of Flame on you |T0:12:12|t |r
+[211.70] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[216.47] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[221.40] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[237.60] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[240.83] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t 4 stacks of Brand of Shadow on you |T0:12:12|t |r
+[242.40] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[244.50] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Healer1|r|cffff7f00|r |T0:12:12|t 
+[244.50] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Dps10|r|cffff1919|r |T0:12:12|t 
+[247.30] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[253.80] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t 5 stacks of Brand of Shadow on you |T0:12:12|t |r
+[263.50] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[266.77] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t 6 stacks of Brand of Shadow on you |T0:12:12|t |r
+[268.30] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[273.20] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[289.40] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Flamegor - dispel now |T0:12:12|t |r
+[291.83] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Dps6|r|cffff7f00|r |T0:12:12|t 
+[291.83] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Dps11|r|cffff1919|r |T0:12:12|t 
+[292.67] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t 4 stacks of Brand of Flame on you |T0:12:12|t |r
+[294.20] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet soon |T0:12:12|t |r
+[299.10] <Ebonroc and Flamegor>  |T0:12:12|t |cfff2f200Wing Buffet|r |T0:12:12|t 
+[305.60] <Ebonroc and Flamegor> |cffffb200[Special Warning]  |T0:12:12|t 5 stacks of Brand of Flame on you |T0:12:12|t |r
+[320.03] <DBM> PLAYER_DIFFICULTY2 (Green + Blue + Bronze) - Ebonroc and Flamegor down after 5 |4minute:minutes; and 19.03 |4second:seconds;!
+[322.13] <DBM> Test playback for test SoD/BWL/EbonrocFlamegor/BlueGreenBronze/Kill finished.

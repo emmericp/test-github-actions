@@ -1,0 +1,23 @@
+[     ?] <DBM> Starting test: SoD/MC/Lucifron/Heat-3/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player (3) - Lucifron engaged. Good luck and have fun! :)
+[  6.63] <Lucifron>  |T0:12:12|t |cfff2f200Impending Doom|r |T0:12:12|t 
+[ 12.73] <Lucifron>  |T0:12:12|t |cffff7f00Lucifron's Curse|r |T0:12:12|t 
+[ 24.43] <Lucifron>  |T0:12:12|t |cfff2f200Impending Doom|r |T0:12:12|t 
+[ 34.13] <Lucifron>  |T0:12:12|t |cffff7f00Lucifron's Curse|r |T0:12:12|t 
+[ 41.83] <Lucifron>  |T0:12:12|t |cfff2f200Impending Doom|r |T0:12:12|t 
+[ 55.23] <Lucifron>  |T0:12:12|t |cffff7f00Lucifron's Curse|r |T0:12:12|t 
+[ 58.07] <Lucifron>  |T0:12:12|t |cfff2f200Impending Doom|r |T0:12:12|t 
+[ 79.50] <Lucifron>  |T0:12:12|t |cffff7f00Lucifron's Curse|r |T0:12:12|t 
+[ 79.67] <Lucifron>  |T0:12:12|t |cfff2f200Impending Doom|r |T0:12:12|t 
+[ 97.30] <Lucifron>  |T0:12:12|t |cfff2f200Impending Doom|r |T0:12:12|t 
+[103.40] <Lucifron>  |T0:12:12|t |cffff7f00Lucifron's Curse|r |T0:12:12|t 
+[113.53] <Lucifron>  |T0:12:12|t |cfff2f200Impending Doom|r |T0:12:12|t 
+[126.47] <Lucifron>  |T0:12:12|t |cffff7f00Lucifron's Curse|r |T0:12:12|t 
+[130.90] <Lucifron>  |T0:12:12|t |cfff2f200Impending Doom|r |T0:12:12|t 
+[147.50] <Lucifron>  |T0:12:12|t |cfff2f200Impending Doom|r |T0:12:12|t 
+[150.33] <Lucifron>  |T0:12:12|t |cffff7f00Lucifron's Curse|r |T0:12:12|t 
+[166.90] <Lucifron>  |T0:12:12|t |cfff2f200Impending Doom|r |T0:12:12|t 
+[169.10] <DBM> 20 Player (3) - Lucifron down after 2 |4minute:minutes; and 48.10 |4second:seconds;!
+[171.20] <DBM> Test playback for test SoD/MC/Lucifron/Heat-3/Kill finished.

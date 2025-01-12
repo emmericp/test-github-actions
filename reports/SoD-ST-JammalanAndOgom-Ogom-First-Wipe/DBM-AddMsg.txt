@@ -1,0 +1,59 @@
+[     ?] <DBM> Starting test: SoD/ST/JammalanAndOgom/Ogom-First/Wipe
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> Normal - Jammal'an and Ogom engaged. Good luck and have fun! :)
+[  4.60] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[  6.23] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Mortal Lash on |r|cfff2f200Schamuhne|r|cfff2f200|r |T0:12:12|t 
+[  8.83] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Holy Fire on |r|cfff2f200FakePlayer|r|cfff2f200, |r|cfff2f200Illiath|r|cfff2f200, |r|cfff2f200Gotchya|r|cfff2f200, |r|cfff2f200Schamuhne|r|cfff2f200, |r|cfff2f200Muhscle|r|cfff2f200|r |T0:12:12|t 
+[  9.43] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Holy Nova - dodge attack |T0:12:12|t |r
+[ 13.07] <Jammal'an and Ogom>  |T0:12:12|t |cffff7f00Agonizing Weakness|r |T0:12:12|t 
+[ 13.07] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 19.53] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 22.17] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Holy Fire on |r|cfff2f200Camie|r|cfff2f200, |r|cfff2f200Obile|r|cfff2f200, |r|cfff2f200Beppoo|r|cfff2f200, |r|cfff2f200Schamuhne|r|cfff2f200, |r|cfff2f200Snui|r|cfff2f200|r |T0:12:12|t 
+[ 24.40] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 27.23] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Holy Nova - dodge attack |T0:12:12|t |r
+[ 29.27] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 32.10] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Mortal Lash on |r|cfff2f200Schamuhne|r|cfff2f200|r |T0:12:12|t 
+[ 36.33] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Holy Fire on |r|cfff2f200Hantha|r|cfff2f200, |r|cfff2f200Krashnakh|r|cfff2f200, |r|cfff2f200Illiath|r|cfff2f200, |r|cfff2f200Gotchya|r|cfff2f200, |r|cfff2f200Shelisea|r|cfff2f200|r |T0:12:12|t 
+[ 36.97] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 40.63] <Jammal'an and Ogom>  |T0:12:12|t |cffff7f00Agonizing Weakness|r |T0:12:12|t 
+[ 41.83] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 45.47] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Holy Nova - dodge attack |T0:12:12|t |r
+[ 49.73] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Holy Fire on |r|cfff2f200Beppoo|r|cfff2f200, |r|cfff2f200Shelisea|r|cfff2f200, |r|cfff2f200Schamuhne|r|cfff2f200, |r|cfff2f200Noxea|r|cfff2f200, |r|cfff2f200Tisakyle|r|cfff2f200|r |T0:12:12|t 
+[ 50.33] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 55.23] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 60.03] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 63.30] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Holy Nova - dodge attack |T0:12:12|t |r
+[ 67.13] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Holy Fire on |r|cfff2f200Camie|r|cfff2f200, |r|cfff2f200FakePlayer|r|cfff2f200, |r|cfff2f200Shelisea|r|cfff2f200, |r|cfff2f200Vargana|r|cfff2f200, |r|cfff2f200Discomuh|r|cfff2f200|r |T0:12:12|t 
+[ 68.17] <Jammal'an and Ogom>  |T0:12:12|t |cffff7f00Agonizing Weakness|r |T0:12:12|t 
+[ 68.17] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 74.60] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 80.47] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Holy Fire on |r|cfff2f200Camie|r|cfff2f200, |r|cfff2f200Hantha|r|cfff2f200, |r|cfff2f200Beppoo|r|cfff2f200, |r|cfff2f200Muhnshine|r|cfff2f200, |r|cfff2f200Rajkan|r|cfff2f200|r |T0:12:12|t 
+[ 80.67] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Holy Nova - dodge attack |T0:12:12|t |r
+[ 82.70] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Smite - interrupt Jammal'an the Prophet! |T0:12:12|t |r
+[ 83.83] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Mortal Lash on |r|cfff2f200Schamuhne|r|cfff2f200|r |T0:12:12|t 
+[ 90.80] <Jammal'an and Ogom>  |T136116:12:12|t |cfff2f200Stage 2|r |T136116:12:12|t 
+[107.00] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Holy Nova - dodge attack |T0:12:12|t |r
+[108.23] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Shadow Sermon: Pain on |r|cfff2f200Obile|r|cfff2f200, |r|cfff2f200Hantha|r|cfff2f200, |r|cfff2f200FakePlayer|r|cfff2f200, |r|cfff2f200Elemento|r|cfff2f200, |r|cfff2f200Vargana|r|cfff2f200, |r|cfff2f200Discomuh|r|cfff2f200, |r|cfff2f200Schamuhne and 2 others|r|cfff2f200|r |T0:12:12|t 
+[111.83] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Psychic Scream! |T0:12:12|t |r
+[115.10] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Power Word: Shield on Jammal'an the Prophet - dispel now |T0:12:12|t |r
+[118.33] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Mass Penance - dodge attack |T0:12:12|t |r
+[124.40] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Holy Nova - dodge attack |T0:12:12|t |r
+[130.03] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Shadow Sermon: Pain on |r|cfff2f200Obile|r|cfff2f200, |r|cfff2f200Hantha|r|cfff2f200, |r|cfff2f200Krashnakh|r|cfff2f200, |r|cfff2f200Beppoo|r|cfff2f200, |r|cfff2f200Muhnshine|r|cfff2f200, |r|cfff2f200Illiath|r|cfff2f200, |r|cfff2f200Elemento and 3 others|r|cfff2f200|r |T0:12:12|t 
+[131.27] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Power Word: Shield on Jammal'an the Prophet - dispel now |T0:12:12|t |r
+[139.33] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Mass Penance - dodge attack |T0:12:12|t |r
+[143.80] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Holy Nova - dodge attack |T0:12:12|t |r
+[147.07] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Power Word: Shield on Jammal'an the Prophet - dispel now |T0:12:12|t |r
+[152.70] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Shadow Sermon: Pain on |r|cfff2f200Hantha|r|cfff2f200, |r|cfff2f200Krashnakh|r|cfff2f200, |r|cfff2f200FakePlayer|r|cfff2f200, |r|cfff2f200Illiath|r|cfff2f200, |r|cfff2f200Shelisea|r|cfff2f200, |r|cfff2f200Elemento|r|cfff2f200, |r|cfff2f200Rajkan and 3 others|r|cfff2f200|r |T0:12:12|t 
+[155.53] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Psychic Scream! |T0:12:12|t |r
+[162.03] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Mass Penance - dodge attack |T0:12:12|t |r
+[166.47] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Power Word: Shield on Jammal'an the Prophet - dispel now |T0:12:12|t |r
+[166.47] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Holy Nova - dodge attack |T0:12:12|t |r
+[176.17] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Shadow Sermon: Pain on |r|cfff2f200Beppoo|r|cfff2f200, |r|cfff2f200FakePlayer|r|cfff2f200, |r|cfff2f200Illiath|r|cfff2f200, |r|cfff2f200Gotchya|r|cfff2f200, |r|cfff2f200Elemento|r|cfff2f200, |r|cfff2f200Discomuh|r|cfff2f200, |r|cfff2f200Schamuhne and 2 others|r|cfff2f200|r |T0:12:12|t 
+[183.07] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Mass Penance - dodge attack |T0:12:12|t |r
+[187.90] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Power Word: Shield on Jammal'an the Prophet - dispel now |T0:12:12|t |r
+[187.90] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Holy Nova - dodge attack |T0:12:12|t |r
+[198.83] <Jammal'an and Ogom> |cffffb200[Special Warning]  |T0:12:12|t Psychic Scream! |T0:12:12|t |r
+[198.87] <Jammal'an and Ogom>  |T0:12:12|t |cfff2f200Shadow Sermon: Pain on |r|cfff2f200Elemento|r|cfff2f200|r |T0:12:12|t 
+[200.50] <DBM> Combat against Normal - Jammal'an and Ogom (Unknown (SCENARIO_STAGE(2)) (BOSSES_KILLED(1, 2))) ended after 3 |4minute:minutes; and 20.49 |4second:seconds;. You have 1 total wipe(s) on this difficulty.
+[203.63] <DBM> Test playback for test SoD/ST/JammalanAndOgom/Ogom-First/Wipe finished.
