@@ -1,0 +1,37 @@
+[     ?] <DBM> Starting test: SoD/MC/Geddon/Heat-2/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player (2) - Baron Geddon engaged. Good luck and have fun! :)
+[ 13.03] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno - run away |T0:12:12|t |r
+[ 15.20] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps3|r|cffff1919, |r|cffff1919Dps4|r|cffff1919|r |T0:12:12|t 
+[ 24.00] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Ignite Mana on Tank1, Pet1 - dispel now |T0:12:12|t |r
+[ 31.37] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps1|r|cffff1919, |r|cffff1919Healer3|r|cffff1919|r |T0:12:12|t 
+[ 37.33] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno - run away |T0:12:12|t |r
+[ 42.13] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Living Fallout damage - move away |T0:12:12|t |r
+[ 45.57] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps6|r|cffff1919, |r|cffff1919Tank1|r|cffff1919|r |T0:12:12|t 
+[ 54.23] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Ignite Mana on Dps1, Dps2, Dps3, Dps4, FakePlayer, Dps7 and 8 others - dispel now |T0:12:12|t |r
+[ 58.87] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps4|r|cffff1919, |r|cffff1919Dps8|r|cffff1919|r |T0:12:12|t 
+[ 59.07] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Living Fallout damage - move away |T0:12:12|t |r
+[ 63.57] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno - run away |T0:12:12|t |r
+[ 75.30] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno damage - move away |T0:12:12|t |r
+[ 83.00] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Living Bomb on you |T0:12:12|t |r
+[ 83.13] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps1|r|cffff1919, |r|cffff1919FakePlayer|r|cffff1919|r |T0:12:12|t 
+[ 92.30] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno - run away |T0:12:12|t |r
+[ 96.27] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Ignite Mana on Dps2, Dps3, FakePlayer, Dps6, Healer2, Dps8 and 6 others - dispel now |T0:12:12|t |r
+[ 98.90] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps8|r|cffff1919, |r|cffff1919Dps7|r|cffff1919|r |T0:12:12|t 
+[110.60] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps11|r|cffff1919, |r|cffff1919Dps12|r|cffff1919|r |T0:12:12|t 
+[116.53] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno - run away |T0:12:12|t |r
+[126.40] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno damage - move away |T0:12:12|t |r
+[126.60] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Ignite Mana on Dps14, Dps3, Healer1, Tank1, Dps10, Dps15 - dispel now |T0:12:12|t |r
+[141.37] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps13|r|cffff1919, |r|cffff1919Dps16|r|cffff1919|r |T0:12:12|t 
+[145.73] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno - run away |T0:12:12|t |r
+[152.00] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno damage - move away |T0:12:12|t |r
+[153.97] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps9|r|cffff1919, |r|cffff1919Dps12|r|cffff1919|r |T0:12:12|t 
+[155.03] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno damage - move away |T0:12:12|t |r
+[157.80] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Ignite Mana on Dps1, Dps3, Dps4, FakePlayer, Dps6, Dps7 and 8 others - dispel now |T0:12:12|t |r
+[168.93] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps12|r|cffff1919, |r|cffff1919Dps15|r|cffff1919|r |T0:12:12|t 
+[179.70] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Inferno - run away |T0:12:12|t |r
+[183.47] <Baron Geddon>  |T0:12:12|t |cffff1919Living Bomb on |r|cffff1919Dps2|r|cffff1919, |r|cffff1919Healer2|r|cffff1919|r |T0:12:12|t 
+[191.40] <Baron Geddon> |cffffb200[Special Warning]  |T0:12:12|t Armageddon! |T0:12:12|t |r
+[205.97] <DBM> 20 Player (2) - Baron Geddon down after 3 |4minute:minutes; and 24.93 |4second:seconds;!
+[208.07] <DBM> Test playback for test SoD/MC/Geddon/Heat-2/Kill finished.

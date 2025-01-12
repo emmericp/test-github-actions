@@ -1,0 +1,11 @@
+[     ?] <DBM> Starting test: SoD/MC/Magmadar/Heat-1/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player (1) - Magmadar engaged. Good luck and have fun! :)
+[  6.47] <Magmadar> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Magmadar - dispel now |T0:12:12|t |r
+[  8.10] <Magmadar>  |T0:12:12|t |cfff2f200Panic|r |T0:12:12|t 
+[ 27.53] <Magmadar> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Magmadar - dispel now |T0:12:12|t |r
+[ 45.30] <Magmadar> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Magmadar - dispel now |T0:12:12|t |r
+[ 63.10] <Magmadar> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Magmadar - dispel now |T0:12:12|t |r
+[ 79.20] <DBM> 20 Player (1) - Magmadar down after 1 |4minute:minutes; and 18.20 |4second:seconds;!
+[ 81.30] <DBM> Test playback for test SoD/MC/Magmadar/Heat-1/Kill finished.

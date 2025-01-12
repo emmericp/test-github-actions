@@ -1,0 +1,11 @@
+[     ?] <DBM> Starting test: SoD/MC/Golemagg/Heat-2/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player (2) - Golemagg the Incinerator engaged. Good luck and have fun! :)
+[ 25.93] <Golemagg the Incinerator> |cffffb200[Special Warning]  |T0:12:12|t Falling Rocks - dodge attack |T0:12:12|t |r
+[ 30.80] <Golemagg the Incinerator>  |T0:12:12|t |cfff2f200Earthquake|r |T0:12:12|t 
+[ 46.97] <Golemagg the Incinerator>  |T0:12:12|t |cfff2f200Earthquake|r |T0:12:12|t 
+[ 56.73] <Golemagg the Incinerator> |cffffb200[Special Warning]  |T0:12:12|t Falling Rocks - dodge attack |T0:12:12|t |r
+[ 77.73] <Golemagg the Incinerator>  |T0:12:12|t |cfff2f200Earthquake|r |T0:12:12|t 
+[ 79.93] <DBM> 20 Player (2) - Golemagg the Incinerator down after 1 |4minute:minutes; and 18.89 |4second:seconds;!
+[ 82.03] <DBM> Test playback for test SoD/MC/Golemagg/Heat-2/Kill finished.

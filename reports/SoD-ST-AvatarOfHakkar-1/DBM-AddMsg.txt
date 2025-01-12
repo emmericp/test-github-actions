@@ -1,0 +1,70 @@
+[     ?] <DBM> Starting test: SoD/ST/AvatarOfHakkar/1
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> Normal - Avatar of Hakkar engaged. Good luck and have fun! :)
+[ 16.73] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Bubbling Blood|r |T0:12:12|t 
+[ 21.60] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Spirit Chains on |r|cffff7f00Simplyorc|r|cffff7f00|r |T0:12:12|t 
+[ 26.43] <Avatar of Hakkar> |cffffb200[Special Warning]  |T0:12:12|t Frightsome Howl - interrupt Hakkari Bloodkeeper! |T0:12:12|t |r
+[ 28.47] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Bubbling Blood|r |T0:12:12|t 
+[ 31.37] <Avatar of Hakkar> |cffffb200[Special Warning]  |T0:12:12|t Bubbling Blood damage - move away |T0:12:12|t |r
+[ 37.80] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Spirit Chains on |r|cffff7f00Shabbyx|r|cffff7f00|r |T0:12:12|t 
+[ 39.40] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Bubbling Blood|r |T0:12:12|t 
+[ 49.13] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Bubbling Blood|r |T0:12:12|t 
+[ 55.53] <Avatar of Hakkar> |cffffb200[Special Warning]  |T0:12:12|t Bubbling Blood damage - move away |T0:12:12|t |r
+[ 60.43] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (1)|r |T0:12:12|t 
+[ 66.80] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Insanity on |r|cffff7f00Stahlsand|r|cffff7f00|r |T0:12:12|t 
+[ 70.10] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (2)|r |T0:12:12|t 
+[ 70.73] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919Mazl|r|cffff1919, |r|cffff1919Vivix|r|cffff1919|r |T0:12:12|t 
+[ 76.63] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (3)|r |T0:12:12|t 
+[ 78.13] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Drain Blood (1)|r |T0:12:12|t 
+[ 83.23] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (4)|r |T0:12:12|t 
+[ 84.00] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Skeletal on |r|cffff7f00Simplyorc|r|cffff7f00, |r|cffff7f00Mazl|r|cffff7f00, |r|cffff7f00Vivix|r|cffff7f00|r |T0:12:12|t 
+[ 85.93] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919Snuqz|r|cffff1919, |r|cffff1919Shabbyx|r|cffff1919|r |T0:12:12|t 
+[ 91.20] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (5)|r |T0:12:12|t 
+[ 94.30] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Insanity on |r|cffff7f00Shabbyx|r|cffff7f00|r |T0:12:12|t 
+[ 99.27] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (6)|r |T0:12:12|t 
+[103.37] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919Simplyorc|r|cffff1919|r |T0:12:12|t 
+[105.47] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Curse of Tongues on |r|cffff7f00Simplyorc|r|cffff7f00|r |T0:12:12|t 
+[107.37] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (7)|r |T0:12:12|t 
+[112.20] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Drain Blood (2)|r |T0:12:12|t 
+[116.60] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (8)|r |T0:12:12|t 
+[118.13] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Skeletal on |r|cffff7f00Simplyorc|r|cffff7f00, |r|cffff7f00Snuqz|r|cffff7f00|r |T0:12:12|t 
+[121.77] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Insanity on |r|cffff7f00Mafakacoil|r|cffff7f00|r |T0:12:12|t 
+[122.00] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919Discokeks|r|cffff1919|r |T0:12:12|t 
+[123.53] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (9)|r |T0:12:12|t 
+[131.63] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (10)|r |T0:12:12|t 
+[136.10] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919Snuqz|r|cffff1919, |r|cffff1919Bruzo|r|cffff1919|r |T0:12:12|t 
+[137.53] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Curse of Tongues on |r|cffff7f00Simplyorc|r|cffff7f00|r |T0:12:12|t 
+[139.73] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (11)|r |T0:12:12|t 
+[147.83] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Drain Blood (3)|r |T0:12:12|t 
+[152.67] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (12)|r |T0:12:12|t 
+[153.70] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Skeletal on |r|cffff7f00Simplyorc|r|cffff7f00, |r|cffff7f00Discokeks|r|cffff7f00, |r|cffff7f00Snuqz|r|cffff7f00, |r|cffff7f00Bruzo|r|cffff7f00, |r|cffff7f00Shabbyx|r|cffff7f00|r |T0:12:12|t 
+[155.80] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Insanity on |r|cffff7f00Swain|r|cffff7f00|r |T0:12:12|t 
+[157.17] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919Shabbyx|r|cffff1919, |r|cffff1919Bruzo|r|cffff1919|r |T0:12:12|t 
+[160.73] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (13)|r |T0:12:12|t 
+[168.57] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Curse of Tongues on |r|cffff7f00Simplyorc|r|cffff7f00, |r|cffff7f00Shelisea|r|cffff7f00|r |T0:12:12|t 
+[168.83] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (14)|r |T0:12:12|t 
+[174.13] <Avatar of Hakkar> |cffffb200[Special Warning]  |T0:12:12|t Corrupted Blood - move away from others |T0:12:12|t |r
+[174.20] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919FakePlayer|r|cffff1919, |r|cffff1919Stahlsand|r|cffff1919|r |T0:12:12|t 
+[176.93] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (15)|r |T0:12:12|t 
+[183.30] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Insanity on |r|cffff7f00Bruzo|r|cffff7f00|r |T0:12:12|t 
+[183.43] <Avatar of Hakkar> |cffffb200[Special Warning]  |T0:12:12|t Drain Blood - move to Front |T0:12:12|t |r
+[189.37] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Skeletal on |r|cffff7f00Simplyorc|r|cffff7f00, |r|cffff7f00Bruzo|r|cffff7f00, |r|cffff7f00Stahlsand|r|cffff7f00, |r|cffff7f00Shabbyx|r|cffff7f00|r |T0:12:12|t 
+[189.63] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (16)|r |T0:12:12|t 
+[190.37] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919Stolzenburg|r|cffff1919, |r|cffff1919Arthritîs|r|cffff1919|r |T0:12:12|t 
+[196.40] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (17)|r |T0:12:12|t 
+[199.97] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Curse of Tongues on |r|cffff7f00Simplyorc|r|cffff7f00, |r|cffff7f00Shabbyx|r|cffff7f00|r |T0:12:12|t 
+[204.50] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (18)|r |T0:12:12|t 
+[208.23] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919Snuqz|r|cffff1919, |r|cffff1919Luschimage|r|cffff1919|r |T0:12:12|t 
+[210.87] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Insanity on |r|cffff7f00Biztog|r|cffff7f00|r |T0:12:12|t 
+[212.60] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (19)|r |T0:12:12|t 
+[217.43] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Drain Blood (5)|r |T0:12:12|t 
+[223.23] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Skeletal on |r|cffff7f00Simplyorc|r|cffff7f00, |r|cffff7f00Stolzenburg|r|cffff7f00, |r|cffff7f00Arthritîs|r|cffff7f00, |r|cffff7f00Snuqz|r|cffff7f00|r |T0:12:12|t 
+[223.90] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (20)|r |T0:12:12|t 
+[224.33] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919Discokeks|r|cffff1919, |r|cffff1919Arthritîs|r|cffff1919|r |T0:12:12|t 
+[230.33] <Avatar of Hakkar>  |T0:12:12|t |cffff1919|r|cffff1919Discokeks|r|cffff1919 cast Corrupted Blood on |r|cffff1919Arthritîs|r|cffff1919|r |T0:12:12|t 
+[230.67] <Avatar of Hakkar>  |T0:12:12|t |cffff1919Corrupted Blood on |r|cffff1919Arthritîs|r|cffff1919|r |T0:12:12|t 
+[231.60] <Avatar of Hakkar>  |T0:12:12|t |cffff7f00Curse of Tongues on |r|cffff7f00Simplyorc|r|cffff7f00, |r|cffff7f00Shabbyx|r|cffff7f00|r |T0:12:12|t 
+[231.97] <Avatar of Hakkar>  |T0:12:12|t |cfff2f200Blood Nova (21)|r |T0:12:12|t 
+[233.17] <DBM> Normal - Avatar of Hakkar down after 3 |4minute:minutes; and 52.13 |4second:seconds;!
+[235.27] <DBM> Test playback for test SoD/ST/AvatarOfHakkar/1 finished.

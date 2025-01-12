@@ -1,0 +1,24 @@
+[     ?] <DBM> Starting test: SoD/BWL/Broodlord/Heroic/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> PLAYER_DIFFICULTY2 (Black) - Broodlord Lashlayer engaged. Good luck and have fun! :)
+[ 13.77] <Broodlord Lashlayer>  |T0:12:12|t |cffff7f00Knock Away|r |T0:12:12|t 
+[ 15.40] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Blast Wave|r |T0:12:12|t 
+[ 17.73] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Mortal Strike on |r|cfff2f200Tank2|r|cfff2f200|r |T0:12:12|t 
+[ 25.10] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Tactical Charge on |r|cfff2f200Dps3|r|cfff2f200|r |T0:12:12|t 
+[ 39.67] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Blast Wave|r |T0:12:12|t 
+[ 47.77] <Broodlord Lashlayer>  |T0:12:12|t |cffff7f00Knock Away|r |T0:12:12|t 
+[ 72.00] <Broodlord Lashlayer>  |T0:12:12|t |cffff7f00Knock Away|r |T0:12:12|t 
+[ 78.47] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Blast Wave|r |T0:12:12|t 
+[ 96.27] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Blast Wave|r |T0:12:12|t 
+[ 99.53] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Mortal Strike on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[101.17] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Tactical Charge on |r|cfff2f200Healer2|r|cfff2f200|r |T0:12:12|t 
+[106.80] <Broodlord Lashlayer>  |T136116:12:12|t |cfff2f200Stage 2 soon|r |T136116:12:12|t 
+[115.70] <Broodlord Lashlayer>  |T0:12:12|t |cffff7f00Knock Away|r |T0:12:12|t 
+[120.57] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Tactical Charge on |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[133.50] <Broodlord Lashlayer>  |T0:12:12|t |cffff7f00Knock Away|r |T0:12:12|t 
+[133.53] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Blast Wave|r |T0:12:12|t 
+[138.37] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Tactical Charge on |r|cfff2f200Healer4|r|cfff2f200|r |T0:12:12|t 
+[151.27] <Broodlord Lashlayer>  |T0:12:12|t |cfff2f200Mortal Strike on |r|cfff2f200Tank2|r|cfff2f200|r |T0:12:12|t 
+[153.60] <DBM> PLAYER_DIFFICULTY2 (Black) - Broodlord Lashlayer down after 2 |4minute:minutes; and 32.60 |4second:seconds;!
+[155.70] <DBM> Test playback for test SoD/BWL/Broodlord/Heroic/Kill finished.
