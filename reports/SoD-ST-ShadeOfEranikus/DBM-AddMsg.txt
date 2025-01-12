@@ -1,0 +1,24 @@
+[     ?] <DBM> Starting test: SoD/ST/ShadeOfEranikus
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> Normal - Shade of Eranikus engaged. Good luck and have fun! :)
+[ 14.27] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Deep Slumber (1) - dodge attack |T0:12:12|t |r
+[ 17.13] <Shade of Eranikus>  |T0:12:12|t |cffff7f00Lethargic Poison on |r|cffff7f00FakePlayer|r|cffff7f00, |r|cffff7f00Arthritîs|r|cffff7f00, |r|cffff7f00Bruzo|r|cffff7f00, |r|cffff7f00Gigachaddmg|r|cffff7f00|r |T0:12:12|t 
+[ 22.33] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Bellowing Roar - interrupt Shade of Eranikus! (1) |T0:12:12|t |r
+[ 37.33] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Lethargic Poison - interrupt Lumbering Dreamwalker! (1) |T0:12:12|t |r
+[ 37.33] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Lethargic Poison - interrupt Lumbering Dreamwalker! (1) |T0:12:12|t |r
+[ 55.20] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Deep Slumber (2) - dodge attack |T0:12:12|t |r
+[ 57.93] <Shade of Eranikus>  |T0:12:12|t |cffff7f00Lethargic Poison on |r|cffff7f00Stolzenburg|r|cffff7f00, |r|cffff7f00Shelisea|r|cffff7f00, |r|cffff7f00Discokeks|r|cffff7f00, |r|cffff7f00Mazl|r|cffff7f00|r |T0:12:12|t 
+[ 74.20] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Deep Slumber (3) - dodge attack |T0:12:12|t |r
+[ 76.90] <Shade of Eranikus>  |T0:12:12|t |cffff7f00Lethargic Poison on |r|cffff7f00Bruzo|r|cffff7f00, |r|cffff7f00Arthritîs|r|cffff7f00, |r|cffff7f00Holyforce|r|cffff7f00, |r|cffff7f00Behlial|r|cffff7f00|r |T0:12:12|t 
+[ 82.30] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Waking Nightmare - move to Deep Slumber |T0:12:12|t |r
+[ 98.47] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Lethargic Poison - interrupt Lumbering Dreamwalker! (1) |T0:12:12|t |r
+[ 98.87] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Lethargic Poison - interrupt Lumbering Dreamwalker! (1) |T0:12:12|t |r
+[100.50] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Lethargic Poison - interrupt Lumbering Dreamwalker! (2) |T0:12:12|t |r
+[117.90] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Deep Slumber (4) - dodge attack |T0:12:12|t |r
+[120.27] <Shade of Eranikus>  |T0:12:12|t |cffff7f00Lethargic Poison on |r|cffff7f00Mafakacoil|r|cffff7f00, |r|cffff7f00Behlial|r|cffff7f00, |r|cffff7f00Arthritîs|r|cffff7f00, |r|cffff7f00Discokeks|r|cffff7f00|r |T0:12:12|t 
+[123.80] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Bellowing Roar - interrupt Shade of Eranikus! (2) |T0:12:12|t |r
+[137.33] <Shade of Eranikus> |cffffb200[Special Warning]  |T0:12:12|t Deep Slumber (5) - dodge attack |T0:12:12|t |r
+[140.90] <Shade of Eranikus>  |T0:12:12|t |cffff7f00Lethargic Poison on |r|cffff7f00Stolzenburg|r|cffff7f00, |r|cffff7f00Bruzo|r|cffff7f00, |r|cffff7f00Arthritîs|r|cffff7f00|r |T0:12:12|t 
+[154.30] <DBM> Normal - Shade of Eranikus down after 2 |4minute:minutes; and 33.26 |4second:seconds;!
+[156.40] <DBM> Test playback for test SoD/ST/ShadeOfEranikus finished.

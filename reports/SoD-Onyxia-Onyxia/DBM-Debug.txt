@@ -1,0 +1,942 @@
+[  0.00] Debug(1): ENCOUNTER_START event fired: 1084 Onyxia 186 40
+[  0.00] Debug(1): StartCombat called by : ENCOUNTER_START. LastInstanceMapID is 249
+[  0.00] Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+[  0.00] Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 40 Player - , 186, 40, 0
+[  0.00] Debug(1): DBM_SetStage: 1/1
+[  0.00] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Raids-Vanilla\VanillaOnyxia\sounds\dps-very-very-slowly.ogg
+[  0.23] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at Glassy
+[ 12.97] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 17.83] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 20.03] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Raids-Vanilla\VanillaOnyxia\sounds\hit-it-like-you-mean-it.ogg
+[ 30.03] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Raids-Vanilla\VanillaOnyxia\sounds\now-hit-it-very-hard-and-fast.ogg
+[ 35.63] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 42.13] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 63.13] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 69.60] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 82.53] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 94.27] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 95.70] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at 
+[ 95.70] Debug(1): DBM_SetStage: 2/2
+[ 95.70] Debug(3): PlaySoundFile playing with FileDataID 566558
+[ 95.70] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Raids-Vanilla\VanillaOnyxia\sounds\i-dont-see-enough-dots.ogg
+[105.73] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Raids-Vanilla\VanillaOnyxia\sounds\throw-more-dots.ogg
+[113.73] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Raids-Vanilla\VanillaOnyxia\sounds\whelps-left-side-even-side-handle-it.ogg
+[124.63] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\breathsoon.ogg
+[135.93] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[135.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[135.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[135.93] Debug(3): Boss target scan 1 of 6, found target Mafakacoil using target
+[135.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[135.93] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[138.93] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[138.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[138.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[138.93] Debug(3): Boss target scan 1 of 6, found target Mafakacoil using target
+[138.93] Debug(3): PlaySoundFile playing with FileDataID 566558
+[138.93] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[141.93] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[141.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[141.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[141.93] Debug(3): Boss target scan 1 of 6, found target nil using target
+[142.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[142.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[142.27] Debug(3): Boss target scan 2 of 6, found target nil using target
+[142.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[142.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[142.60] Debug(3): Boss target scan 3 of 6, found target nil using target
+[142.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[142.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[142.93] Debug(3): Boss target scan 4 of 6, found target nil using target
+[143.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[143.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[143.27] Debug(3): Boss target scan 5 of 6, found target nil using target
+[143.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[143.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[143.60] Debug(3): Boss target scan 6 of 6, found target nil using target
+[143.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[143.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[143.60] Debug(3): Boss target scan 7 of 6, found target nil using target
+[144.93] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[144.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[144.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[144.93] Debug(3): Boss target scan 1 of 6, found target nil using target
+[145.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[145.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[145.27] Debug(3): Boss target scan 2 of 6, found target nil using target
+[145.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[145.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[145.60] Debug(3): Boss target scan 3 of 6, found target nil using target
+[145.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[145.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[145.93] Debug(3): Boss target scan 4 of 6, found target nil using target
+[146.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[146.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[146.27] Debug(3): Boss target scan 5 of 6, found target nil using target
+[146.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[146.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[146.60] Debug(3): Boss target scan 6 of 6, found target nil using target
+[146.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[146.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[146.60] Debug(3): Boss target scan 7 of 6, found target nil using target
+[147.93] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[147.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[147.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[147.93] Debug(3): Boss target scan 1 of 6, found target nil using target
+[148.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[148.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[148.27] Debug(3): Boss target scan 2 of 6, found target nil using target
+[148.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[148.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[148.60] Debug(3): Boss target scan 3 of 6, found target nil using target
+[148.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[148.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[148.93] Debug(3): Boss target scan 4 of 6, found target nil using target
+[149.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[149.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[149.27] Debug(3): Boss target scan 5 of 6, found target nil using target
+[149.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[149.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[149.60] Debug(3): Boss target scan 6 of 6, found target nil using target
+[149.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[149.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[149.60] Debug(3): Boss target scan 7 of 6, found target nil using target
+[150.97] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[150.97] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[150.97] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[150.97] Debug(3): Boss target scan 1 of 6, found target nil using target
+[151.30] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[151.30] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[151.30] Debug(3): Boss target scan 2 of 6, found target nil using target
+[151.63] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[151.63] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[151.63] Debug(3): Boss target scan 3 of 6, found target nil using target
+[151.97] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[151.97] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[151.97] Debug(3): Boss target scan 4 of 6, found target nil using target
+[152.30] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[152.30] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[152.30] Debug(3): Boss target scan 5 of 6, found target nil using target
+[152.63] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[152.63] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[152.63] Debug(3): Boss target scan 6 of 6, found target nil using target
+[152.63] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[152.63] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[152.63] Debug(3): Boss target scan 7 of 6, found target nil using target
+[154.50] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at 
+[160.23] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[160.23] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[160.23] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[160.23] Debug(3): Boss target scan 1 of 6, found target nil using target
+[160.57] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[160.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[160.57] Debug(3): Boss target scan 2 of 6, found target nil using target
+[160.90] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[160.90] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[160.90] Debug(3): Boss target scan 3 of 6, found target nil using target
+[161.23] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[161.23] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[161.23] Debug(3): Boss target scan 4 of 6, found target nil using target
+[161.57] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[161.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[161.57] Debug(3): Boss target scan 5 of 6, found target nil using target
+[161.90] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[161.90] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[161.90] Debug(3): Boss target scan 6 of 6, found target nil using target
+[161.90] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[161.90] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[161.90] Debug(3): Boss target scan 7 of 6, found target nil using target
+[163.23] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[163.23] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[163.23] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[163.23] Debug(3): Boss target scan 1 of 6, found target nil using target
+[163.57] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[163.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[163.57] Debug(3): Boss target scan 2 of 6, found target nil using target
+[163.90] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[163.90] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[163.90] Debug(3): Boss target scan 3 of 6, found target nil using target
+[164.23] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[164.23] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[164.23] Debug(3): Boss target scan 4 of 6, found target nil using target
+[164.57] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[164.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[164.57] Debug(3): Boss target scan 5 of 6, found target nil using target
+[164.90] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[164.90] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[164.90] Debug(3): Boss target scan 6 of 6, found target nil using target
+[164.90] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[164.90] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[164.90] Debug(3): Boss target scan 7 of 6, found target nil using target
+[166.73] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[166.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[166.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[166.73] Debug(3): Boss target scan 1 of 6, found target Glassy using target
+[166.73] Debug(3): PlaySoundFile playing with FileDataID 566558
+[166.73] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[169.73] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[169.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[169.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[169.73] Debug(3): Boss target scan 1 of 6, found target Glassy using target
+[169.73] Debug(3): PlaySoundFile playing with FileDataID 566558
+[169.73] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[172.73] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[172.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[172.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[172.73] Debug(3): Boss target scan 1 of 6, found target nil using target
+[173.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[173.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[173.07] Debug(3): Boss target scan 2 of 6, found target nil using target
+[173.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[173.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[173.40] Debug(3): Boss target scan 3 of 6, found target nil using target
+[173.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[173.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[173.73] Debug(3): Boss target scan 4 of 6, found target nil using target
+[174.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[174.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[174.07] Debug(3): Boss target scan 5 of 6, found target nil using target
+[174.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[174.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[174.40] Debug(3): Boss target scan 6 of 6, found target nil using target
+[174.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[174.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[174.40] Debug(3): Boss target scan 7 of 6, found target nil using target
+[175.73] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[175.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[175.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[175.73] Debug(3): Boss target scan 1 of 6, found target nil using target
+[176.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[176.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[176.07] Debug(3): Boss target scan 2 of 6, found target nil using target
+[176.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[176.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[176.40] Debug(3): Boss target scan 3 of 6, found target nil using target
+[176.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[176.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[176.73] Debug(3): Boss target scan 4 of 6, found target nil using target
+[177.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[177.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[177.07] Debug(3): Boss target scan 5 of 6, found target nil using target
+[177.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[177.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[177.40] Debug(3): Boss target scan 6 of 6, found target nil using target
+[177.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[177.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[177.40] Debug(3): Boss target scan 7 of 6, found target nil using target
+[178.73] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[178.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[178.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[178.73] Debug(3): Boss target scan 1 of 6, found target nil using target
+[179.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[179.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[179.07] Debug(3): Boss target scan 2 of 6, found target nil using target
+[179.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[179.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[179.40] Debug(3): Boss target scan 3 of 6, found target nil using target
+[179.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[179.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[179.73] Debug(3): Boss target scan 4 of 6, found target nil using target
+[180.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[180.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[180.07] Debug(3): Boss target scan 5 of 6, found target nil using target
+[180.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[180.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[180.40] Debug(3): Boss target scan 6 of 6, found target nil using target
+[180.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[180.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[180.40] Debug(3): Boss target scan 7 of 6, found target nil using target
+[181.73] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[181.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[181.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[181.73] Debug(3): Boss target scan 1 of 6, found target Mafakacoil using target
+[181.73] Debug(3): PlaySoundFile playing with FileDataID 566558
+[181.73] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[184.77] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[184.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[184.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[184.77] Debug(3): Boss target scan 1 of 6, found target Mafakacoil using target
+[184.77] Debug(3): PlaySoundFile playing with FileDataID 566558
+[184.77] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[187.77] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[187.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[187.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[187.77] Debug(3): Boss target scan 1 of 6, found target nil using target
+[188.10] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[188.10] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[188.10] Debug(3): Boss target scan 2 of 6, found target nil using target
+[188.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[188.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[188.43] Debug(3): Boss target scan 3 of 6, found target nil using target
+[188.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[188.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[188.77] Debug(3): Boss target scan 4 of 6, found target nil using target
+[189.10] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[189.10] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[189.10] Debug(3): Boss target scan 5 of 6, found target nil using target
+[189.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[189.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[189.43] Debug(3): Boss target scan 6 of 6, found target nil using target
+[189.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[189.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[189.43] Debug(3): Boss target scan 7 of 6, found target nil using target
+[190.77] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[190.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[190.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[190.77] Debug(3): Boss target scan 1 of 6, found target nil using target
+[191.00] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at Orikkryz
+[191.10] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[191.10] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[191.10] Debug(3): Boss target scan 2 of 6, found target nil using target
+[191.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[191.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[191.43] Debug(3): Boss target scan 3 of 6, found target nil using target
+[191.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[191.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[191.77] Debug(3): Boss target scan 4 of 6, found target nil using target
+[192.10] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[192.10] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[192.10] Debug(3): Boss target scan 5 of 6, found target nil using target
+[192.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[192.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[192.43] Debug(3): Boss target scan 6 of 6, found target nil using target
+[192.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[192.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[192.43] Debug(3): Boss target scan 7 of 6, found target nil using target
+[200.73] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[200.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[200.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[200.73] Debug(3): Boss target scan 1 of 6, found target nil using target
+[201.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[201.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[201.07] Debug(3): Boss target scan 2 of 6, found target nil using target
+[201.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[201.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[201.40] Debug(3): Boss target scan 3 of 6, found target nil using target
+[201.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[201.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[201.73] Debug(3): Boss target scan 4 of 6, found target nil using target
+[202.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[202.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[202.07] Debug(3): Boss target scan 5 of 6, found target nil using target
+[202.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[202.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[202.40] Debug(3): Boss target scan 6 of 6, found target nil using target
+[202.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[202.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[202.40] Debug(3): Boss target scan 7 of 6, found target nil using target
+[203.73] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[203.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[203.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[203.73] Debug(3): Boss target scan 1 of 6, found target nil using target
+[204.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[204.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[204.07] Debug(3): Boss target scan 2 of 6, found target nil using target
+[204.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[204.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[204.40] Debug(3): Boss target scan 3 of 6, found target nil using target
+[204.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[204.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[204.73] Debug(3): Boss target scan 4 of 6, found target nil using target
+[205.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[205.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[205.07] Debug(3): Boss target scan 5 of 6, found target nil using target
+[205.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[205.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[205.40] Debug(3): Boss target scan 6 of 6, found target nil using target
+[205.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[205.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[205.40] Debug(3): Boss target scan 7 of 6, found target nil using target
+[206.73] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[206.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[206.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[206.73] Debug(3): Boss target scan 1 of 6, found target nil using target
+[207.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[207.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[207.07] Debug(3): Boss target scan 2 of 6, found target nil using target
+[207.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[207.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[207.40] Debug(3): Boss target scan 3 of 6, found target nil using target
+[207.73] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[207.73] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[207.73] Debug(3): Boss target scan 4 of 6, found target nil using target
+[208.07] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[208.07] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[208.07] Debug(3): Boss target scan 5 of 6, found target nil using target
+[208.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[208.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[208.40] Debug(3): Boss target scan 6 of 6, found target nil using target
+[208.40] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[208.40] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[208.40] Debug(3): Boss target scan 7 of 6, found target nil using target
+[209.77] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[209.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[209.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[209.77] Debug(3): Boss target scan 1 of 6, found target nil using target
+[210.10] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[210.10] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[210.10] Debug(3): Boss target scan 2 of 6, found target nil using target
+[210.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[210.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[210.43] Debug(3): Boss target scan 3 of 6, found target nil using target
+[210.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[210.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[210.77] Debug(3): Boss target scan 4 of 6, found target nil using target
+[211.10] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[211.10] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[211.10] Debug(3): Boss target scan 5 of 6, found target nil using target
+[211.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[211.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[211.43] Debug(3): Boss target scan 6 of 6, found target nil using target
+[211.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[211.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[211.43] Debug(3): Boss target scan 7 of 6, found target nil using target
+[212.77] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[212.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[212.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[212.77] Debug(3): Boss target scan 1 of 6, found target nil using target
+[213.10] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[213.10] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[213.10] Debug(3): Boss target scan 2 of 6, found target nil using target
+[213.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[213.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[213.43] Debug(3): Boss target scan 3 of 6, found target nil using target
+[213.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[213.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[213.77] Debug(3): Boss target scan 4 of 6, found target nil using target
+[214.10] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[214.10] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[214.10] Debug(3): Boss target scan 5 of 6, found target nil using target
+[214.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[214.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[214.43] Debug(3): Boss target scan 6 of 6, found target nil using target
+[214.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[214.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[214.43] Debug(3): Boss target scan 7 of 6, found target nil using target
+[215.77] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[215.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[215.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[215.77] Debug(3): Boss target scan 1 of 6, found target nil using target
+[216.10] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[216.10] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[216.10] Debug(3): Boss target scan 2 of 6, found target nil using target
+[216.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[216.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[216.43] Debug(3): Boss target scan 3 of 6, found target nil using target
+[216.77] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[216.77] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[216.77] Debug(3): Boss target scan 4 of 6, found target nil using target
+[217.10] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[217.10] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[217.10] Debug(3): Boss target scan 5 of 6, found target nil using target
+[217.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[217.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[217.43] Debug(3): Boss target scan 6 of 6, found target nil using target
+[217.43] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[217.43] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[217.43] Debug(3): Boss target scan 7 of 6, found target nil using target
+[219.53] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[219.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[219.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[219.53] Debug(3): Boss target scan 1 of 6, found target nil using target
+[219.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[219.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[219.87] Debug(3): Boss target scan 2 of 6, found target nil using target
+[220.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[220.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[220.20] Debug(3): Boss target scan 3 of 6, found target nil using target
+[220.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[220.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[220.53] Debug(3): Boss target scan 4 of 6, found target nil using target
+[220.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[220.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[220.87] Debug(3): Boss target scan 5 of 6, found target nil using target
+[221.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[221.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[221.20] Debug(3): Boss target scan 6 of 6, found target nil using target
+[221.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[221.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[221.20] Debug(3): Boss target scan 7 of 6, found target nil using target
+[222.53] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[222.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[222.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[222.53] Debug(3): Boss target scan 1 of 6, found target nil using target
+[222.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[222.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[222.87] Debug(3): Boss target scan 2 of 6, found target nil using target
+[223.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[223.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[223.20] Debug(3): Boss target scan 3 of 6, found target nil using target
+[223.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[223.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[223.53] Debug(3): Boss target scan 4 of 6, found target nil using target
+[223.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[223.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[223.87] Debug(3): Boss target scan 5 of 6, found target nil using target
+[224.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[224.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[224.20] Debug(3): Boss target scan 6 of 6, found target nil using target
+[224.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[224.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[224.20] Debug(3): Boss target scan 7 of 6, found target nil using target
+[225.53] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[225.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[225.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[225.53] Debug(3): Boss target scan 1 of 6, found target nil using target
+[225.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[225.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[225.87] Debug(3): Boss target scan 2 of 6, found target nil using target
+[226.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[226.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[226.20] Debug(3): Boss target scan 3 of 6, found target nil using target
+[226.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[226.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[226.53] Debug(3): Boss target scan 4 of 6, found target nil using target
+[226.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[226.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[226.87] Debug(3): Boss target scan 5 of 6, found target nil using target
+[227.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[227.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[227.20] Debug(3): Boss target scan 6 of 6, found target nil using target
+[227.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[227.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[227.20] Debug(3): Boss target scan 7 of 6, found target nil using target
+[228.53] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[228.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[228.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[228.53] Debug(3): Boss target scan 1 of 6, found target nil using target
+[228.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[228.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[228.87] Debug(3): Boss target scan 2 of 6, found target nil using target
+[229.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[229.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[229.20] Debug(3): Boss target scan 3 of 6, found target nil using target
+[229.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[229.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[229.53] Debug(3): Boss target scan 4 of 6, found target nil using target
+[229.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[229.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[229.87] Debug(3): Boss target scan 5 of 6, found target nil using target
+[230.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[230.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[230.20] Debug(3): Boss target scan 6 of 6, found target nil using target
+[230.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[230.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[230.20] Debug(3): Boss target scan 7 of 6, found target nil using target
+[231.53] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[231.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[231.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[231.53] Debug(3): Boss target scan 1 of 6, found target nil using target
+[231.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[231.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[231.87] Debug(3): Boss target scan 2 of 6, found target nil using target
+[232.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[232.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[232.20] Debug(3): Boss target scan 3 of 6, found target nil using target
+[232.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[232.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[232.53] Debug(3): Boss target scan 4 of 6, found target nil using target
+[232.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[232.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[232.87] Debug(3): Boss target scan 5 of 6, found target nil using target
+[233.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[233.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[233.20] Debug(3): Boss target scan 6 of 6, found target nil using target
+[233.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[233.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[233.20] Debug(3): Boss target scan 7 of 6, found target nil using target
+[234.53] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[234.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[234.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[234.53] Debug(3): Boss target scan 1 of 6, found target nil using target
+[234.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[234.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[234.87] Debug(3): Boss target scan 2 of 6, found target nil using target
+[235.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[235.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[235.20] Debug(3): Boss target scan 3 of 6, found target nil using target
+[235.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[235.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[235.53] Debug(3): Boss target scan 4 of 6, found target nil using target
+[235.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[235.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[235.87] Debug(3): Boss target scan 5 of 6, found target nil using target
+[236.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[236.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[236.20] Debug(3): Boss target scan 6 of 6, found target nil using target
+[236.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[236.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[236.20] Debug(3): Boss target scan 7 of 6, found target nil using target
+[237.53] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[237.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[237.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[237.53] Debug(3): Boss target scan 1 of 6, found target nil using target
+[237.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[237.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[237.87] Debug(3): Boss target scan 2 of 6, found target nil using target
+[238.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[238.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[238.20] Debug(3): Boss target scan 3 of 6, found target nil using target
+[238.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[238.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[238.53] Debug(3): Boss target scan 4 of 6, found target nil using target
+[238.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[238.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[238.87] Debug(3): Boss target scan 5 of 6, found target nil using target
+[239.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[239.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[239.20] Debug(3): Boss target scan 6 of 6, found target nil using target
+[239.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[239.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[239.20] Debug(3): Boss target scan 7 of 6, found target nil using target
+[240.53] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[240.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[240.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[240.53] Debug(3): Boss target scan 1 of 6, found target nil using target
+[240.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[240.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[240.87] Debug(3): Boss target scan 2 of 6, found target nil using target
+[241.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[241.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[241.20] Debug(3): Boss target scan 3 of 6, found target nil using target
+[241.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[241.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[241.53] Debug(3): Boss target scan 4 of 6, found target nil using target
+[241.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[241.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[241.87] Debug(3): Boss target scan 5 of 6, found target nil using target
+[242.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[242.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[242.20] Debug(3): Boss target scan 6 of 6, found target nil using target
+[242.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[242.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[242.20] Debug(3): Boss target scan 7 of 6, found target nil using target
+[243.53] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[243.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[243.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[243.53] Debug(3): Boss target scan 1 of 6, found target nil using target
+[243.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[243.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[243.87] Debug(3): Boss target scan 2 of 6, found target nil using target
+[244.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[244.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[244.20] Debug(3): Boss target scan 3 of 6, found target nil using target
+[244.53] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[244.53] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[244.53] Debug(3): Boss target scan 4 of 6, found target nil using target
+[244.87] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[244.87] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[244.87] Debug(3): Boss target scan 5 of 6, found target nil using target
+[245.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[245.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[245.20] Debug(3): Boss target scan 6 of 6, found target nil using target
+[245.20] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[245.20] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[245.20] Debug(3): Boss target scan 7 of 6, found target nil using target
+[246.53] Debug(3): PlaySoundFile playing with FileDataID 566558
+[246.57] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[246.57] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[246.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[246.57] Debug(3): Boss target scan 1 of 6, found target Glassy using target
+[246.57] Debug(3): PlaySoundFile playing with FileDataID 566558
+[246.57] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[249.57] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[249.57] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[249.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[249.57] Debug(3): Boss target scan 1 of 6, found target Obile using target
+[249.57] Debug(3): PlaySoundFile playing with FileDataID 566558
+[249.57] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[252.57] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[252.57] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[252.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[252.57] Debug(3): Boss target scan 1 of 6, found target Mafakacoil using target
+[252.57] Debug(3): PlaySoundFile playing with FileDataID 566558
+[252.57] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[255.57] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[255.57] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[255.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[255.57] Debug(3): Boss target scan 1 of 6, found target Mafakacoil using target
+[255.57] Debug(3): PlaySoundFile playing with FileDataID 566558
+[255.57] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[256.80] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at Orikkryz
+[258.57] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[258.57] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[258.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[258.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[258.57] Debug(3): Boss target scan 1 of 6, found target nil using target
+[258.90] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[258.90] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[258.90] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[258.90] Debug(3): Boss target scan 2 of 6, found target nil using target
+[259.23] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[259.23] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[259.23] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[259.23] Debug(3): Boss target scan 3 of 6, found target nil using target
+[259.57] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[259.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[259.57] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[259.57] Debug(3): Boss target scan 4 of 6, found target nil using target
+[259.90] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[259.90] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[259.90] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[259.90] Debug(3): Boss target scan 5 of 6, found target nil using target
+[260.23] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[260.23] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[260.23] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[260.23] Debug(3): Boss target scan 6 of 6, found target nil using target
+[260.23] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[260.23] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[260.23] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[260.23] Debug(3): Boss target scan 7 of 6, found target nil using target
+[261.60] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[261.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[261.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[261.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[261.60] Debug(3): Boss target scan 1 of 6, found target nil using target
+[261.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[261.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[261.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[261.93] Debug(3): Boss target scan 2 of 6, found target nil using target
+[262.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[262.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[262.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[262.27] Debug(3): Boss target scan 3 of 6, found target nil using target
+[262.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[262.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[262.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[262.60] Debug(3): Boss target scan 4 of 6, found target nil using target
+[262.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[262.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[262.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[262.93] Debug(3): Boss target scan 5 of 6, found target nil using target
+[263.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[263.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[263.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[263.27] Debug(3): Boss target scan 6 of 6, found target nil using target
+[263.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[263.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[263.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[263.27] Debug(3): Boss target scan 7 of 6, found target nil using target
+[264.60] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[264.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[264.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[264.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[264.60] Debug(3): Boss target scan 1 of 6, found target nil using target
+[264.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[264.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[264.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[264.93] Debug(3): Boss target scan 2 of 6, found target nil using target
+[265.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[265.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[265.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[265.27] Debug(3): Boss target scan 3 of 6, found target nil using target
+[265.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[265.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[265.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[265.60] Debug(3): Boss target scan 4 of 6, found target nil using target
+[265.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[265.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[265.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[265.93] Debug(3): Boss target scan 5 of 6, found target nil using target
+[266.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[266.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[266.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[266.27] Debug(3): Boss target scan 6 of 6, found target nil using target
+[266.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[266.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[266.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[266.27] Debug(3): Boss target scan 7 of 6, found target nil using target
+[267.60] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[267.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[267.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[267.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[267.60] Debug(3): Boss target scan 1 of 6, found target nil using target
+[267.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[267.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[267.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[267.93] Debug(3): Boss target scan 2 of 6, found target nil using target
+[268.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[268.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[268.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[268.27] Debug(3): Boss target scan 3 of 6, found target nil using target
+[268.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[268.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[268.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[268.60] Debug(3): Boss target scan 4 of 6, found target nil using target
+[268.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[268.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[268.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[268.93] Debug(3): Boss target scan 5 of 6, found target nil using target
+[269.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[269.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[269.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[269.27] Debug(3): Boss target scan 6 of 6, found target nil using target
+[269.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[269.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[269.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[269.27] Debug(3): Boss target scan 7 of 6, found target nil using target
+[270.60] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[270.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[270.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[270.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[270.60] Debug(3): Boss target scan 1 of 6, found target nil using target
+[270.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[270.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[270.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[270.93] Debug(3): Boss target scan 2 of 6, found target nil using target
+[271.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[271.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[271.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[271.27] Debug(3): Boss target scan 3 of 6, found target nil using target
+[271.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[271.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[271.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[271.60] Debug(3): Boss target scan 4 of 6, found target nil using target
+[271.93] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[271.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[271.93] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[271.93] Debug(3): Boss target scan 5 of 6, found target nil using target
+[272.27] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[272.27] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[272.27] Debug(3): Boss target scan 6 of 6, found target Cattivo using target
+[272.27] Debug(3): PlaySoundFile playing with FileDataID 566558
+[272.27] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[273.60] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[273.60] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[273.60] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[273.60] Debug(3): Boss target scan 1 of 6, found target Cattivo using target
+[273.60] Debug(3): PlaySoundFile playing with FileDataID 566558
+[273.60] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[276.63] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[276.63] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[276.63] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[276.63] Debug(3): Boss target scan 1 of 6, found target FakePlayer using target
+[276.63] Debug(3): PlaySoundFile playing with FileDataID 566558
+[276.63] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[279.63] Debug(2): Boss target scan started for Creature-0-5209-249-24472-10184-000022AEFA
+[279.63] Debug(3): GetBossTarget firing for: OnyxiaVanilla Creature-0-5209-249-24472-10184-000022AEFA nil
+[279.63] Debug(1): GetBossTarget: Creature-0-5209-249-24472-10184-000022AEFA#nil
+[279.63] Debug(3): Boss target scan 1 of 6, found target Obile using target
+[279.63] Debug(3): PlaySoundFile playing with FileDataID 566558
+[279.63] Debug(2): BossTargetScanner has ended for Creature-0-5209-249-24472-10184-000022AEFA
+[283.47] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at 
+[283.47] Debug(1): DBM_SetStage: 3/3
+[283.47] Debug(3): PlaySoundFile playing with FileDataID 566558
+[288.13] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\fearsoon.ogg
+[294.67] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at Luschimage
+[296.47] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at 
+[296.47] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at Homunculus
+[296.47] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at Homunculus
+[296.47] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at Homunculus
+[298.50] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Raids-Vanilla\VanillaOnyxia\sounds\dps-very-very-slowly.ogg
+[299.43] Debug(3): PlaySoundFile playing with FileDataID 566558
+[318.50] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Raids-Vanilla\VanillaOnyxia\sounds\hit-it-like-you-mean-it.ogg
+[328.50] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Raids-Vanilla\VanillaOnyxia\sounds\now-hit-it-very-hard-and-fast.ogg
+[333.47] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\fearsoon.ogg
+[348.07] Debug(3): PlaySoundFile playing with FileDataID 566558
+[390.13] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\fearsoon.ogg
+[393.70] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-Raids-Vanilla\VanillaOnyxia\sounds\thats-a-fucking-fifty-dkp-minus.ogg
+[393.87] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at Hàger
+[393.87] Debug(2): CHAT_MSG_MONSTER_YELL from Onyxia while looking at Tandanu
+[395.00] Debug(3): PlaySoundFile playing with FileDataID 566558
+[404.70] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\fearsoon.ogg
+[430.57] Debug(3): PlaySoundFile playing with file path Interface\AddOns\DBM-VPVEM\fearsoon.ogg
+[432.47] Debug(3): PlaySoundFile playing with FileDataID 566558
+[448.07] Debug(1): EndCombat called by : Main CID Down. LastInstanceMapID is 249
+[448.07] Debug(3): GetInstanceInfo() = nil, nil, nil, nil, nil, nil, nil, nil, nil
+[448.07] Debug(3): DBM:GetCurrentInstanceDifficulty() = normal20, 40 Player - , 186, 40, 0
+[448.07] Debug(1): ENCOUNTER_END event fired: 1084 Onyxia 186 40 1
+[448.07] Debug(1): BOSS_KILL event fired: 1084 Onyxia
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired
+[     ?] Debug(3): UnregisterShortTermEvents fired

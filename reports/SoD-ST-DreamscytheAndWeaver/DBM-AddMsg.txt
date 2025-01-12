@@ -1,0 +1,20 @@
+[     ?] <DBM> Starting test: SoD/ST/DreamscytheAndWeaver
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> Normal - Dreamscythe and Weaver engaged. Good luck and have fun! :)
+[  8.37] <Dreamscythe and Weaver>  |T0:12:12|t |cffff7f00Wing Flap|r |T0:12:12|t 
+[ 19.43] <Dreamscythe and Weaver> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet! |T0:12:12|t |r
+[ 25.90] <Dreamscythe and Weaver>  |T136116:12:12|t |cfff2f200Stage 2|r |T136116:12:12|t 
+[ 25.93] <Dreamscythe and Weaver>  |T0:12:12|t |cffff7f00Wing Flap|r |T0:12:12|t 
+[ 32.37] <Dreamscythe and Weaver> |cffffb200[Special Warning]  |T0:12:12|t Delayed Wing Buffet! |T0:12:12|t |r
+[ 46.93] <Dreamscythe and Weaver>  |T0:12:12|t |cffff7f00Wing Flap|r |T0:12:12|t 
+[ 58.27] <Dreamscythe and Weaver>  |T136116:12:12|t |cfff2f200Stage 3|r |T136116:12:12|t 
+[ 63.13] <Dreamscythe and Weaver> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet! |T0:12:12|t |r
+[ 66.33] <Dreamscythe and Weaver>  |T0:12:12|t |cffff7f00Wing Flap|r |T0:12:12|t 
+[ 85.80] <Dreamscythe and Weaver>  |T0:12:12|t |cffff7f00Wing Flap|r |T0:12:12|t 
+[ 85.80] <Dreamscythe and Weaver> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet! |T0:12:12|t |r
+[ 98.73] <Dreamscythe and Weaver>  |T0:12:12|t |cffff7f00Wing Flap|r |T0:12:12|t 
+[113.30] <Dreamscythe and Weaver> |cffffb200[Special Warning]  |T0:12:12|t Wing Buffet! |T0:12:12|t |r
+[118.13] <Dreamscythe and Weaver>  |T0:12:12|t |cffff7f00Wing Flap|r |T0:12:12|t 
+[129.07] <DBM> Normal - Dreamscythe and Weaver down after 2 |4minute:minutes; and 8.03 |4second:seconds;!
+[131.17] <DBM> Test playback for test SoD/ST/DreamscytheAndWeaver finished.
