@@ -1,0 +1,34 @@
+[     ?] <DBM> Starting test: SoD/MC/Majordomo/Heat-1/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player (1) - Majordomo Executus engaged. Good luck and have fun! :)
+[ 17.60] <Majordomo Executus>  |T0:12:12|t |cffff7f00Teleport on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[ 28.93] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Magic Reflection on Unknown - stop attacking |T0:12:12|t |r
+[ 35.40] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[ 41.87] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[ 45.10] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[ 46.70] <Majordomo Executus>  |T0:12:12|t |cffff7f00Teleport on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[ 46.70] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[ 48.33] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[ 59.67] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Damage Shield on Unknown - stop attacking |T0:12:12|t |r
+[ 75.83] <Majordomo Executus>  |T0:12:12|t |cffff7f00Teleport on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[ 90.40] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Damage Shield on Unknown - stop attacking |T0:12:12|t |r
+[ 96.90] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[103.40] <Majordomo Executus>  |T0:12:12|t |cffff7f00Teleport on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[121.20] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Damage Shield on Unknown - stop attacking |T0:12:12|t |r
+[129.70] <Majordomo Executus>  |T0:12:12|t |cffff7f00Teleport on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[136.17] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[142.23] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[151.93] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Magic Reflection on Unknown - stop attacking |T0:12:12|t |r
+[157.20] <Majordomo Executus>  |T0:12:12|t |cffff7f00Teleport on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[178.20] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[182.63] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Magic Reflection on Unknown - stop attacking |T0:12:12|t |r
+[187.50] <Majordomo Executus>  |T0:12:12|t |cffff7f00Teleport on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[192.37] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[213.40] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Healer! |T0:12:12|t |r
+[213.40] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Magic Reflection on Unknown - stop attacking |T0:12:12|t |r
+[213.40] <Majordomo Executus>  |T0:12:12|t |cffff7f00Teleport on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[242.57] <Majordomo Executus>  |T0:12:12|t |cffff7f00Teleport on |r|cffff7f00Tank1|r|cffff7f00|r |T0:12:12|t 
+[244.17] <Majordomo Executus> |cffffb200[Special Warning]  |T0:12:12|t Magic Reflection on Unknown - stop attacking |T0:12:12|t |r
+[254.57] <DBM> 20 Player (1) - Majordomo Executus down after 4 |4minute:minutes; and 13.53 |4second:seconds;!
+[256.67] <DBM> Test playback for test SoD/MC/Majordomo/Heat-1/Kill finished.

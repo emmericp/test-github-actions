@@ -1,0 +1,19 @@
+[     ?] <DBM> Starting test: SoD/BWL/SoDTrials/Synthetic/Week1
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  1.00] <Season of Discovery Trials> |cffffb200[Special Warning]  |T136116:12:12|t Blue and Green on YOU |T136116:12:12|t |r
+[ 10.00] <Season of Discovery Trials> |cffffb200[Special Warning]  |T136116:12:12|t Blue and Green on >Player2< |T136116:12:12|t |r
+[ 19.00] <Season of Discovery Trials> |cffffb200[Special Warning]  |T0:12:12|t Blue Bomb on Player2 |T0:12:12|t |r
+[ 19.00] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Player2|r|cffff7f00|r |T0:12:12|t 
+[ 19.00] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Player3|r|cffff1919|r |T0:12:12|t 
+[ 28.00] <Season of Discovery Trials> |cffffb200[Special Warning]  |T0:12:12|t Blue Bomb on you |T0:12:12|t |r
+[ 28.00] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Player2|r|cffff1919|r |T0:12:12|t 
+[ 37.00] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Player2|r|cffff7f00|r |T0:12:12|t 
+[ 37.00] <Season of Discovery Trials> |cffffb200[Special Warning]  |T0:12:12|t Green Bomb - move away from others |T0:12:12|t |r
+[ 37.00] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919FakePlayer|r|cffff1919|r |T0:12:12|t 
+[ 46.07] <Season of Discovery Trials> |cffffb200[Special Warning]  |T0:12:12|t Blue Bomb on you |T0:12:12|t |r
+[ 55.07] <Season of Discovery Trials> |cffffb200[Special Warning]  |T0:12:12|t Blue Bomb on Player2 |T0:12:12|t |r
+[ 55.07] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Player2|r|cffff7f00|r |T0:12:12|t 
+[ 64.07] <Season of Discovery Trials> |cffffb200[Special Warning]  |T0:12:12|t Green Bomb - move away from others |T0:12:12|t |r
+[ 64.07] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919FakePlayer|r|cffff1919|r |T0:12:12|t 
+[ 73.07] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Player2|r|cffff1919|r |T0:12:12|t 
+[273.10] <DBM> Test playback for test SoD/BWL/SoDTrials/Synthetic/Week1 finished.
