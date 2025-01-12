@@ -2,23 +2,9 @@
 [  0.00] <DBM> Timewarp >= 10, disabling sounds
 [  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
 [  0.00] <DBM> 40 Player - C'Thun engaged. Good luck and have fun! :)
-[  8.03] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[ 16.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[ 24.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[ 32.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[ 40.03] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 45.00] <C'Thun> |cffffb200[Special Warning]  |T0:12:12|t Dark Glare - dodge attack |T0:12:12|t |r
 [ 45.03] <C'Thun>  |T0:12:12|t |cfff2f200Eye Tentacles|r |T0:12:12|t 
-[ 48.00] <C'Thun> |cffffb200[Special Warning]  |T0:12:12|t Dark Glare - dodge attack |T0:12:12|t |r
-[ 48.03] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[ 56.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[ 64.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[ 72.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[ 80.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[ 88.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
 [ 90.03] <C'Thun>  |T0:12:12|t |cfff2f200Eye Tentacles|r |T0:12:12|t 
-[ 96.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[104.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
-[112.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
 [115.27] <C'Thun>  |T136116:12:12|t |cfff2f200Stage 2|r |T136116:12:12|t 
 [126.63] <C'Thun>  |T0:12:12|t |cffff7f00Giant Claw Tentacle|r |T0:12:12|t 
 [156.67] <C'Thun>  |T0:12:12|t |cfff2f200Eye Tentacles|r |T0:12:12|t 
