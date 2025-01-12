@@ -1,0 +1,13 @@
+[     ?] <DBM> Starting test: SoD/AQ20/Ayamiss/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player - Ayamiss the Hunter engaged. Good luck and have fun! :)
+[ 17.30] <Ayamiss the Hunter>  |T0:12:12|t |cffff7f00Paralyze on |r|cffff7f00Dps8|r|cffff7f00|r |T0:12:12|t 
+[ 31.13] <AQ20 Trash> |cffffb200[Special Warning]  |T0:12:12|t Noxious Burst - dodge attack |T0:12:12|t |r
+[ 57.03] <Ayamiss the Hunter>  |T136116:12:12|t |cfff2f200Stage 2|r |T136116:12:12|t 
+[ 61.13] <AQ20 Trash> |cffffb200[Special Warning]  |T0:12:12|t Noxious Burst - dodge attack |T0:12:12|t |r
+[ 84.43] <Ayamiss the Hunter>  |T0:12:12|t |cffff7f00Paralyze on |r|cffff7f00Dps7|r|cffff7f00|r |T0:12:12|t 
+[ 91.10] <AQ20 Trash> |cffffb200[Special Warning]  |T0:12:12|t Noxious Burst - dodge attack |T0:12:12|t |r
+[102.23] <Ayamiss the Hunter>  |T0:12:12|t |cffff7f00Paralyze on |r|cffff7f00Dps1|r|cffff7f00|r |T0:12:12|t 
+[108.83] <DBM> 20 Player - Ayamiss the Hunter down after 1 |4minute:minutes; and 47.83 |4second:seconds;!
+[110.93] <DBM> Test playback for test SoD/AQ20/Ayamiss/Hardmode finished.

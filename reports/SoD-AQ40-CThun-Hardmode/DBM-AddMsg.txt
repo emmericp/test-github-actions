@@ -1,0 +1,41 @@
+[     ?] <DBM> Starting test: SoD/AQ40/CThun/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 40 Player - C'Thun engaged. Good luck and have fun! :)
+[  8.03] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 16.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 24.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 32.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 40.03] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 45.03] <C'Thun>  |T0:12:12|t |cfff2f200Eye Tentacles|r |T0:12:12|t 
+[ 48.00] <C'Thun> |cffffb200[Special Warning]  |T0:12:12|t Dark Glare - dodge attack |T0:12:12|t |r
+[ 48.03] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 56.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 64.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 72.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 80.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 88.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[ 90.03] <C'Thun>  |T0:12:12|t |cfff2f200Eye Tentacles|r |T0:12:12|t 
+[ 96.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[104.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[112.00] <C'Thun>  |T0:12:12|t |cfff2f200Claw Tentacle|r |T0:12:12|t 
+[115.27] <C'Thun>  |T136116:12:12|t |cfff2f200Stage 2|r |T136116:12:12|t 
+[126.63] <C'Thun>  |T0:12:12|t |cffff7f00Giant Claw Tentacle|r |T0:12:12|t 
+[156.67] <C'Thun>  |T0:12:12|t |cfff2f200Eye Tentacles|r |T0:12:12|t 
+[157.03] <C'Thun>  |T0:12:12|t |cffff7f00Giant Eye Tentacle|r |T0:12:12|t 
+[186.63] <C'Thun>  |T0:12:12|t |cfff2f200Eye Tentacles|r |T0:12:12|t 
+[210.67] <C'Thun> |cffffb200[Special Warning]  |T0:12:12|t C'Thun Weakened! |T0:12:12|t |r
+[262.33] <C'Thun>  |T0:12:12|t |cffff7f00Giant Claw Tentacle|r |T0:12:12|t 
+[292.33] <C'Thun>  |T0:12:12|t |cfff2f200Eye Tentacles|r |T0:12:12|t 
+[293.03] <C'Thun>  |T0:12:12|t |cffff7f00Giant Eye Tentacle|r |T0:12:12|t 
+[312.37] <C'Thun>  |T0:12:12|t |cffff7f00Giant Claw Tentacle|r |T0:12:12|t 
+[322.33] <C'Thun>  |T0:12:12|t |cfff2f200Eye Tentacles|r |T0:12:12|t 
+[328.07] <C'Thun>  |T0:12:12|t |cffff7f00Giant Eye Tentacle|r |T0:12:12|t 
+[337.20] <C'Thun> |cffffb200[Special Warning]  |T0:12:12|t C'Thun Weakened! |T0:12:12|t |r
+[388.60] <C'Thun>  |T0:12:12|t |cffff7f00Giant Claw Tentacle|r |T0:12:12|t 
+[418.63] <C'Thun>  |T0:12:12|t |cfff2f200Eye Tentacles|r |T0:12:12|t 
+[438.63] <C'Thun>  |T0:12:12|t |cffff7f00Giant Claw Tentacle|r |T0:12:12|t 
+[440.67] <C'Thun> |cffffb200[Special Warning]  |T0:12:12|t C'Thun Weakened! |T0:12:12|t |r
+[468.63] <DBM> Warning: incomplete trace of AntiSpam
+[469.67] <DBM> 40 Player - C'Thun down after 7 |4minute:minutes; and 48.63 |4second:seconds;!
+[471.77] <DBM> Test playback for test SoD/AQ40/CThun/Hardmode finished.
