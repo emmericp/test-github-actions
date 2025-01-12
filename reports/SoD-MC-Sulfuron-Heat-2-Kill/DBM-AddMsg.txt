@@ -1,0 +1,99 @@
+[     ?] <DBM> Starting test: SoD/MC/Sulfuron/Heat-2/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player (2) - Sulfuron Harbinger engaged. Good luck and have fun! :)
+[  3.97] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[  5.27] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[  6.47] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[  6.47] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[  8.50] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[  8.60] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[ 12.07] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Hand of Ragnaros on |r|cfff2f200Dps8|r|cfff2f200, |r|cfff2f200Dps12|r|cfff2f200, |r|cfff2f200Dps15|r|cfff2f200|r |T0:12:12|t 
+[ 12.07] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 13.33] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Inspire on |r|cfff2f200Flamewaker Priest|r|cfff2f200|r |T0:12:12|t 
+[ 15.30] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 16.93] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200, |r|cfff2f200Dps8|r|cfff2f200|r |T0:12:12|t 
+[ 19.77] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps12|r|cfff2f200, |r|cfff2f200FakePlayer|r|cfff2f200|r |T0:12:12|t 
+[ 21.43] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 21.43] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 21.43] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 23.07] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 25.03] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 26.23] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps4|r|cfff2f200|r |T0:12:12|t 
+[ 28.27] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 29.57] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Inspire on |r|cfff2f200Flamewaker Priest|r|cfff2f200|r |T0:12:12|t 
+[ 31.17] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200, |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 32.83] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 32.83] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 33.17] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps3|r|cfff2f200|r |T0:12:12|t 
+[ 34.77] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps15|r|cfff2f200|r |T0:12:12|t 
+[ 37.67] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 37.67] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 38.03] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 41.27] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Hand of Ragnaros on |r|cfff2f200FakePlayer|r|cfff2f200, |r|cfff2f200Dps8|r|cfff2f200, |r|cfff2f200Dps12|r|cfff2f200, |r|cfff2f200Dps13|r|cfff2f200, |r|cfff2f200Dps15|r|cfff2f200|r |T0:12:12|t 
+[ 41.27] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 44.13] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 45.40] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 47.00] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 47.33] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[ 50.23] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Inspire on |r|cfff2f200Flamewaker Priest|r|cfff2f200|r |T0:12:12|t 
+[ 50.57] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200, |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 51.87] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 52.20] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 53.47] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 53.83] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[ 57.13] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 57.47] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200, |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 59.07] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Hand of Ragnaros on |r|cfff2f200Dps4|r|cfff2f200, |r|cfff2f200Dps8|r|cfff2f200, |r|cfff2f200Tank2|r|cfff2f200, |r|cfff2f200Dps15|r|cfff2f200|r |T0:12:12|t 
+[ 60.33] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 60.67] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[ 63.60] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 63.93] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200, |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 66.80] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 68.77] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 70.03] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 70.03] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Inspire on |r|cfff2f200Flamewaker Priest|r|cfff2f200|r |T0:12:12|t 
+[ 70.40] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 73.63] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200, |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[ 74.50] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 76.87] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200, |r|cfff2f200Dps4|r|cfff2f200|r |T0:12:12|t 
+[ 78.17] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 78.50] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[ 79.77] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 81.77] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 82.50] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Living Fallout damage - move away |T0:12:12|t |r
+[ 83.00] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 83.37] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200, |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[ 86.23] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Inspire on |r|cfff2f200Flamewaker Priest|r|cfff2f200|r |T0:12:12|t 
+[ 86.57] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200, |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 87.43] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 87.77] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps4|r|cfff2f200|r |T0:12:12|t 
+[ 89.40] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 91.03] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[ 92.30] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 92.63] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[ 93.93] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 94.27] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[ 95.53] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[ 99.10] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[100.73] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Hand of Ragnaros on |r|cfff2f200Tank1|r|cfff2f200, |r|cfff2f200Dps3|r|cfff2f200, |r|cfff2f200Dps8|r|cfff2f200, |r|cfff2f200Dps13|r|cfff2f200, |r|cfff2f200Dps15|r|cfff2f200|r |T0:12:12|t 
+[100.77] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200, |r|cfff2f200Dps4|r|cfff2f200|r |T0:12:12|t 
+[102.33] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank2|r|cfff2f200|r |T0:12:12|t 
+[103.63] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[105.57] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[106.83] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[107.20] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps3|r|cfff2f200, |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[108.47] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[108.47] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Inspire on |r|cfff2f200Flamewaker Priest|r|cfff2f200|r |T0:12:12|t 
+[108.80] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[110.10] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[112.07] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Hand of Ragnaros on |r|cfff2f200Dps3|r|cfff2f200, |r|cfff2f200Dps8|r|cfff2f200|r |T0:12:12|t 
+[112.07] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[113.67] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[115.27] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[116.90] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200, |r|cfff2f200Dps13|r|cfff2f200|r |T0:12:12|t 
+[118.20] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[118.20] <Sulfuron Harbinger> |cffffb200[Special Warning]  |T0:12:12|t Dark Mending - interrupt Flamewaker Priest! |T0:12:12|t |r
+[118.53] <Sulfuron Harbinger>  |T0:12:12|t |cfff2f200Shadow Word: Pain on |r|cfff2f200Tank1|r|cfff2f200|r |T0:12:12|t 
+[120.40] <DBM> 20 Player (2) - Sulfuron Harbinger down after 1 |4minute:minutes; and 59.36 |4second:seconds;!
+[122.57] <DBM> Test playback for test SoD/MC/Sulfuron/Heat-2/Kill finished.

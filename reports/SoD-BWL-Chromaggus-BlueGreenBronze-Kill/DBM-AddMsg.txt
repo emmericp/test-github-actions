@@ -1,0 +1,132 @@
+[     ?] <DBM> Starting test: SoD/BWL/Chromaggus/BlueGreenBronze/Kill
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> PLAYER_DIFFICULTY2 (Green + Blue + Bronze) - Chromaggus engaged. Good luck and have fun! :)
+[  8.10] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Black|r |T0:12:12|t 
+[ 16.20] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[ 16.20] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Black|r |T0:12:12|t 
+[ 19.43] <Chromaggus>  |T135846:12:12|t |cff68ccefFrost Vulnerability|r |T135846:12:12|t 
+[ 24.30] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Red|r |T0:12:12|t 
+[ 27.00] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[ 30.77] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[ 33.97] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[ 33.97] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Black|r |T0:12:12|t 
+[ 38.43] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Dps7|r|cffff7f00|r |T0:12:12|t 
+[ 38.43] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Dps10|r|cffff1919|r |T0:12:12|t 
+[ 42.07] <Chromaggus>  |T136006:12:12|t |cff68ccefNature Vulnerability|r |T136006:12:12|t 
+[ 42.07] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Brood Affliction: Bronze on you |T0:12:12|t |r
+[ 50.17] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[ 50.17] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Green|r |T0:12:12|t 
+[ 57.00] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[ 58.27] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[ 61.47] <Chromaggus>  |T0:12:12|t |cfff2f200Ignite Flesh|r |T0:12:12|t 
+[ 64.70] <Chromaggus>  |T135808:12:12|t |cff68ccefFire Vulnerability|r |T135808:12:12|t 
+[ 66.33] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[ 66.33] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[ 74.47] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Black|r |T0:12:12|t 
+[ 82.57] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[ 82.57] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[ 84.20] <Chromaggus>  |T136197:12:12|t |cff68ccefShadow Vulnerability|r |T136197:12:12|t 
+[ 85.80] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Dps4|r|cffff7f00|r |T0:12:12|t 
+[ 85.80] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Dps12|r|cffff1919|r |T0:12:12|t 
+[ 87.77] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[ 90.67] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Red|r |T0:12:12|t 
+[ 92.27] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[ 98.73] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[ 98.77] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Red|r |T0:12:12|t 
+[106.83] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[108.47] <Chromaggus>  |T135846:12:12|t |cff68ccefFrost Vulnerability|r |T135846:12:12|t 
+[114.93] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[114.93] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[118.47] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[123.03] <Chromaggus>  |T0:12:12|t |cfff2f200Ignite Flesh|r |T0:12:12|t 
+[131.13] <Chromaggus>  |T136096:12:12|t |cff68ccefArcane Vulnerability|r |T136096:12:12|t 
+[131.13] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[131.13] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[133.13] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Healer5|r|cffff7f00|r |T0:12:12|t 
+[133.13] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Healer1|r|cffff1919|r |T0:12:12|t 
+[139.20] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Black|r |T0:12:12|t 
+[147.27] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[147.27] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Red|r |T0:12:12|t 
+[149.27] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[152.13] <Chromaggus>  |T136006:12:12|t |cff68ccefNature Vulnerability|r |T136006:12:12|t 
+[153.77] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[157.00] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[163.47] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[165.10] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Black|r |T0:12:12|t 
+[173.17] <Chromaggus>  |T135846:12:12|t |cff68ccefFrost Vulnerability|r |T135846:12:12|t 
+[173.20] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[179.63] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[180.03] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[180.47] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Dps9|r|cffff7f00|r |T0:12:12|t 
+[180.47] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Dps5|r|cffff1919|r |T0:12:12|t 
+[181.30] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Green|r |T0:12:12|t 
+[184.53] <Chromaggus>  |T0:12:12|t |cfff2f200Ignite Flesh|r |T0:12:12|t 
+[189.40] <Chromaggus>  |T136197:12:12|t |cff68ccefShadow Vulnerability|r |T136197:12:12|t 
+[195.87] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[197.50] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[205.60] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[210.77] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[212.07] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[213.70] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Green|r |T0:12:12|t 
+[215.30] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[221.77] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Green|r |T0:12:12|t 
+[227.83] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Dps11|r|cffff7f00|r |T0:12:12|t 
+[227.83] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Dps1|r|cffff1919|r |T0:12:12|t 
+[228.20] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[229.83] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Green|r |T0:12:12|t 
+[237.93] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Green|r |T0:12:12|t 
+[241.53] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[244.43] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[246.07] <Chromaggus>  |T0:12:12|t |cfff2f200Ignite Flesh|r |T0:12:12|t 
+[246.07] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Red|r |T0:12:12|t 
+[260.63] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[270.37] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Brood Affliction: Bronze on you |T0:12:12|t |r
+[270.37] <Chromaggus>  |T0:12:12|t |cffff1919Chromatic Mutation (3/5)|r |T0:12:12|t 
+[272.30] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[273.60] <Chromaggus>  |T135846:12:12|t |cff68ccefFrost Vulnerability|r |T135846:12:12|t 
+[275.20] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Dps3|r|cffff7f00|r |T0:12:12|t 
+[275.20] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Dps1|r|cffff1919|r |T0:12:12|t 
+[276.80] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[276.80] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[280.03] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Red|r |T0:12:12|t 
+[288.13] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Green|r |T0:12:12|t 
+[292.97] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[294.60] <Chromaggus>  |T136197:12:12|t |cff68ccefShadow Vulnerability|r |T136197:12:12|t 
+[296.23] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Black|r |T0:12:12|t 
+[303.07] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[307.60] <Chromaggus>  |T0:12:12|t |cfff2f200Ignite Flesh|r |T0:12:12|t 
+[310.83] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[312.47] <Chromaggus>  |T135846:12:12|t |cff68ccefFrost Vulnerability|r |T135846:12:12|t 
+[312.47] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Green|r |T0:12:12|t 
+[322.60] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Dps3|r|cffff7f00|r |T0:12:12|t 
+[322.60] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Healer5|r|cffff1919|r |T0:12:12|t 
+[327.03] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[328.63] <Chromaggus>  |T136006:12:12|t |cff68ccefNature Vulnerability|r |T136006:12:12|t 
+[328.63] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[333.80] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[338.37] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[343.23] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[344.83] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[351.33] <Chromaggus>  |T135808:12:12|t |cff68ccefFire Vulnerability|r |T135808:12:12|t 
+[351.33] <Chromaggus>  |T136116:12:12|t |cff68ccefStage 2 soon|r |T136116:12:12|t 
+[352.93] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Blue|r |T0:12:12|t 
+[359.43] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[361.07] <Chromaggus>  |T136116:12:12|t |cfff2f200Stage 2|r |T136116:12:12|t 
+[364.60] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[369.17] <Chromaggus>  |T0:12:12|t |cfff2f200Ignite Flesh|r |T0:12:12|t 
+[369.17] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Black|r |T0:12:12|t 
+[369.97] <Season of Discovery Trials>  |T0:12:12|t |cffff7f00Blue Bomb on |r|cffff7f00Dps3|r|cffff7f00|r |T0:12:12|t 
+[369.97] <Season of Discovery Trials>  |T0:12:12|t |cffff1919Green Bomb on |r|cffff1919Healer4|r|cffff1919|r |T0:12:12|t 
+[374.00] <Chromaggus>  |T136197:12:12|t |cff68ccefShadow Vulnerability|r |T136197:12:12|t 
+[375.60] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[377.23] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Black|r |T0:12:12|t 
+[391.73] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[393.37] <Chromaggus>  |T136006:12:12|t |cff68ccefNature Vulnerability|r |T136006:12:12|t 
+[393.37] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Red|r |T0:12:12|t 
+[395.37] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[399.80] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[403.03] <Chromaggus>  |T0:12:12|t |cfff2f200Brood Affliction: Red|r |T0:12:12|t 
+[407.90] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Frenzy on Chromaggus - dispel now |T0:12:12|t |r
+[411.10] <DBM> PLAYER_DIFFICULTY2 (Green + Blue + Bronze) - Chromaggus down after 6 |4minute:minutes; and 50.10 |4second:seconds;!
+[413.20] <DBM> Test playback for test SoD/BWL/Chromaggus/BlueGreenBronze/Kill finished.

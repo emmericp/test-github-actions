@@ -1,0 +1,35 @@
+[     ?] <DBM> Starting test: SoD/BWL/Chromaggus/Black/Synthetic
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> PLAYER_DIFFICULTY2 (Black) - Chromaggus engaged. Good luck and have fun! :)
+[ 21.00] <Chromaggus>  |T0:12:12|t |cfff2f200Fetch!|r |T0:12:12|t 
+[ 27.00] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[ 30.73] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[ 37.00] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[ 40.73] <Chromaggus>  |T0:12:12|t |cfff2f200Frost Burn|r |T0:12:12|t 
+[ 43.70] <Chromaggus>  |T0:12:12|t |cfff2f200Incinerate|r |T0:12:12|t 
+[ 46.90] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[ 50.13] <Chromaggus>  |T0:12:12|t |cfff2f200Corrosive Acid|r |T0:12:12|t 
+[ 53.40] <Chromaggus>  |T0:12:12|t |cfff2f200Ignite Flesh|r |T0:12:12|t 
+[ 57.00] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[ 61.47] <Chromaggus>  |T0:12:12|t |cfff2f200Incinerate|r |T0:12:12|t 
+[ 61.47] <Chromaggus>  |T0:12:12|t |cfff2f200Fetch!|r |T0:12:12|t 
+[ 87.73] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[ 92.20] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[101.90] <Chromaggus>  |T0:12:12|t |cfff2f200Fetch!|r |T0:12:12|t 
+[118.47] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[121.37] <Chromaggus>  |T0:12:12|t |cfff2f200Frost Burn|r |T0:12:12|t 
+[124.60] <Chromaggus>  |T0:12:12|t |cfff2f200Incinerate|r |T0:12:12|t 
+[127.80] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[131.10] <Chromaggus>  |T0:12:12|t |cfff2f200Corrosive Acid|r |T0:12:12|t 
+[134.30] <Chromaggus>  |T0:12:12|t |cfff2f200Ignite Flesh|r |T0:12:12|t 
+[139.17] <Chromaggus>  |T0:12:12|t |cfff2f200Incinerate|r |T0:12:12|t 
+[142.40] <Chromaggus>  |T0:12:12|t |cfff2f200Fetch!|r |T0:12:12|t 
+[149.20] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[153.73] <Chromaggus>  |T0:12:12|t |cfff2f200Time Lapse|r |T0:12:12|t 
+[168.30] <Chromaggus>  |T0:12:12|t |cfff2f200Roll Over!|r |T0:12:12|t 
+[196.17] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[200.70] <Chromaggus>  |T0:12:12|t |cfff2f200Incinerate|r |T0:12:12|t 
+[210.73] <Chromaggus> |cffffb200[Special Warning]  |T0:12:12|t Breath soon |T0:12:12|t |r
+[231.00] <DBM> PLAYER_DIFFICULTY2 (Black) - Chromaggus down after 3 |4minute:minutes; and 50.00 |4second:seconds;!
+[233.10] <DBM> Test playback for test SoD/BWL/Chromaggus/Black/Synthetic finished.
