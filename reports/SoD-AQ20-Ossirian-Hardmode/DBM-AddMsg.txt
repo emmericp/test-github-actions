@@ -1,0 +1,17 @@
+[     ?] <DBM> Starting test: SoD/AQ20/Ossirian/Hardmode
+[  0.00] <DBM> Timewarp >= 10, disabling sounds
+[  0.00] <DBM> DBM was used in test mode with time warping in the current session, it is recommended to reload your UI prior to using DBM in a real boss fight. Everything should still work as expected, but no gurantees!
+[  0.00] <DBM> 20 Player - Ossirian the Unscarred engaged. Good luck and have fun! :)
+[  7.47] <Ossirian the Unscarred>  |T132866:12:12|t |cffff7f00Nature Weakness|r |T132866:12:12|t 
+[ 22.67] <Ossirian the Unscarred>  |T0:12:12|t |cffff1919Enveloping Winds on |r|cffff1919Tank1|r|cffff1919|r |T0:12:12|t 
+[ 52.47] <Ossirian the Unscarred>  |T0:12:12|t |cffff7f00Strength of Ossirian|r |T0:12:12|t 
+[ 54.50] <Ossirian the Unscarred>  |T132866:12:12|t |cffff7f00Frost Weakness|r |T132866:12:12|t 
+[ 80.90] <Ossirian the Unscarred>  |T0:12:12|t |cffff1919Enveloping Winds on |r|cffff1919Tank1|r|cffff1919|r |T0:12:12|t 
+[ 99.50] <Ossirian the Unscarred>  |T0:12:12|t |cffff7f00Strength of Ossirian|r |T0:12:12|t 
+[101.93] <Ossirian the Unscarred>  |T132866:12:12|t |cffff7f00Fire Weakness|r |T132866:12:12|t 
+[114.80] <Ossirian the Unscarred>  |T0:12:12|t |cffff1919Enveloping Winds on |r|cffff1919Tank1|r|cffff1919|r |T0:12:12|t 
+[139.13] <Ossirian the Unscarred>  |T0:12:12|t |cffff1919Enveloping Winds on |r|cffff1919Tank1|r|cffff1919|r |T0:12:12|t 
+[143.40] <Ossirian the Unscarred>  |T132866:12:12|t |cffff7f00Frost Weakness|r |T132866:12:12|t 
+[173.07] <Ossirian the Unscarred>  |T0:12:12|t |cffff1919Enveloping Winds on |r|cffff1919Tank1|r|cffff1919|r |T0:12:12|t 
+[180.23] <DBM> 20 Player - Ossirian the Unscarred down after 2 |4minute:minutes; and 59.23 |4second:seconds;!
+[182.33] <DBM> Test playback for test SoD/AQ20/Ossirian/Hardmode finished.
